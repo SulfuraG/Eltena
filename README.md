@@ -8,19 +8,17 @@ Pure Paperプラグイン3本とNeoForgeクライアントMod3本について、
 | [EltenaEffectCore](plugins/EltenaEffectCore) | [EltenaEffect](mods/EltenaEffect) | 演出要求、シーケンス、カメラ、画面効果・シェーダー |
 | [EltenaSoundCore](plugins/EltenaSoundCore) | [EltenaSound](mods/EltenaSound) | 音声要求、通常SE、ゲーム中の音声転送・再生 |
 
-サーバーはPure Paper / Java 21、NeoForgeはクライアント側だけです。旧Youer環境やHybridの実装ではありません。判定・保存の正本はサーバー側です。
+サーバー側はPure Paper / Java 21、クライアント側はNeoForgeを使います。プレイヤーの状態や判定はサーバーで管理し、画面表示や音声などをクライアントで処理します。
 
-**ライブアセットとして実装されているのはゲーム中の音声転送・再生までです。画像・モデル・フォントなど音声以外の転送・更新は実装していません。** manifestの受信を自動差分同期とは扱いません。
+ゲーム中にサーバーから音声ファイルを送り、クライアントで再生する仕組みも収録しています。画像・モデル・フォントの転送機能はありません。
 
 ## 収録内容
 
-- 匿名化済みの自作6本のコード、ビルド定義、設定、技術資料。
-- Modern Font Pack由来のフォント画像251点と元のフォント参照定義。Addonの専用UI用で、Minecraft全体のフォント置換ではありません。
-- DRAGON-STUDIOのドラゴン咆哮音を通常SE用とライブ音声転送用の2箇所へ収録。同じ音源の2用途です。
-- BGM3点とレベルアップ音は非収録。元YAMLとsounds.jsonはdocs/reference-resourcesに技術資料として残します。
-- 前回検討した標準フォント・標準音への代替定義はdocs/prior-publication-substitutesに区別して保存し、実装からは参照しません。
+- 上記6本のソースコード、設定例、ビルド手順と実装の解説。
+- EltenaAddonの画面表示で使うフォント画像と、その文字の割り当て設定。フォント画像はModern Font Pack由来です。
+- ドラゴンの咆哮音。通常の効果音として鳴らす処理と、ゲーム中にサーバーから音声を転送して鳴らす処理の両方で使用します。
 
-第三者jar、ワールド、プレイヤーデータ、ログ、キャッシュ、他の自作プラグインは含みません。LifeAction系を作成済みとして扱いません。自動配備処理はなく、ビルドしても既存サーバーへコピーしません。
+BGMとレベルアップ音のファイルは収録していません。音声設定の書き方と参照関係は[音声実装資料](docs/SOUND_IMPLEMENTATION.md)で確認できます。素材の出典と利用条件は[第三者素材の通知](THIRD_PARTY_NOTICES.md)を参照してください。
 
 ## 読み方
 
