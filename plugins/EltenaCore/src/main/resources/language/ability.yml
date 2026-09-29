@@ -1,0 +1,14 @@
+ability:
+  used: "{ability}を使用しました。"
+  denied:
+    generic: "アビリティを使用できません。"
+    no-mp: "MP不足です。"
+    cooldown: "クールダウン中です。"
+    cooldown-remaining: "クールダウン中です。残り: {seconds}秒"
+    locked: "このアビリティは未解放です。"
+    missing-skill-requirements: "必要スキルを習得していません。"
+    invalid-weapon: "この武器では使用できません。"
+    execute-failed: "アビリティの発動に失敗しました。"
+    unknown: "アビリティが見つかりません。"
+    empty-slot: "そのスロットにはアビリティが装備されていません。"
+    invalid-slot: "無効なアビリティスロットです。"

@@ -1,0 +1,49 @@
+id: dimension_shift
+type: screen_effect
+display-name: "次元ずれ演出"
+visual-pattern: DIMENSION_SHIFT
+duration-ms: 2500
+strength: 1.0
+fade-in-ms: 180
+fade-out-ms: 1100
+color:
+  r: 0.60
+  g: 0.78
+  b: 1.0
+  a: 0.18
+shader:
+  enabled: true
+  layers:
+    - type: CHROMATIC_ABERRATION
+      strength: 0.016
+      edge-only: false
+      start-progress: 0.0
+      end-progress: 0.85
+      curve: ease_out
+    - type: TIME_WARP
+      strength: 0.44
+      frequency: 5.2
+      speed: 1.0
+      smear: 0.32
+      refraction-strength: 0.32
+      direction: diagonal_right
+      start-progress: 0.08
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: SCREEN_SHAKE_WARP
+      strength: 0.22
+      wobble: 0.36
+      speed: 0.9
+      direction: diagonal_right
+      start-progress: 0.0
+      end-progress: 0.72
+      curve: ease_in_out
+    - type: MOTION_BLUR_FAKE
+      strength: 0.28
+      samples: 6
+      radius: 0.18
+      direction: diagonal_right
+      smear: 0.35
+      start-progress: 0.12
+      end-progress: 0.55
+      curve: ease_out

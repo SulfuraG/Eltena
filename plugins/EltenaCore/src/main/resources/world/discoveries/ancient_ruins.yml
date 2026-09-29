@@ -1,0 +1,5 @@
+id: ancient_ruins
+display-name: "古代遺跡"
+world-rank-exp: 10
+title-reward: "explorer"
+first-discovery-id: "ancient_ruins_first"

@@ -1,0 +1,5 @@
+id: armorplus_ender_dragon_chest
+match:
+  item-id: "armorplus:ender_dragon_chestplate"
+stats:
+  defense: 10

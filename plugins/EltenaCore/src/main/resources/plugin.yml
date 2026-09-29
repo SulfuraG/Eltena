@@ -1,0 +1,145 @@
+name: EltenaCore
+version: ${version}
+main: com.eltena.core.bootstrap.EltenaCorePlugin
+description: New Eltena S core plugin
+author: Eltena contributors
+api-version: "1.21"
+load: POSTWORLD
+prefix: EltenaCore
+softdepend:
+  - PlaceholderAPI
+  - Skript
+  - MythicMobs
+  - EltenaMobHP
+commands:
+  eltenacore:
+    description: EltenaCore command
+    usage: /eltenacore <reload|profile|stats|debug|resetplayer|exp|job|title|menu|settings|status|jobs|titles|rank|discovery|worldfirst|unique|ability|mod>
+    aliases: [ec]
+    permission: eltenacore.command.use
+permissions:
+  eltenacore.admin:
+    description: EltenaCore admin permissions
+    default: op
+    children:
+      eltenacore.command.use: true
+      eltenacore.reload: true
+      eltenacore.debug: true
+      eltenacore.exp.admin: true
+      eltenacore.menu.open: true
+      eltenacore.ability.use: true
+      eltenacore.command.reload: true
+      eltenacore.command.profile: true
+      eltenacore.command.stats: true
+      eltenacore.command.debug: true
+      eltenacore.command.resetplayer: true
+      eltenacore.command.exp: true
+      eltenacore.command.job: true
+      eltenacore.command.title: true
+      eltenacore.command.menu: true
+      eltenacore.command.settings: true
+      eltenacore.command.settings.others: true
+      eltenacore.command.world: true
+      eltenacore.command.mod: true
+      eltenacore.command.ability: true
+  eltenacore.command.use:
+    description: Use EltenaCore commands
+    default: true
+  eltenacore.reload:
+    description: Reload EltenaCore
+    default: op
+    children:
+      eltenacore.command.use: true
+      eltenacore.command.reload: true
+  eltenacore.debug:
+    description: View EltenaCore debug information
+    default: op
+    children:
+      eltenacore.command.use: true
+      eltenacore.command.debug: true
+  eltenacore.exp.admin:
+    description: Manage experience commands
+    default: op
+    children:
+      eltenacore.command.use: true
+      eltenacore.command.exp: true
+  eltenacore.menu.open:
+    description: Open EltenaCore status menus
+    default: false
+    children:
+      eltenacore.command.use: true
+      eltenacore.command.menu: true
+  eltenacore.ability.use:
+    description: Use addon ability features
+    default: true
+  eltenacore.command.reload:
+    description: Use the reload subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.profile:
+    description: Use the profile subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.stats:
+    description: Use the stats subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.debug:
+    description: Use the debug subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.resetplayer:
+    description: Use the resetplayer subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.exp:
+    description: Use the exp subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.job:
+    description: Use the job subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.title:
+    description: Use the title subcommand
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.menu:
+    description: Use the menu subcommand
+    default: false
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.settings:
+    description: Open your settings menu
+    default: true
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.settings.others:
+    description: View or open another player's settings
+    default: op
+    children:
+      eltenacore.command.use: true
+      eltenacore.command.settings: true
+  eltenacore.command.world:
+    description: Use world progression subcommands
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.mod:
+    description: Use addon sync subcommands
+    default: op
+    children:
+      eltenacore.command.use: true
+  eltenacore.command.ability:
+    description: Use the ability subcommand
+    default: op
+    children:
+      eltenacore.command.use: true

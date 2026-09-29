@@ -1,0 +1,26 @@
+growth:
+  exp:
+    invalid-amount: "EXP は 1 以上で指定してください。"
+    added: "&a+{amount} EXP"
+    kill-gained: "&a+{amount} EXP"
+    kill-gained-named: "&a+{amount} EXP &f{target}"
+  level:
+    up: "&6レベル &e{level} &6に到達しました。"
+    reward-summary: "&7{summary}"
+    reward:
+      hp: "HP +{value}"
+      max-mp: "最大MP +{value}"
+  ability:
+    unlocked: "{ability} を解放しました。"
+  skill:
+    available: "{skill} は Lv{level} で解放できます。"
+    learn-in-tree: "スキルツリーから取得してください。"
+  mastery:
+    invalid-amount: "熟練度の値が不正です。"
+  stat:
+    invalid-amount: "能力値の値が不正です。"
+    legacy-disabled: "旧来の能力値操作は使用できません。"
+  type:
+    attack: "攻撃"
+    defense: "防御"
+    mp: "MP"

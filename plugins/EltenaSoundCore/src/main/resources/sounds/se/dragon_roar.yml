@@ -1,0 +1,9 @@
+id: dragon_roar
+type: se
+display-name: "ドラゴンの咆哮"
+sound-event: "eltenasound:se.dragon_roar"
+category: SYSTEM
+loop: false
+volume: 1.0
+pitch: 1.0
+duration-ms: 3436

@@ -1,0 +1,49 @@
+id: time_distortion
+type: screen_effect
+display-name: "時間歪曲演出"
+visual-pattern: TIME_DISTORTION
+duration-ms: 3500
+strength: 1.0
+fade-in-ms: 250
+fade-out-ms: 1300
+color:
+  r: 0.72
+  g: 0.78
+  b: 0.88
+  a: 0.14
+shader:
+  enabled: true
+  layers:
+    - type: TIME_WARP
+      strength: 0.52
+      frequency: 6.4
+      speed: 1.1
+      smear: 0.36
+      refraction-strength: 0.4
+      direction: diagonal_right
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: GHOSTING
+      strength: 0.34
+      direction: right
+      smear: 0.46
+      start-progress: 0.08
+      end-progress: 0.95
+      curve: ease_in_out
+    - type: CHROMATIC_ABERRATION
+      strength: 0.01
+      edge-only: false
+      direction: diagonal_right
+      start-progress: 0.0
+      end-progress: 0.85
+      curve: ease_out
+    - type: MOTION_BLUR
+      strength: 0.22
+      samples: 6
+      radius: 0.18
+      direction: right
+      smear: 0.24
+      start-progress: 0.18
+      end-progress: 0.78
+      curve: ease_out

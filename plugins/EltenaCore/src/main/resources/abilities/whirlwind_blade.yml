@@ -1,0 +1,20 @@
+id: whirlwind_blade
+display-name: "旋風剣"
+description:
+  - "周囲を巻き込み、連続斬撃を放ちます。"
+category: "attack"
+icon: "minecraft:wind_charge"
+cooldown: 12
+cost:
+  mp: 12
+weapon-types:
+  - sword
+  - greatsword
+requires:
+  skills:
+    - storm_blade
+effects:
+  damage-multiplier: 1.15
+executor:
+  type: "mythicmobs"
+  skill: "Eltena_WhirlwindBlade"

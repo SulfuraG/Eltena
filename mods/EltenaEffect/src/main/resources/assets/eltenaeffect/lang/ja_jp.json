@@ -1,0 +1,10 @@
+{
+  "log.eltenaeffect.transport": "EltenaEffectデータを受信しました。transportBytes=%s jsonBytes=%s",
+  "log.eltenaeffect.received": "地震演出データを受信しました: %s",
+  "log.eltenaeffect.decode_error": "EltenaEffectデータを解析できませんでした: %s",
+  "log.eltenaeffect.unknown_type": "未対応の演出タイプを受信しました: %s",
+  "log.eltenaeffect.skip_no_player": "プレイヤーの準備が完了していないため演出を省略しました。",
+  "log.eltenaeffect.skip_out_of_range": "プレイヤーが範囲外のため地震演出を省略しました: %s",
+  "log.eltenaeffect.world_hint": "受信ワールド=%s 現在のディメンション=%s",
+  "log.eltenaeffect.started": "地震演出を開始しました: %s"
+}

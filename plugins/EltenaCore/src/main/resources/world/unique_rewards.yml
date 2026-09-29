@@ -1,0 +1,5 @@
+enabled: true
+load-folder: world/unique_rewards
+legacy-enabled: true
+defaults: {}
+world-unique: {}

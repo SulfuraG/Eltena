@@ -1,0 +1,5 @@
+enabled: true
+load-folder: equipment
+legacy-enabled: true
+defaults: {}
+equipment: {}

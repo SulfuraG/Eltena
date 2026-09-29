@@ -1,0 +1,23 @@
+id: dragon_roar_area
+enabled: true
+display-name: "咆哮テストエリア"
+
+trigger:
+  type: BOX_ENTER
+  world: eltena_world
+  min:
+    x: 10
+    y: 60
+    z: 10
+  max:
+    x: 25
+    y: 120
+    z: 25
+
+conditions:
+  permission-bypass: eltenaeffect.trigger.bypass
+  cooldown-ms: 30000
+
+actions:
+  - type: sequence
+    id: dragon_roar_showcase

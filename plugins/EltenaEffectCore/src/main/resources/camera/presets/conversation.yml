@@ -1,0 +1,34 @@
+# サーバー側正本の会話演出向け固定座標カメラです。
+# 現段階では確認優先のため移動を許可していますが、会話・カットシーン用 preset として使う想定です。
+
+preset:
+  id: conversation
+  display-name: "会話カメラ"
+  enabled: true
+  mode: fixed_world
+
+  world-position:
+    world: "world"
+    x: 4.5
+    y: 76.0
+    z: 4.5
+
+  rotation:
+    yaw: 135.0
+    pitch: 8.0
+    roll: 0.0
+
+  movement:
+    allow-player-movement: true
+    allow-camera-movement: false
+    lock-player-input: false
+
+  smoothing:
+    enabled: true
+    position-smooth-time: 0.8
+    rotation-smooth-time: 0.45
+
+  behavior:
+    reset-on-disable: true
+    restore-player-camera-on-disable: true
+    use-virtual-entity-camera: true

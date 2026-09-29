@@ -1,0 +1,16 @@
+id: diva_prelude
+display-name: "前奏の詩"
+description:
+  - "攻撃前に短時間の支援効果を付与します。"
+category: "buff"
+icon: "minecraft:book"
+cooldown: 10
+cost:
+  mp: 20
+weapon-types:
+  - any
+requires:
+  skills: []
+executor:
+  type: "mythicmobs"
+  skill: "Diva_Prelude"

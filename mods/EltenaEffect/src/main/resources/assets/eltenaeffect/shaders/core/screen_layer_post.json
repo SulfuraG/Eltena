@@ -1,0 +1,37 @@
+{
+  "vertex": "eltenaeffect:screen_layer_post",
+  "fragment": "eltenaeffect:screen_layer_post",
+  "samplers": [
+    { "name": "DiffuseSampler" }
+  ],
+  "uniforms": [
+    { "name": "LayerType", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "Strength", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "BlurRadius", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Progress", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "LayerProgress", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "FocusLoss", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "PressurePeak", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Aftershock", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "SampleCount", "type": "int", "count": 1, "values": [ 8 ] },
+    { "name": "Frequency", "type": "float", "count": 1, "values": [ 8.0 ] },
+    { "name": "Speed", "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "EdgeOnly", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "DirectionMode", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "TintColor", "type": "float", "count": 4, "values": [ 1.0, 1.0, 1.0, 0.0 ] },
+    { "name": "NoiseStrength", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Wobble", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "BlurScale", "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "RefractionStrength", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Desaturation", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Smear", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Pulse", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "BurstCount", "type": "int", "count": 1, "values": [ 24 ] },
+    { "name": "BurstLength", "type": "float", "count": 1, "values": [ 0.85 ] },
+    { "name": "BurstSharpness", "type": "float", "count": 1, "values": [ 12.0 ] },
+    { "name": "CenterBias", "type": "float", "count": 1, "values": [ 0.35 ] },
+    { "name": "EdgeBias", "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "BurstChromaticOffset", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Time", "type": "float", "count": 1, "values": [ 0.0 ] }
+  ]
+}

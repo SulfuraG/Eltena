@@ -1,0 +1,10 @@
+id: bgm_first_field
+type: bgm
+display-name: "最初のフィールドBGM"
+sound-event: "eltenasound:bgm.first_field"
+category: BGM
+loop: true
+volume: 1.0
+pitch: 1.0
+fade-in-ms: 3000
+fade-out-ms: 3000

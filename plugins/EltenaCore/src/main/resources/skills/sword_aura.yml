@@ -1,0 +1,20 @@
+id: sword_aura
+display-name: "剣気"
+description:
+  - "剣に気をまとわせ、派生技の基礎にする。"
+category: "sword"
+icon: "minecraft:amethyst_shard"
+max-rank: 1
+required-points: 5
+position:
+  x: 900
+  y: 210
+requires:
+  all:
+    - heavy_slash
+  ranks:
+    heavy_slash: 2
+effects:
+  attack-damage:
+    type: "flat"
+    value: 4

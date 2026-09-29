@@ -1,0 +1,53 @@
+id: heat_haze
+type: screen_effect
+display-name: "熱気揺らぎ演出"
+visual-pattern: HEAT_HAZE
+duration-ms: 8000
+strength: 0.65
+fade-in-ms: 1200
+fade-out-ms: 2000
+color:
+  r: 1.0
+  g: 0.68
+  b: 0.30
+  a: 0.08
+shader:
+  enabled: true
+  layers:
+    - type: HEAT_REFRACTION
+      strength: 0.42
+      frequency: 5.5
+      speed: 0.75
+      wobble: 0.55
+      refraction-strength: 0.48
+      color:
+        r: 1.0
+        g: 0.72
+        b: 0.36
+        a: 0.22
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: NOISE_FOG
+      strength: 0.1
+      noise-strength: 0.1
+      frequency: 3.0
+      speed: 0.3
+      color:
+        r: 1.0
+        g: 0.78
+        b: 0.48
+        a: 0.16
+      start-progress: 0.15
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: COLOR_GRADE
+      strength: 0.1
+      color:
+        r: 1.0
+        g: 0.68
+        b: 0.34
+        a: 0.18
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out

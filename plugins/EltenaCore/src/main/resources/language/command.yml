@@ -1,0 +1,11 @@
+command:
+  weapon-type:
+    sword: "剣"
+    greatsword: "大剣"
+    axe: "斧"
+    spear: "槍"
+    bow: "弓"
+    staff: "杖"
+    dagger: "短剣"
+    fist: "格闘"
+    other: "その他"

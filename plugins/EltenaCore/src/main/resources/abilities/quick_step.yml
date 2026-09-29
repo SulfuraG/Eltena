@@ -1,0 +1,17 @@
+id: quick_step
+display-name: "クイックステップ"
+description:
+  - "素早く距離を取り、回避行動を行います。"
+category: "movement"
+icon: "minecraft:feather"
+cooldown: 5
+cost:
+  mp: 5
+weapon-types:
+  - any
+requires:
+  skills:
+    - quick_step
+executor:
+  type: "mythicmobs"
+  skill: "Eltena_QuickStep"

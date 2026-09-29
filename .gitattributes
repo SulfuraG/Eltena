@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.png binary
+*.ogg binary
+THIRD_PARTY/ModernFontPack/OFL.txt -text whitespace=-blank-at-eol
+mods/EltenaAddon/src/main/resources/assets/eltenaaddon/font/ui.json -text whitespace=cr-at-eol

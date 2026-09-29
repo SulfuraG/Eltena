@@ -1,0 +1,42 @@
+{
+  "bgm.field_test": {
+    "sounds": [
+      {
+        "name": "eltenasound:bgm/field_test",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.first_field": {
+    "sounds": [
+      {
+        "name": "eltenasound:bgm/first_field",
+        "stream": true
+      }
+    ]
+  },
+  "bgm.first_village": {
+    "sounds": [
+      {
+        "name": "eltenasound:bgm/first_village",
+        "stream": true
+      }
+    ]
+  },
+  "se.level_up_test": {
+    "sounds": [
+      {
+        "name": "eltenasound:se/level_up_test",
+        "stream": false
+      }
+    ]
+  },
+  "se.dragon_roar": {
+    "sounds": [
+      {
+        "name": "eltenasound:se/dragon_roar",
+        "stream": false
+      }
+    ]
+  }
+}

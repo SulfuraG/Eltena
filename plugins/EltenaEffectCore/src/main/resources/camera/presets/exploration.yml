@@ -1,0 +1,36 @@
+# サーバー側正本の相対確認カメラです。
+# relative_player はプレイヤー body/base anchor を基準に相対配置します。
+
+preset:
+  id: exploration
+  display-name: "相対確認カメラ"
+  enabled: true
+  mode: relative_player
+
+  relative-position:
+    # プレイヤー基準点から後方へ離す距離
+    distance: 6.0
+    # プレイヤー基準点から上方向へ上げる量
+    vertical-offset: 2.2
+    # プレイヤー基準点から左右へずらす量。正の値は右肩側、負の値は左肩側
+    horizontal-offset: 1.2
+    # プレイヤー基準点から前方へずらす量
+    forward-offset: 0.0
+
+  movement:
+    # 確認用 preset のため、VirtualCamera ON 中も通常移動を許可します。
+    allow-player-movement: true
+    allow-camera-movement: false
+    lock-player-input: false
+
+  smoothing:
+    # false の場合、target 位置と角度へ即時反映します。
+    enabled: false
+    # 0.0 以下なら即時反映です。
+    position-smooth-time: 0.0
+    rotation-smooth-time: 0.0
+
+  behavior:
+    reset-on-disable: true
+    restore-player-camera-on-disable: true
+    use-virtual-entity-camera: true

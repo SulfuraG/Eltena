@@ -1,0 +1,28 @@
+# サーバー側正本の日常演出向け相対カメラです。
+
+preset:
+  id: life_action
+  display-name: "ライフアクションカメラ"
+  enabled: true
+  mode: relative_player
+
+  relative-position:
+    distance: 5.6
+    vertical-offset: 2.0
+    horizontal-offset: 0.8
+    forward-offset: 0.4
+
+  movement:
+    allow-player-movement: true
+    allow-camera-movement: false
+    lock-player-input: false
+
+  smoothing:
+    enabled: true
+    position-smooth-time: 0.18
+    rotation-smooth-time: 0.12
+
+  behavior:
+    reset-on-disable: true
+    restore-player-camera-on-disable: true
+    use-virtual-entity-camera: true

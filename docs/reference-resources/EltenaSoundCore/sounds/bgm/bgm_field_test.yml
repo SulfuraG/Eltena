@@ -1,0 +1,10 @@
+id: bgm_field_test
+type: bgm
+display-name: "フィールドBGMテスト"
+sound-event: "eltenasound:bgm.field_test"
+category: BGM
+loop: true
+volume: 1.0
+pitch: 1.0
+fade-in-ms: 2000
+fade-out-ms: 2000

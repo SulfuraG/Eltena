@@ -1,0 +1,1267 @@
+[
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/ascii.png",
+    "sha256": "e065feaaafd13006df7b0740d4fe14cdb9bec72f41a00dd56fe3dc039add0bed",
+    "bytes": 94032
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/ascii_sga.png",
+    "sha256": "d7fce707a2f9638b97b485fae6ae623b89ebd3be22ad0d930057c9f165290c05",
+    "bytes": 41517
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension1.png",
+    "sha256": "8b5fe373a2ae3670bacd8e846a2e0afd28a68afe600ccfc0a3550a33c844cfd7",
+    "bytes": 175737
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension2.png",
+    "sha256": "9f82f217b219e2f2297b2847d76abaa169ee13d7fdf4fe1cb90d135cba9b8771",
+    "bytes": 211984
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension3.png",
+    "sha256": "5b33ffd1eb55b80bf2fafe1f7dc96c2ed17bfc5f8724f65513c02883aacec7c8",
+    "bytes": 205050
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension4.png",
+    "sha256": "69898d35b9a00013ddb63fd49ce3d82dc5d5afb950203454e00b7148240362f5",
+    "bytes": 236144
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension5.png",
+    "sha256": "bf08f6eb65d43b36b28ee28d28027b6bcfff625cb1387b65c03a85a9a423c4bb",
+    "bytes": 203601
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension6.png",
+    "sha256": "04f79aa940dffb19b7530b1e0aa8da16e042ce27d40fb4ce2786df744631d8b6",
+    "bytes": 213510
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension7.png",
+    "sha256": "5574577a1c1f4d25c5008f5b89f2b84135122bb8f6ae83718fff61a501275fd8",
+    "bytes": 216550
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension8.png",
+    "sha256": "e9cace8011c3eafbdd28aacf9d2e8c8627a57d7b65bcd96838839f2155c1b35a",
+    "bytes": 237104
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension9.png",
+    "sha256": "918d4c576ade1d771513d92791761b4b1ab00b8606f4825304fb5039eadd6585",
+    "bytes": 157645
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_bmp.png",
+    "sha256": "3c7db0f184280c7f430ce4162569abea1ee122d4e150c5e0ed516f07b0a87b6a",
+    "bytes": 130488
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp1.png",
+    "sha256": "9544fe41b9bd6a3615743d3aeb037034389c33ecc5bdcf9d05f33247fb078a06",
+    "bytes": 271658
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp2.png",
+    "sha256": "e32afe481b3885b53ec8937cc559e77d06521fcf5c00ec2669a0deca330b9463",
+    "bytes": 297259
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp3.png",
+    "sha256": "cb9dc024c2a7cddefc9e9682ecf8b9c63b29325d33526b85561a72ce511191c3",
+    "bytes": 238071
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp4.png",
+    "sha256": "19776e9bf144f2e1681ab21807f83ddccc9ea78369790060f47c04112f6a35ba",
+    "bytes": 298113
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp5.png",
+    "sha256": "b8a619814f16242ac92896b4652cb74c33eee39776b6983eaaed792c5afda81b",
+    "bytes": 195243
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters1.png",
+    "sha256": "5e312d5c2039c99b9b15bb409ff6a770f64850377997c42e54a534830e6c63c9",
+    "bytes": 129776
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters2.png",
+    "sha256": "d86208b143b69bffaba93c6f9b55c01402061aaa9c7d144ef7724a23147bac28",
+    "bytes": 115612
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters3.png",
+    "sha256": "b2e4582ecd0d8b1b34225716cefbcd6511bc4f3f3b4803226036e76e5876a8e3",
+    "bytes": 119650
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters4.png",
+    "sha256": "fe7fadf0137e5080ededdd8683676d7aacf9d1ecf4308ecee3e438b1028818ea",
+    "bytes": 122236
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters5.png",
+    "sha256": "da9f18099cc4a51b90c4d3c446d94de4fac81545aa8ea5ae412d0ff8407a6757",
+    "bytes": 68812
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp1.png",
+    "sha256": "d390fcb11e246b3fd3331c2144e3f4e344820e9cecce0dc69b9ae7c753772560",
+    "bytes": 103964
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp2.png",
+    "sha256": "c8a037448eec8cb8748ef308b568cdd5ca1794a8e248deb2c80d65c81c62c063",
+    "bytes": 146051
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp3.png",
+    "sha256": "e721318dfc4d822d8f2acc807193799f9114b7d18b22755f22b5dbfa376369c0",
+    "bytes": 158164
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp4.png",
+    "sha256": "69d3ff2068593d705df1dba5b19a7d94610248951c83c7fe55bc4a612f288d8b",
+    "bytes": 115593
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp5.png",
+    "sha256": "f5fff9e7f3683761a35ca7fbb2eb571b51d66e72fc7aac1381b3dbcfa07e8e56",
+    "bytes": 120956
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp6.png",
+    "sha256": "83365d3fd30366db65a1122bcce67ea91baa0564e5356e4dc9d4c2d60069d62c",
+    "bytes": 33587
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_00.png",
+    "sha256": "35479252780595dab6c4a5e604e034030afbb7cecaed9d60f2ebcc7e1334ace4",
+    "bytes": 75400
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_01.png",
+    "sha256": "8e7597c2ff5a4c103eae9ac68f3401c165e402453260d2e1f9c244375e7a7651",
+    "bytes": 97132
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_02.png",
+    "sha256": "7af875ffcc16214aea246b0656e77bcb90e7fb0ae1f9f02158f23e1b88df71aa",
+    "bytes": 83172
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_03.png",
+    "sha256": "40fdcf1b120a3d44430d83affecbd6a9fda466d9387ab6480b7bac180315e603",
+    "bytes": 75027
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_04.png",
+    "sha256": "9b4c96a1075421be01949b70218eb5eb7716db3fdfb1a0034484c029ebe028aa",
+    "bytes": 103096
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_05.png",
+    "sha256": "03899678a99745f4569ad3d799cde30a38a08b7d7496df4bec2886ed422058c4",
+    "bytes": 71967
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_06.png",
+    "sha256": "4c33d2fca5bffa1231582cd985af8a239ec025f0e1861ec0ee915fdc5e96bad1",
+    "bytes": 82246
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_07.png",
+    "sha256": "018d1e74550badca5c15b9877b43b0ed8a29cd0a34182a2ce4b32d5b02e65b1c",
+    "bytes": 64224
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_08.png",
+    "sha256": "8e916bbd8965d164838bb92de2f44ec9750e145b69fb05d09ab49aae550354c1",
+    "bytes": 58506
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_09.png",
+    "sha256": "83eb595543f3ddf13956fa1c245bfada4d78304e7327a7d103f605aae7714393",
+    "bytes": 93798
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0a.png",
+    "sha256": "3ad6cd9426a2dcb423d95e11f31db99022548e97d0f470f8af6df1a179909f0e",
+    "bytes": 79320
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0b.png",
+    "sha256": "159cddfcfafb8691ca5bfdbe22f1d1da7a3c1eb05bd87a1bc0739f3a1c72e6a8",
+    "bytes": 94628
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0c.png",
+    "sha256": "21730e96490dad55b218b8194ba497067ceb7a61c9feb1ae9b502afa83dba83c",
+    "bytes": 102640
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0d.png",
+    "sha256": "a9e4b8f7adcc641c13ec01a3380948504fa80477ff000437c2e8b39b5691de6c",
+    "bytes": 119958
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0e.png",
+    "sha256": "5fc8d16e392bee32f7a717ccddd1f9f02be1c22eb775d34b066bc931765d4bb6",
+    "bytes": 60436
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0f.png",
+    "sha256": "4e9774c142028ba217d685bbc2a33d331e4bff6c61b100792059ec33d2be6c49",
+    "bytes": 105810
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_10.png",
+    "sha256": "236cca12d7c379ee215c4c17523a6394ce80dbca8ee9fb178950403225d23180",
+    "bytes": 113799
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_11.png",
+    "sha256": "fd942a95a7c002a6a3eab8b19491f4723fa3392599fdbd5aaf68baaf66135b4f",
+    "bytes": 50966
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_12.png",
+    "sha256": "1c10e97485860ad613a2e795ded8472f7793f09164cf719b7e60964a7188dbad",
+    "bytes": 83481
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_13.png",
+    "sha256": "1ccb6028c9fdf267bffee088f86f9f71b55bfc09c855a21fcf20ed74af5e8ba0",
+    "bytes": 105502
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_14.png",
+    "sha256": "5999e4487addd268480f52b6b485ffa682374e454b6d13888012b1ea644cef9c",
+    "bytes": 59495
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_15.png",
+    "sha256": "e9647f28f4d4b02ed3861ee94314c92b118f6cbac916511dcf01cb6d9940ba5a",
+    "bytes": 82694
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_16.png",
+    "sha256": "b9931c457380fc80c5bd2f99b6742147a7d94dfcf871114e9d5032fcf005ad18",
+    "bytes": 80828
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_17.png",
+    "sha256": "71a889ddab72ac0445716d46981547de8ea217eb801c3eccc18e71aaca0cf07f",
+    "bytes": 78833
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_18.png",
+    "sha256": "018c7161c5f0b9b07c0d2daf4ab17f6e22c1515d30952d809c066c4e07c8f7e3",
+    "bytes": 90436
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_19.png",
+    "sha256": "d7b84837b48ab62f8e1eaf673871a337616e7199d71245ac44781b46bec90d2b",
+    "bytes": 96890
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1a.png",
+    "sha256": "fbe7a73779bd283613630d57fa78c694b67b3dbd3ea53201c8beaead259c964f",
+    "bytes": 75816
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1b.png",
+    "sha256": "2b01a83e93007414499100f8b7eade4358c61cb92f6e4cde1bc3847f18ab5500",
+    "bytes": 103441
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1c.png",
+    "sha256": "269db895b71b96a3869b5523d499a9d53d4a8304775d2ad1eb5b59e3689f2706",
+    "bytes": 78706
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1d.png",
+    "sha256": "1ba8fdc097e5abe3ae5ad72c3886cd7c10ce060e8f07f1706e23f220a883b5c3",
+    "bytes": 71286
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1e.png",
+    "sha256": "690eee1ddd7e09ce23d4e844ffa8c18f3933768b81db563014bbb434024e7717",
+    "bytes": 81069
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1f.png",
+    "sha256": "86423d0e3869ed318e9684ddb9fc9d72d7fb5fe70cc461749ea2e0ed0dd5b0ea",
+    "bytes": 80659
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_20.png",
+    "sha256": "67ddb9ab80ace4a0279250c778570db6e9e3dde54099e61a4535ba36727687a6",
+    "bytes": 59395
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_21.png",
+    "sha256": "15be3c8135bd28251f231a1363d7a0681ad6e88efbcdeb7bfbe14eeeae0839ca",
+    "bytes": 111617
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_22.png",
+    "sha256": "a7e11e3383be4e58ba587d0d7afdab8b3ac443e2b39bd546f24267a3c3b7f293",
+    "bytes": 84893
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_23.png",
+    "sha256": "a4f64d87edc4f4643702724c46c05aad35100bf1b913e99457034746b5a5c218",
+    "bytes": 98470
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_24.png",
+    "sha256": "d52c18ff5a0024f127f50999f55de470a27800f46883601724224663dbdf0661",
+    "bytes": 129503
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_25.png",
+    "sha256": "4d0fca0dbb2f3d2f58ed2fd6b0b1ff76672d63aeec938bf50eb5dbbc145c0365",
+    "bytes": 45313
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_26.png",
+    "sha256": "b6690d30384ee534b4df9e3ad8b4cd9e68df364644728829c81544c6e7649c67",
+    "bytes": 174879
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_27.png",
+    "sha256": "d39fa315da5eb7e83d848c349eccf6bebba04d63b9ffc2456ccc15a353cb4c25",
+    "bytes": 131038
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_28.png",
+    "sha256": "94a1078913cf1c97e84d05c34c39ed4fa2ea9415032ce7e7150eca8f9b58d16c",
+    "bytes": 50591
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_29.png",
+    "sha256": "e247b32646b72e3250cd15233e26ea12ad479a47635fa0c5a25103c74d72ce3a",
+    "bytes": 80496
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2a.png",
+    "sha256": "8d409ef38b394f0508f52aa558bde9f7573fa5a1a1df19ff90dce0fe2c057c86",
+    "bytes": 86913
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2b.png",
+    "sha256": "ca7dbe8e8da97b8cde7210e8e4add1aa264bef7ecc59fe2ceb79d03441b7f4b0",
+    "bytes": 73796
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2c.png",
+    "sha256": "ef8cdc137d5c928394fe80baeaba7127bd9b66c6d8f593aef1a0160a44dcaca2",
+    "bytes": 54316
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2d.png",
+    "sha256": "c7d81dbee1237228496b9ec4a2d39c00f8f62de22b6123e8beada2c85637e49a",
+    "bytes": 76871
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2e.png",
+    "sha256": "cf6a17cdc6c3a20eb2360f5173ffe9a5d2c7104a524351f1b792f31d74058a9e",
+    "bytes": 71806
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2f.png",
+    "sha256": "76ed4a960dc2841af97b51b6177ddb79ee8240565df1e2b7697b0bde7468d349",
+    "bytes": 110934
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_30.png",
+    "sha256": "8c77029d0468960c54172454c70906036c94b6fc5766d5f6030594be48360e23",
+    "bytes": 131025
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_31.png",
+    "sha256": "00258a8387feffbd7761ce222465a68301b9cdcb582fdf5d1786996fb6eb33af",
+    "bytes": 76022
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_32.png",
+    "sha256": "6b2b8ce9d6bfc50a2f88a3ec0b9a03de62cd297194cf7c1c864ca73e327ce70e",
+    "bytes": 190259
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_33.png",
+    "sha256": "6eaec0d49c0621ba059faf043a2408565e3275b3c25d975f8fa0e2f5a05b30ff",
+    "bytes": 162043
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_34.png",
+    "sha256": "1eb7e8591685f82c3c01b30b20937100966237a4f5e7bb4b8f00712e17a3bb11",
+    "bytes": 180033
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_35.png",
+    "sha256": "2c11e1b94934df2f91b599785303eb6ad9af62c3dbb92167235ecbd1280912fb",
+    "bytes": 165802
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_36.png",
+    "sha256": "02a2c0442ddd97d09d9e63c235e2dfdbe9a37daf592242bca7927cf9f16dbdee",
+    "bytes": 194984
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_37.png",
+    "sha256": "cedf7ed0cd88ea4661ad331b51f2f7a23b8b8b6175c4cad6a7a66f8f1cf70575",
+    "bytes": 181198
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_38.png",
+    "sha256": "5b9c730ce5b96de4e89359702b2049d05d3311519c8e3e3ab5cc1ad4d6847316",
+    "bytes": 183626
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_39.png",
+    "sha256": "78de5834cd9cbd1f8d3a52b6eee2ed5a465c98547b2674d552c97de62e35b733",
+    "bytes": 205703
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3a.png",
+    "sha256": "a3c10373351aafb5ff9fb5fa454a80f8581746944b05c4fe708e5ecf02b62b63",
+    "bytes": 187135
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3b.png",
+    "sha256": "a276a7aeb1cea5a36f4d489983c3fb4bc1708046e70b99b83b4121c7028768e9",
+    "bytes": 204668
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3c.png",
+    "sha256": "8b7d43477c68d15c4d41fe4e61db90205608d124c0e1d6e2f8c30e925ea3a08c",
+    "bytes": 225674
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3d.png",
+    "sha256": "e7de738d7807e66b88fa0f4504de478c0ae6890cbeab8c088956a9a8eb56400c",
+    "bytes": 231960
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3e.png",
+    "sha256": "cf3a59d6a232ba963a9f1ce64c4fda46fe6fe2763b151d9fe513378730e675eb",
+    "bytes": 203240
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3f.png",
+    "sha256": "5d40cfc894377b2d17cc14009e041682f1e4c248a570e23afa96b8a345d167c3",
+    "bytes": 203686
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_40.png",
+    "sha256": "12e247af322c101cf8facb3b54a4b2c2b22ffabdfe43c7a8d785af64c28bb785",
+    "bytes": 181347
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_41.png",
+    "sha256": "bbb6a8ae7ae32a0eaf8b1785cd906114ea5e68ab104cd94f82f375d0a93c50cd",
+    "bytes": 200632
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_42.png",
+    "sha256": "adec7c521463c71bdfa1fad5625b596acd07d427bdc3e11fc542c39b4209d9ef",
+    "bytes": 236440
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_43.png",
+    "sha256": "62b09563c7f48bcca54258c25c74468968e0ccc8c7af9aa76677a1f5a429bb9f",
+    "bytes": 207610
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_44.png",
+    "sha256": "cbb003f09fc8d9c7151bebd125f0f22b99655146c801471c22bb50f65e51e97f",
+    "bytes": 171185
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_45.png",
+    "sha256": "0b7034a9bd6e7b2c54ff34b92b6d63e5a31961ba63e0cd1113cf7856f80903e7",
+    "bytes": 192123
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_46.png",
+    "sha256": "39cc27fd47a20938760824ae5f47f0a0c121073eec94d423dbf77dee794b10f0",
+    "bytes": 193595
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_47.png",
+    "sha256": "b23ae9124dcb9bcb87dc96fdc030f44c849f34d50fe74b028f11f02bbf691157",
+    "bytes": 199193
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_48.png",
+    "sha256": "703349e1d3e91054b5503297b1415ce163421bc3e95ac3347d75f7c09e052c17",
+    "bytes": 177563
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_49.png",
+    "sha256": "23f0173f1e1cc29feec769ae6428bc3ebe8b8f222cb28865ac9b78c9ceaa6c7a",
+    "bytes": 206858
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4a.png",
+    "sha256": "ece581662a66080149de9440fbb558bdbde01115c5bb18d1031633735e77fddd",
+    "bytes": 174137
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4b.png",
+    "sha256": "b116185050c381b9d946c3a11f4d18e9baa12ec1a874d18a1b4904062b1240ed",
+    "bytes": 209597
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4c.png",
+    "sha256": "73776a1af9d74e11d86a65a472d563671d9ee7b36dbda2bf322a4977abe0734b",
+    "bytes": 224811
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4d.png",
+    "sha256": "1ec2c81355b3f1fb316c3bdadfa221253a584e5dd1f5b5840a997251dfecce13",
+    "bytes": 168442
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4e.png",
+    "sha256": "276acdeb94b2995a09d40cfa3280cb865ec7f2a9de789a2c01f1af12026a656c",
+    "bytes": 135523
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4f.png",
+    "sha256": "a15cce9cb7f7635ea9094c0096986e5bc75c1a00825a1e7f1dc6d9619fac6458",
+    "bytes": 175800
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_50.png",
+    "sha256": "3d5334cd37fb00e6646446782ffb613705511f9cc6f6306098a6fbdbe6979b81",
+    "bytes": 191628
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_51.png",
+    "sha256": "0bfa18e6ace400109538f0159629ff9e8b8333ac303ead2f389aa0ccd882b69c",
+    "bytes": 166890
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_52.png",
+    "sha256": "005fc6237201b84c167915bde6bba20493b8c18de8e5622be509f4db65772737",
+    "bytes": 174157
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_53.png",
+    "sha256": "a3f26812d208a2dcff7b5611dd764c09736025ca3fd4feaa8dfbe6d8247a5b75",
+    "bytes": 142915
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_54.png",
+    "sha256": "763ffbb57db85622ede5e6973c829fa88723035bea93a3ae66e10c31caac5374",
+    "bytes": 131844
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_55.png",
+    "sha256": "c2ec6cc854c45120579b05b36cc6c8c5f82fe6ad834c687337b97989bde21bbb",
+    "bytes": 150606
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_56.png",
+    "sha256": "eb5fa85e49eb8b518f90f4745d2ca521ccf049cce718dbec87f3179152af2508",
+    "bytes": 163140
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_57.png",
+    "sha256": "5a7ccaa90fd80cebabaf99d693568cb69a8f093610d2fb30bdbffecd45082647",
+    "bytes": 148526
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_58.png",
+    "sha256": "9cb5c1ec395a75122d738af0178eb4a72f18fd3f42a2dc6755d99f4032fcee17",
+    "bytes": 161896
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_59.png",
+    "sha256": "e4b744503429d709bb1a1a1a9d5a7e291e499813d46ceceee4d61c7af0a6af57",
+    "bytes": 196557
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5a.png",
+    "sha256": "d96f49c57437b1de7ada4364d318c414b1d279fac0abdf9e7991285b7c2044e1",
+    "bytes": 224824
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5b.png",
+    "sha256": "3ec05ab9033a32e17eb609ea6cfae8ce7480db9acccf11db9e99b864539da1e7",
+    "bytes": 179584
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5c.png",
+    "sha256": "23c38005685faa2f111528551c087e09808e17c33ee334f27a151edcc45cce4e",
+    "bytes": 146282
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5d.png",
+    "sha256": "cd2808aa4e8a0aefef743fa411cbeb54ef67f1ed82a9a83f0602f4201c55bee9",
+    "bytes": 165635
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5e.png",
+    "sha256": "57781844cd234ea0ffdf058d77e1c6ed5c94467f085ed9c0f018ef3128e2b397",
+    "bytes": 158060
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5f.png",
+    "sha256": "0d116ad64f2c936ac99a00b5f2cd89792ba60009d781c5cff224f0be14acdfb8",
+    "bytes": 182886
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_60.png",
+    "sha256": "385742da982255a4b9da7dcbcb2d90e8312e7d8bbe8ce4747758abe2c1fb01c1",
+    "bytes": 194705
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_61.png",
+    "sha256": "df6764273d081cff9b9bc3f17aaf688cea9b4f89cfbbbf08fa31178f3b21b463",
+    "bytes": 219450
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_62.png",
+    "sha256": "d42aaf8b5f05e2a3e85a1848cb247105048ddaeb07d0e76639bf9fabe749dfe6",
+    "bytes": 172871
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_63.png",
+    "sha256": "0ee4d539ae41ca14ec14534ef8481891d5a703bbbff1ae5fae20511f97dabf15",
+    "bytes": 175942
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_64.png",
+    "sha256": "c560890e7009e17cb79a07f586a1e11df2340871ca61f5134276434d7dcbc28a",
+    "bytes": 200699
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_65.png",
+    "sha256": "04a1d10449759e6ee9996cf8630d3f5add4e9be01b14c8f86f87aaa9514d99dd",
+    "bytes": 201011
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_66.png",
+    "sha256": "c9e324cfb1bc2154d7e8d12859dd02c44cdfa7967a9b8cf753f5afbd7bee94de",
+    "bytes": 144370
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_67.png",
+    "sha256": "cd3fb76488228ae99a031e7919cd003277d13d774d459417bc6e86de890646d5",
+    "bytes": 172678
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_68.png",
+    "sha256": "e8169e0152c175fbc1afdf77b84cf9258aa20fb6eb2f046f46757821bd9ddbeb",
+    "bytes": 201423
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_69.png",
+    "sha256": "3f97753c94ea2b2602ee8ac11782292895bb9026dd3aed43a0dc55632722253f",
+    "bytes": 202539
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6a.png",
+    "sha256": "79636870aefcb471b0cdc84ae5c6b1282e7e46e0ce9da16a7402038089068c7b",
+    "bytes": 223995
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6b.png",
+    "sha256": "1dc60d065c2601b608e1429f73abb66ef58a981d09d39ab3905cfc85f5967202",
+    "bytes": 218075
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6c.png",
+    "sha256": "83c3b79af9aafdf093605a9f7590a85cba1119554d43b351f7239e78061a2728",
+    "bytes": 191924
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6d.png",
+    "sha256": "836e108ee85250e579788e0e716c4c6ed892dffa800e07f213536cce25081c22",
+    "bytes": 206561
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6e.png",
+    "sha256": "10b2f279775614679a33456bd997c221dc2df34168d1257275ea889c4735f1fa",
+    "bytes": 215862
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6f.png",
+    "sha256": "45a4a746895b834c15aecb4f9c1a530ec761a09a9cc49d597a6b0ee509060623",
+    "bytes": 229509
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_70.png",
+    "sha256": "5a2280705097ed15b8ca8bc5a72368bf14827fcda22bd12e5e9f51d58874a3a8",
+    "bytes": 230873
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_71.png",
+    "sha256": "04b04e9f34153582b67f621e2d2fe97f7eee33b14ff958bcc637483eb3c0c938",
+    "bytes": 227202
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_72.png",
+    "sha256": "15dc2dc8b682ebaf669a062f92e5fe2087f0ab2f731c054699b77de598403568",
+    "bytes": 208179
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_73.png",
+    "sha256": "68ba6aba5c8ba42639f560e679e232bbfba6cf9091d97754b8d16117507d920f",
+    "bytes": 197811
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_74.png",
+    "sha256": "0fc1539cfbfbaecc3a7c41aba1b27f4311ff43a443498a056cfca257d251252e",
+    "bytes": 186590
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_75.png",
+    "sha256": "a673e642a3b24440257274eebef9b61a1971215861511176e56ace36d103c7c8",
+    "bytes": 166976
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_76.png",
+    "sha256": "76de407f6072be53ee2ba37c1c6ac39516a874e1f5fa1d512ba6d5736fe34eb8",
+    "bytes": 183870
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_77.png",
+    "sha256": "2fc0122565061a9c588a67a09bf505e5bc45e12e92d66509e057343ac184887f",
+    "bytes": 160608
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_78.png",
+    "sha256": "b6ac85898a0cd7377d735875608c2e76deb9e1cc71e3b979b1e03893b1cae362",
+    "bytes": 181569
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_79.png",
+    "sha256": "21a3f2197f12363c16d6b3799321ac65c18cf0d571cce2d04bbbe19c4831aaa4",
+    "bytes": 190161
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7a.png",
+    "sha256": "bb3ea3b11a534e7294a7559f70997780c8b5e2dcdf3ff0c97a85d6b1db79f855",
+    "bytes": 199048
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7b.png",
+    "sha256": "58a4eb0b69105f7b3a2a0e639331b15d288773432beec032afa531ecbdd637b1",
+    "bytes": 190249
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7c.png",
+    "sha256": "f112bd24c964685bc8136d218a05a0fc7934b8492fc83957ec6ed0349e3f4e3c",
+    "bytes": 220539
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7d.png",
+    "sha256": "9fe10bf52e6e9754bbc8611a99403e671d26809dd72ace2a267a9b59a1e53252",
+    "bytes": 252861
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7e.png",
+    "sha256": "b3146bd53ee4a6e813e99320947d9a5811f31f73010c3845628c5fc99553dd5f",
+    "bytes": 256853
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7f.png",
+    "sha256": "5cb2893e2926d8c44755e5585973d5514f3a343074189cf37882bc3711676bc9",
+    "bytes": 197454
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_80.png",
+    "sha256": "47a6ef6ce300075f456c85f2f446e9f3a5d3ab0c94eef467ca3c3d2dde6492d8",
+    "bytes": 167851
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_81.png",
+    "sha256": "a72ef810407bde967e22cfc00d6863645ffa55f62b091f90d01c677e94445a44",
+    "bytes": 187117
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_82.png",
+    "sha256": "b224d0610632796564a653bbb3c30e48f53ab87bd973301f34e37ffcac172020",
+    "bytes": 157355
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_83.png",
+    "sha256": "478ce3a2bb8190a4f707159895a541fafce18cb3a0f9304d02a6d983e616fe12",
+    "bytes": 154364
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_84.png",
+    "sha256": "642994c5296dc1b44db332ebabf1ae4da07241173b6f937c84325022e27405c4",
+    "bytes": 161628
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_85.png",
+    "sha256": "e13c1c339353cd3fbc35218245a31455229be8b5b1e7aec397884106d641774d",
+    "bytes": 183951
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_86.png",
+    "sha256": "43b5bd4ac365a16d46c0e483c5d891c6f34ecb7327c61b1803835421484069ea",
+    "bytes": 182989
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_87.png",
+    "sha256": "c859ecb79bd82420c6a529f4e335137b2d5c00a8d3e2fcfe4e8eaa0fc91b14a4",
+    "bytes": 187860
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_88.png",
+    "sha256": "0f821155222f19117dd8d308f8ba805c6abcda6a3cd679e867797c891833df97",
+    "bytes": 200595
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_89.png",
+    "sha256": "f5e9f7178a42dfe3fbc58e8028d37dbba94472908a43cb9e1ba6dd2dde6a840e",
+    "bytes": 206492
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8a.png",
+    "sha256": "54d82c20ac2eb9353449e06117e55207b567305f06441b0c55c188be7e387490",
+    "bytes": 140126
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8b.png",
+    "sha256": "1f5ae2bcbb97d78a90da2c64a309a8672c7343e74fccbc0cb102407309f502ee",
+    "bytes": 170362
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8c.png",
+    "sha256": "e006008d0427dba656d2cd5453bcbb8da557df282d0d7d81c71a99b93ecf0fad",
+    "bytes": 196347
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8d.png",
+    "sha256": "88f939a40f326c61781b9fe5e0e7c8b5ab3db65c917e3e421ed5fc5e6b89f199",
+    "bytes": 177659
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8e.png",
+    "sha256": "963dcd612bd3788de0f0138d5348bbc74e715d0077220f0ab778eb8a04e774ea",
+    "bytes": 176864
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8f.png",
+    "sha256": "ffa17e943b3a3764e5aa097f3fe20c78d6ad0810c3a12e224d05c0dce7cce462",
+    "bytes": 172708
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_90.png",
+    "sha256": "94eaee331d4a4d7998714e25eb710b42635e06d22d27a5324287e988ada1babf",
+    "bytes": 191110
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_91.png",
+    "sha256": "8bbcbe064d430f395a9334182feee9d3f36a401d2bf33a6d9f60f10bbcb47216",
+    "bytes": 187535
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_92.png",
+    "sha256": "a3c15a17f98742b5496cbf61c13cad1e93f027bfcdc51d1e7f484b60de1dd77a",
+    "bytes": 224342
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_93.png",
+    "sha256": "280ee1c56347a74561f7f414d87bda8688dc99603e87a0b927efeb1f6733eba0",
+    "bytes": 242454
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_94.png",
+    "sha256": "ee4a247af1d673765a47009038163339fbd33ec0eabb49aae5eb264168cb2a5a",
+    "bytes": 217080
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_95.png",
+    "sha256": "1857587456167fbca81f2a6b11f00e50667a69359cb5c8e004c0fd44bf49f54e",
+    "bytes": 156731
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_96.png",
+    "sha256": "db49a9d38a1e2feb1edf903e856823773f661f54922659806e920a8868abb69b",
+    "bytes": 182731
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_97.png",
+    "sha256": "3091f382b6763a39e1341b16657049a804134e28cf7155217c70ead9816dd237",
+    "bytes": 156414
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_98.png",
+    "sha256": "ee973eaf255e88ab3b99af9e96c5ebf13056de3ca315d3aa9c150e5722edb8c0",
+    "bytes": 192257
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_99.png",
+    "sha256": "f1c92978ec1f4505534e879d3c34b59088ada3c2df2256dcdc5939fd82ca58f3",
+    "bytes": 207048
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9a.png",
+    "sha256": "3d723f97929f8169da451ede419c77dca2c1397bb7131e1a25f980249c5157dd",
+    "bytes": 203551
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9b.png",
+    "sha256": "380210b2103f29dadaa14af996cdf3e5ba691e33b98ed8875acda90a15e3b5f7",
+    "bytes": 219349
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9c.png",
+    "sha256": "a862ddbb7b67eb98174af416f1d7981f5f6c8600e9e55986a6cc2569da7af136",
+    "bytes": 213787
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9d.png",
+    "sha256": "ca7ebcfe02501312a5ffe623e2a669dccbe46c6cb52f6ecdd0b847f763a74ff9",
+    "bytes": 216299
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9e.png",
+    "sha256": "3242d086c872e2cb5c4eebc72ea919fb42065dfbd8902b93e9bcee2faa024b0b",
+    "bytes": 217269
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9f.png",
+    "sha256": "9ad1537a93e2052320a2653dac2086a11a56e396fb6df4bbda02ff660e8ff585",
+    "bytes": 187599
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a0.png",
+    "sha256": "6d1ae4f2f243128b9ff85a97b5f5c8d043b2482775bf9fa3d08396b7f0629b57",
+    "bytes": 128621
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a1.png",
+    "sha256": "7120b3cc1d7e5f5060b2a696729bf5a1ff8bad772e12f57a2b2d9c0d36bbc887",
+    "bytes": 127923
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a2.png",
+    "sha256": "4d91bffcb48a0d80eb05cd175c1e5ec56f0c1f3ec780f97c5698a892b8dbbdd9",
+    "bytes": 128869
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a3.png",
+    "sha256": "9f76bce1e45d032ed6749d807ea73e44563ad1894248207ff031209a480a83eb",
+    "bytes": 126586
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a4.png",
+    "sha256": "d747ba419284ace00483459fdd266c50a091ac59bf4b859f515b07732a64670f",
+    "bytes": 95945
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a5.png",
+    "sha256": "752130820da95cf78ef847440ba1939512a4d412eae2139cd7c192e461ed8962",
+    "bytes": 137443
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a6.png",
+    "sha256": "5628e611c2a4bff95059d90a05d925cf8f929c5ee801582f2c92067f537c10f4",
+    "bytes": 96375
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a7.png",
+    "sha256": "325e4afdabd7a8a8bf7e7421ba08b7ed85195638b3523a2e267d353ed59ed10c",
+    "bytes": 77282
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a8.png",
+    "sha256": "85a3a5c119ab66a143780a27947bf83864bf6d0965c6611334790adcefc4abbf",
+    "bytes": 106715
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a9.png",
+    "sha256": "b971ac7f33868340a03a8c69509beed9a669bb3a22a2891a96e7933e08814c8e",
+    "bytes": 100206
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_aa.png",
+    "sha256": "02407d90acb2645b2ad0d3ec1d478ef1ca7b219eba0fbc332e6740cdbea8c0c9",
+    "bytes": 115725
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ab.png",
+    "sha256": "c208d9e94c809221581cf63793b8db816b07a18faaf728385baa1f2f62b5d42e",
+    "bytes": 99314
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ac.png",
+    "sha256": "c04a3b393b7a3be9e80ef369c617008c31352adab3029de9cfb217710d9a28fa",
+    "bytes": 104484
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ad.png",
+    "sha256": "3de5d1dd1b29edd7aea801ceaeb7dcd000add958b9a967db5a34264be9485f47",
+    "bytes": 82466
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ae.png",
+    "sha256": "2d338544f175a41f267a083fd16f04046aadde8da5c283ab4eebe299d6a251e4",
+    "bytes": 115800
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_af.png",
+    "sha256": "2245e9cb33ed853e39d74d873921f93d742600455d6273eda8cca3fa47fb2b6a",
+    "bytes": 99785
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b0.png",
+    "sha256": "e4ddae09892d3f056ee9cd0640e73c19e47991c1f88ba3384c8ed8a914c3d418",
+    "bytes": 91255
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b1.png",
+    "sha256": "5be95410bfcde459fb4fbce7911d4858a5034857b3374dd053a3bf0c8e755533",
+    "bytes": 77064
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b2.png",
+    "sha256": "b014af8327bd742cf3bb777e31389dbeaaa3409f7eaf7cbdb59918bba3961e9e",
+    "bytes": 74592
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b3.png",
+    "sha256": "550dca1acafc109a43ffa32583e6dc7bacc1de9bc2a0ce210c87976499b3c438",
+    "bytes": 76911
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b4.png",
+    "sha256": "e44a0308da62fffc11bf288bdd29b15333b74a3467caa805a3ca7c61deecd603",
+    "bytes": 74969
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b5.png",
+    "sha256": "389fb263ce17d98d0899a74d3d2e89139f9c5b347421c65dc1d413131c11f5d9",
+    "bytes": 80731
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b6.png",
+    "sha256": "f7437af4c6962da73caeee035373373f65743116255f56448ef1f15d7470b483",
+    "bytes": 83405
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b7.png",
+    "sha256": "3e78ab9fbde227d749e71506b98ecd0a7e6e872a4d6665faa53436360625d516",
+    "bytes": 80749
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b8.png",
+    "sha256": "fd628987fe8bc4caec6300ba677a09a179d818ebf9ce7a31400cbd1cb91b65e7",
+    "bytes": 76967
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b9.png",
+    "sha256": "581b3125412ea0be037566df82e5e02f5691b3697b47b6ccab03a536c3b5db70",
+    "bytes": 72984
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ba.png",
+    "sha256": "1cd642d8a9de218aeffd684257f32d8f221e88f6c667e4800437a3260b04aed9",
+    "bytes": 71082
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bb.png",
+    "sha256": "36a33f407ab120b8f81c7c159581af4decc5661f5674f813125831d121a376e2",
+    "bytes": 72989
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bc.png",
+    "sha256": "5dac99bcb888372184a5aa43d5d07648f8b67074232c3c2c69c3664c06d9a4f9",
+    "bytes": 70800
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bd.png",
+    "sha256": "bcdad19e947def72c2094ec59b5fe1050da8696b51570b7d677214666b3856c5",
+    "bytes": 78265
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_be.png",
+    "sha256": "c6b843ca13b72a71a097c802f036cd494031b5f92eb7eafc2171d3b81fb260f7",
+    "bytes": 73013
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bf.png",
+    "sha256": "0bb224e80423ea8cc25168b359ebd154af96f84f4856da834091c6723f8cfed0",
+    "bytes": 79622
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c0.png",
+    "sha256": "614844d0ed05258a90dcc033937f829a1a5d7cf1a7af844c65e3851c143fc7f9",
+    "bytes": 90421
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c1.png",
+    "sha256": "860085f94a4568c80a144417b47a9c613e1bd98dbe2129b76613e9e0376ebfed",
+    "bytes": 120387
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c2.png",
+    "sha256": "674ef7a9a69df314e2796c6e3ffe26835c9662c41a4a669caeb53b3afd697767",
+    "bytes": 116759
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c3.png",
+    "sha256": "442b644d486a3d4efa18fc0dd8a0f74856ef67e5207b5a2c050ca5e19b8c450e",
+    "bytes": 126382
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c4.png",
+    "sha256": "7ace8085c65de542613a5baac41f5a33a8d28303a68ec11785b61a54972076cb",
+    "bytes": 120027
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c5.png",
+    "sha256": "3d41c0ed092e94fc1edbf9f5ae6912b87d79e9dca4ac01177ebb804364f02069",
+    "bytes": 125261
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c6.png",
+    "sha256": "a4a68cd6b536b33f6aad02152f9fff11ff1a4abe8feb3953e8b41a09b8d2ffd5",
+    "bytes": 120791
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c7.png",
+    "sha256": "be601f8a401eff56bf368bdc527ba5a5097cd6b30a31a9c8a958c3432b9eeefd",
+    "bytes": 118449
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c8.png",
+    "sha256": "44e6e2b638ceeb70137c6b5611df2abc45ce78aa918e075bca35986b90356c8e",
+    "bytes": 117251
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c9.png",
+    "sha256": "c67a67feffedb218280d49b5ebc0edce20a0b3ac3c5a682f2feb0002c332dc92",
+    "bytes": 118393
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ca.png",
+    "sha256": "830dc7b711fca5636e8f7152e13e17e1ade5f0cc696007f7dd71f1acf942e42e",
+    "bytes": 124211
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cb.png",
+    "sha256": "353349c471601e16c2640218ada9954d661fe86513bc1948c75e31c44972c3bd",
+    "bytes": 119841
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cc.png",
+    "sha256": "5e0cc09fdedc465f4d5118eacf0670be7608f1aa8ec16083a8e2a5c16179a549",
+    "bytes": 118628
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cd.png",
+    "sha256": "a1d9a7c700ba9961b55fe1fd0cb2ae45cfdf17cd8331f18b6bb37eb35d0c89df",
+    "bytes": 114592
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ce.png",
+    "sha256": "0831cd604aae9d31e9a7f88f12eb8527dff6d1d982189562e871f976b124a406",
+    "bytes": 115493
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cf.png",
+    "sha256": "ab3cfb9b09f04265b3eac0421b707b466369f3f60cc2eb3f447a387af6ffe3b1",
+    "bytes": 100086
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d0.png",
+    "sha256": "1ebe97aec38eb3cf4c32866871b051d9d2e01162ad23c425faf6203d503b22af",
+    "bytes": 92223
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d1.png",
+    "sha256": "62184a4bb110bb045fa781ff7a313e6b0be695e063487b409bd841c97a31ae86",
+    "bytes": 80386
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d2.png",
+    "sha256": "e50dbecdd259f1b1bc60f2d0de065eed7ded2295339331f280e0a7ed4996e1b3",
+    "bytes": 75611
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d3.png",
+    "sha256": "9481de103b45d8effc262b0bf4c11bf0300bdbd4ba09ad2dbfabd7e52c2ed7e3",
+    "bytes": 80312
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d4.png",
+    "sha256": "f5d96aa19a1aa0a1b28bd57b1dc14536c84e362ca87240db15937ec32b1b6e38",
+    "bytes": 77872
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d5.png",
+    "sha256": "516c15749cfbef6f7aa4fda8b6508f6ff424582d7db9cbdbb0fcd4f47dfe600d",
+    "bytes": 97967
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d6.png",
+    "sha256": "bb29c55b609d06ef658e07bffb2b69932c6d643479c1dec63cebb994de3b097c",
+    "bytes": 108675
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d7.png",
+    "sha256": "d9d3a3015f50b5c8b3e2b0c2faea83fe8a927169a97858441bf49d5458a367f1",
+    "bytes": 83305
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_f9.png",
+    "sha256": "c27d36473510c358b849ff43c767da89492560be89fdc861e104d537f7f98baa",
+    "bytes": 200433
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fa.png",
+    "sha256": "1c9f171fad23b619476e108f1315a098c66827232b3db28683e6bb9c51e7a550",
+    "bytes": 159939
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fb.png",
+    "sha256": "3784a886a7f5cbc09467bb36a65401215046cfdd9d16233d66d908c46c9fcd7c",
+    "bytes": 67524
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fc.png",
+    "sha256": "b3b339ff0a9ac061372ab945aa205440befb96817a428f73683043bd9a0865bb",
+    "bytes": 77983
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fd.png",
+    "sha256": "dd82530cdc502b0787cac340fed26eeafa46d77f7c0f59681769ab5ab6ca350c",
+    "bytes": 64105
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fe.png",
+    "sha256": "b40f8f32c50d4aa60b19c1d63b8e71a9e8d82759762ff31656b1453e8b672fbd",
+    "bytes": 65568
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ff.png",
+    "sha256": "38ed8a1f354ecebdee5d0a92038f84f86e0d50486e3489f6f2111fe2ed6b62d9",
+    "bytes": 77768
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/assets/eltenasound/sounds/se/dragon_roar.ogg",
+    "sha256": "7c7a14b155a64fa209a5f37fa9f73932c6059982e987422ab6b41ae72177424b",
+    "bytes": 58742
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/live-assets/files/voice/dragon_roar_live.ogg",
+    "sha256": "7c7a14b155a64fa209a5f37fa9f73932c6059982e987422ab6b41ae72177424b",
+    "bytes": 58742
+  }
+]

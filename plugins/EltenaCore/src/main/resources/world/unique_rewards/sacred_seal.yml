@@ -1,0 +1,5 @@
+id: sacred_seal
+display-name: "星封の紋章"
+reward-type: "job"
+reward-id: "priest"
+world-rank-exp: 20

@@ -1,0 +1,140 @@
+[
+  {
+    "module": "EltenaCore",
+    "source_tree_sha256": "96e0f83058df38a85b93a360cd8ba4d9ba57fe928485a348bc99188f844418d4",
+    "files": 192,
+    "latest_source_mtime_utc": "2026-05-21T13:49:26.428504+00:00",
+    "jar_evidence": [
+      {
+        "filename": "EltenaCore-0.1.0-SNAPSHOT.jar",
+        "sha256": "955b076a34e0155af3fee9bd5ea55fbf046cf18a5c947837ca81b88abe0bbda2",
+        "bytes": 465577,
+        "mtime_utc": "2026-05-21T13:49:33.338430+00:00",
+        "type": "build"
+      },
+      {
+        "filename": "EltenaCore-0.1.0-SNAPSHOT.jar",
+        "sha256": "955b076a34e0155af3fee9bd5ea55fbf046cf18a5c947837ca81b88abe0bbda2",
+        "bytes": 465577,
+        "mtime_utc": "2026-05-23T12:13:15.972034+00:00",
+        "type": "runtime"
+      }
+    ],
+    "basis": "Windows development source snapshot; Mac intentionally not inspected; jar hashes do not prove source reproducibility."
+  },
+  {
+    "module": "EltenaEffectCore",
+    "source_tree_sha256": "0d1e77d3e966a77f93b99efc15aef3f3a0d04356fe94f4cc09450970dbc5caaa",
+    "files": 81,
+    "latest_source_mtime_utc": "2026-06-27T13:02:28.051613+00:00",
+    "jar_evidence": [
+      {
+        "filename": "EltenaEffectCore-0.1.0-SNAPSHOT.jar",
+        "sha256": "c31b570138b9d781edfe3d1a2572cb2a204a48f07a8680b32135029f3e9d7e55",
+        "bytes": 504293,
+        "mtime_utc": "2026-05-30T01:09:03.911475+00:00",
+        "type": "build"
+      },
+      {
+        "filename": "EltenaEffectCore-0.1.0-SNAPSHOT.jar",
+        "sha256": "c31b570138b9d781edfe3d1a2572cb2a204a48f07a8680b32135029f3e9d7e55",
+        "bytes": 504293,
+        "mtime_utc": "2026-05-30T01:09:03.911475+00:00",
+        "type": "runtime"
+      }
+    ],
+    "basis": "Windows development source snapshot; Mac intentionally not inspected; jar hashes do not prove source reproducibility."
+  },
+  {
+    "module": "EltenaSoundCore",
+    "source_tree_sha256": "f9466c76a6ac954cacf2aaca26a9bc2d8d95df2b7f358a3359c2ca25610da869",
+    "files": 38,
+    "latest_source_mtime_utc": "2026-05-24T02:45:59.655327+00:00",
+    "jar_evidence": [
+      {
+        "filename": "EltenaSoundCore-0.1.0-SNAPSHOT.jar",
+        "sha256": "0416c12e0757dbe836b28adfe9810f630b6bdca5a919f9b47933aba03d64355b",
+        "bytes": 446526,
+        "mtime_utc": "2026-05-24T02:46:22.568766+00:00",
+        "type": "build"
+      },
+      {
+        "filename": "EltenaSoundCore-0.1.0-SNAPSHOT.jar",
+        "sha256": "0416c12e0757dbe836b28adfe9810f630b6bdca5a919f9b47933aba03d64355b",
+        "bytes": 446526,
+        "mtime_utc": "2026-05-24T02:46:23.364874+00:00",
+        "type": "runtime"
+      }
+    ],
+    "basis": "Windows development source snapshot; Mac intentionally not inspected; jar hashes do not prove source reproducibility."
+  },
+  {
+    "module": "EltenaAddon",
+    "source_tree_sha256": "f1fa0ee8d4d0d1fda17a15705b192c02739dad1ca3157b58e9a871050a360a0c",
+    "files": 311,
+    "latest_source_mtime_utc": "2026-05-20T15:53:29.093066+00:00",
+    "jar_evidence": [
+      {
+        "filename": "EltenaAddon-0.1.0-SNAPSHOT.jar",
+        "sha256": "6e1fa247e60cdde328bee8b2da84844e4825627bf06ed0799c6210e4c040b210",
+        "bytes": 35807088,
+        "mtime_utc": "2026-05-20T15:53:36.425754+00:00",
+        "type": "build"
+      },
+      {
+        "filename": "EltenaAddon-0.1.0-SNAPSHOT.jar",
+        "sha256": "6e1fa247e60cdde328bee8b2da84844e4825627bf06ed0799c6210e4c040b210",
+        "bytes": 35807088,
+        "mtime_utc": "2026-05-20T15:53:36.527753+00:00",
+        "type": "runtime"
+      }
+    ],
+    "basis": "Windows development source snapshot; Mac intentionally not inspected; jar hashes do not prove source reproducibility."
+  },
+  {
+    "module": "EltenaEffect",
+    "source_tree_sha256": "0e4fd4371c38a8e86b15cbb3d1a70cf60bf9ea0977f2d884e252c3c29ad00c5c",
+    "files": 31,
+    "latest_source_mtime_utc": "2026-06-27T17:43:48.222108+00:00",
+    "jar_evidence": [
+      {
+        "filename": "EltenaEffect-0.1.0-SNAPSHOT.jar",
+        "sha256": "a6a8881e8561cae66578c67444a85651c0aa6ab0d4ebb5ef624fbabe692d44a1",
+        "bytes": 116214,
+        "mtime_utc": "2026-05-30T06:31:15.985813+00:00",
+        "type": "build"
+      },
+      {
+        "filename": "EltenaEffect-0.1.0-SNAPSHOT.jar",
+        "sha256": "a6a8881e8561cae66578c67444a85651c0aa6ab0d4ebb5ef624fbabe692d44a1",
+        "bytes": 116214,
+        "mtime_utc": "2026-05-30T06:31:15.985813+00:00",
+        "type": "runtime"
+      }
+    ],
+    "basis": "Windows development source snapshot; Mac intentionally not inspected; jar hashes do not prove source reproducibility."
+  },
+  {
+    "module": "EltenaSound",
+    "source_tree_sha256": "326e176a39d8bcf6023677af5428affdac606b299ee5ac58c52e4f681a8c46cc",
+    "files": 33,
+    "latest_source_mtime_utc": "2026-05-09T18:32:44.323271+00:00",
+    "jar_evidence": [
+      {
+        "filename": "EltenaSound-0.1.0-SNAPSHOT.jar",
+        "sha256": "f1499b15198e630620225a3dd26e3bcf274923641dc8e29fe2cb975e6bfedf4a",
+        "bytes": 3128211,
+        "mtime_utc": "2026-05-09T18:35:18.781521+00:00",
+        "type": "build"
+      },
+      {
+        "filename": "EltenaSound-0.1.0-SNAPSHOT.jar",
+        "sha256": "f1499b15198e630620225a3dd26e3bcf274923641dc8e29fe2cb975e6bfedf4a",
+        "bytes": 3128211,
+        "mtime_utc": "2026-05-09T18:35:18.781521+00:00",
+        "type": "runtime"
+      }
+    ],
+    "basis": "Windows development source snapshot; Mac intentionally not inspected; jar hashes do not prove source reproducibility."
+  }
+]

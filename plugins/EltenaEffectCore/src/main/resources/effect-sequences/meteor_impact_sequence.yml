@@ -1,0 +1,12 @@
+id: meteor_impact_sequence
+display-name: "隕石衝突演出"
+
+steps:
+  - effect: meteor_shockwave_visual
+    delay-ms: 0
+  - effect: meteor_shockwave
+    delay-ms: 0
+  - effect: jitter_test
+    delay-ms: 700
+  - effect: pulse_test
+    delay-ms: 1800

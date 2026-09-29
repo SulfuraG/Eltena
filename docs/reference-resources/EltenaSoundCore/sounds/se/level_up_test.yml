@@ -1,0 +1,8 @@
+id: level_up_test
+type: se
+display-name: "レベルアップSEテスト"
+sound-event: "eltenasound:se.level_up_test"
+category: SYSTEM
+loop: false
+volume: 1.0
+pitch: 1.0

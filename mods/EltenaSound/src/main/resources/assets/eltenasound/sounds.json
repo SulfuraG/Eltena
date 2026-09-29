@@ -1,0 +1,10 @@
+{
+  "se.dragon_roar": {
+    "sounds": [
+      {
+        "name": "eltenasound:se/dragon_roar",
+        "stream": false
+      }
+    ]
+  }
+}

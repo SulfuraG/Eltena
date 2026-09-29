@@ -1,0 +1,5 @@
+enabled: true
+load-folder: skills
+legacy-enabled: true
+defaults: {}
+skills: {}

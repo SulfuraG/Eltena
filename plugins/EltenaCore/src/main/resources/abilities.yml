@@ -1,0 +1,5 @@
+enabled: true
+load-folder: abilities
+legacy-enabled: true
+defaults: {}
+abilities: {}

@@ -1,0 +1,8 @@
+mmoitems-mappings:
+  simplyswords:righteous_relic:
+    type: GREATSWORD
+    id: TWO_HANDED_STEEL_SWORD
+
+  armorplus:super_star_sword:
+    type: GREATSWORD
+    id: HARDENED_STEEL_CLAYMORE

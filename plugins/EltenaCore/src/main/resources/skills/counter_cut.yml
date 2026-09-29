@@ -1,0 +1,20 @@
+id: counter_cut
+display-name: "反撃斬り"
+description:
+  - "防御の直後から切り返す応用スキル。"
+category: "sword"
+icon: "minecraft:stone_sword"
+max-rank: 2
+required-points: 4
+position:
+  x: 900
+  y: 80
+requires:
+  all:
+    - guard_stance
+  ranks:
+    guard_stance: 1
+effects:
+  attack-damage:
+    type: "percent"
+    value-per-rank: 3

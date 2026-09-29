@@ -1,0 +1,26 @@
+# この設定は EltenaEffectCore のサーバー側正本です。
+# client 側で正式設定を保存・変更しないでください。
+# VirtualCamera は演出用カメラであり、通常時は OFF が正しい状態です。
+# default-preset は ON 時の省略 preset 用であり、自動 ON の意味ではありません。
+
+camera:
+  enabled: true
+  default-preset: debug_freecam
+  # join 時は設定一覧と現在状態だけを同期します。OFF プレイヤーを自動 ON にしません。
+  sync-on-join: true
+  # /eltenaeffect reload で camera.yml と presets/*.yml を再読込し、オンライン全員へ再同期します。
+  sync-on-reload: true
+
+  loading:
+    # camera/presets 配下を 1 ファイル 1 preset として読み込みます。
+    preset-directory: presets
+    # true にすると不正 preset が 1 つでもある時点で読み込み失敗にします。
+    fail-on-invalid-preset: false
+
+  behavior:
+    # VirtualCamera OFF 時にプレイヤー本来の camera へ戻します。
+    restore-player-camera-on-disable: true
+    # ワールド移動時に仮想カメラ状態をリセットします。
+    reset-state-on-world-change: true
+    # サーバー切替時に仮想カメラ状態をリセットします。
+    reset-state-on-server-switch: true

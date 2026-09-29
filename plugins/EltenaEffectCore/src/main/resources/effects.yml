@@ -1,0 +1,90 @@
+effects:
+  tremor_small:
+    type: earthquake
+    display-name: "\u5c0f\u898f\u6a21\u5730\u9707"
+    shake-pattern: SWAY
+    scope: WORLD_RADIUS
+    radius: 250
+    base-power: 0.25
+    wave-speed: 140
+    duration-ms: 3500
+    rise-ms: 900
+    fall-ms: 2200
+    near-instant-radius: 30
+    distance-delay: true
+    distance-falloff:
+      type: LINEAR
+      minimum-strength: 0.05
+
+  volcanic_warning:
+    type: earthquake
+    display-name: "\u706b\u5c71\u6d3b\u52d5\u306e\u524d\u5146"
+    shake-pattern: HEAVY_RUMBLE
+    scope: WORLD_RADIUS
+    radius: 1200
+    base-power: 0.9
+    wave-speed: 100
+    duration-ms: 7000
+    rise-ms: 1800
+    fall-ms: 4000
+    near-instant-radius: 80
+    distance-delay: true
+    distance-falloff:
+      type: LINEAR
+      minimum-strength: 0.08
+    repeat:
+      enabled: true
+      interval-ms: 2500
+      count: 3
+      power-multiplier: 1.10
+
+  meteor_shockwave:
+    type: earthquake
+    display-name: "\u96a0\u77f3\u885d\u6483\u6ce2"
+    shake-pattern: SHOCKWAVE
+    scope: WORLD_RADIUS
+    radius: 1500
+    base-power: 1.2
+    wave-speed: 180
+    duration-ms: 4500
+    rise-ms: 120
+    fall-ms: 3600
+    near-instant-radius: 100
+    distance-delay: true
+    distance-falloff:
+      type: LINEAR
+      minimum-strength: 0.04
+
+  jitter_test:
+    type: earthquake
+    display-name: "\u30ac\u30bf\u30ac\u30bf\u63fa\u308c\u30c6\u30b9\u30c8"
+    shake-pattern: JITTER
+    scope: WORLD_RADIUS
+    radius: 300
+    base-power: 0.7
+    wave-speed: 180
+    duration-ms: 3000
+    rise-ms: 100
+    fall-ms: 2200
+    near-instant-radius: 80
+    distance-delay: true
+    distance-falloff:
+      type: LINEAR
+      minimum-strength: 0.05
+
+  pulse_test:
+    type: earthquake
+    display-name: "\u5468\u671f\u632f\u52d5\u30c6\u30b9\u30c8"
+    shake-pattern: PULSE
+    scope: WORLD_RADIUS
+    radius: 500
+    base-power: 0.8
+    wave-speed: 120
+    duration-ms: 6000
+    rise-ms: 200
+    fall-ms: 4500
+    near-instant-radius: 80
+    distance-delay: true
+    distance-falloff:
+      type: LINEAR
+      minimum-strength: 0.05

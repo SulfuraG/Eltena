@@ -1,0 +1,16 @@
+id: tremor_small
+type: earthquake
+display-name: "\u5c0f\u898f\u6a21\u5730\u9707"
+shake-pattern: SWAY
+scope: WORLD_RADIUS
+radius: 250
+base-power: 0.25
+wave-speed: 140
+duration-ms: 3500
+rise-ms: 900
+fall-ms: 2200
+near-instant-radius: 30
+distance-delay: true
+distance-falloff:
+  type: LINEAR
+  minimum-strength: 0.05

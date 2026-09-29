@@ -1,0 +1,23 @@
+id: dark_pressure_area
+enabled: true
+display-name: "暗圧テストエリア"
+
+trigger:
+  type: BOX_ENTER
+  world: eltena_world
+  min:
+    x: -5
+    y: 60
+    z: -5
+  max:
+    x: 5
+    y: 120
+    z: 5
+
+conditions:
+  permission-bypass: eltenaeffect.trigger.bypass
+  cooldown-ms: 10000
+
+actions:
+  - type: effect
+    id: dark_pressure

@@ -1,0 +1,16 @@
+id: pulse_test
+type: earthquake
+display-name: "\u5468\u671f\u632f\u52d5\u30c6\u30b9\u30c8"
+shake-pattern: PULSE
+scope: WORLD_RADIUS
+radius: 500
+base-power: 0.8
+wave-speed: 120
+duration-ms: 6000
+rise-ms: 200
+fall-ms: 4500
+near-instant-radius: 80
+distance-delay: true
+distance-falloff:
+  type: LINEAR
+  minimum-strength: 0.05

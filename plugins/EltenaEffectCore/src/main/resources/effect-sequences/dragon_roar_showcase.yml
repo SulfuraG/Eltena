@@ -1,0 +1,17 @@
+id: dragon_roar_showcase
+display-name: "ドラゴン咆哮演出"
+
+steps:
+  - type: live-sound
+    id: dragon_roar_live
+    alias: roar_audio
+    delay-ms: 0
+
+  - type: effect
+    id: dragon_roar_distortion
+    sync-duration-with: roar_audio
+    sync-duration-mode: match
+    sync-duration-scale: 1.0
+    sync-duration-min-ms: 1200
+    sync-duration-max-ms: 6000
+    delay-ms: 0

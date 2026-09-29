@@ -1,0 +1,27 @@
+plugin:
+  enabled: "EltenaCore を有効化しました。"
+  disabled: "EltenaCore を無効化しました。"
+  listeners-registered: "EltenaCore のリスナー登録が完了しました。"
+
+placeholder:
+  skipped: "PlaceholderAPI が見つからないため登録をスキップしました。"
+  registered: "PlaceholderAPI 連携を登録しました。"
+  unregistered: "PlaceholderAPI 連携を解除しました。"
+
+settings:
+  title: "&8Eltena 設定"
+  status-label: "状態"
+  click-toggle: "クリックで切り替え"
+  toggle: "&e{name}&7 を &f{value}&7 に切り替えました。"
+  status:
+    enabled: "有効"
+    disabled: "無効"
+  option:
+    floating-damage: "フローティング表示"
+    floating-damage-desc: "与えたダメージを頭上に表示します。"
+    chat-damage: "戦闘ログ表示"
+    chat-damage-desc: "対象名と残り HP をチャットに表示します。"
+    exp-chat: "EXP 通知"
+    exp-chat-desc: "獲得した EXP をチャットに表示します。"
+    dps-chat: "DPS 通知"
+    dps-chat-desc: "一定時間の合計ダメージと DPS を表示します。"

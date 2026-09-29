@@ -1,0 +1,3567 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 226,
+    "sha256": "ba6a8a0711d96a8f9314f52b54740bed8585eb6701c9fa5323970bc49491a522"
+  },
+  {
+    "path": ".github/FUNDING.yml",
+    "bytes": 21,
+    "sha256": "c60a56264ce5181fd5fbaaa4119e32b126aaba548dae41e091bd678452643b8f"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 232,
+    "sha256": "6a781995c7ef7ec28f9c6519f7af3c9f89202d3180f4993a9b8d9204e8440437"
+  },
+  {
+    "path": "build.ps1",
+    "bytes": 1454,
+    "sha256": "078a83da9d63b4cba383df22bd803694f9d6b5c38c9c2f6700cf13b9458a1d3f"
+  },
+  {
+    "path": "docs/ARCHITECTURE.md",
+    "bytes": 2365,
+    "sha256": "eeb2821be17a15815ec6e4d81042695924b3aa66dafa06e78630dea5ca3bd15e"
+  },
+  {
+    "path": "docs/ASSETS.md",
+    "bytes": 1131,
+    "sha256": "ae598cea41b765d8c5690b454692d400768cb1228be4c48c19c21443709273fc"
+  },
+  {
+    "path": "docs/BUILDING.md",
+    "bytes": 2169,
+    "sha256": "a4bc42ce280bcf0c4309cb5af07bd6d18813bac17ecb33f969d55f22556086b7"
+  },
+  {
+    "path": "docs/FILE_LIST.md",
+    "bytes": 61276,
+    "sha256": "2436e9dff84b3608230d16437c59072456fdba9e2c4d95c308e41004ebc6771d"
+  },
+  {
+    "path": "docs/included-assets.json",
+    "bytes": 54412,
+    "sha256": "2f8cd62430e9d92a832bce5f7b7cde6a389c907bb1a4dd7bff0309ba47a912dc"
+  },
+  {
+    "path": "docs/LIMITATIONS.md",
+    "bytes": 2090,
+    "sha256": "aebb24c6c2298e5e0193e3bf81fff429efe6f4fa26a847773916847843269bb2"
+  },
+  {
+    "path": "docs/prior-publication-substitutes/EltenaAddon/ui.json",
+    "bytes": 96,
+    "sha256": "6702ad0dde2e22efaa1f8d2025a8d79acaf17a35446e7ff77fa1ff7855bb326d"
+  },
+  {
+    "path": "docs/prior-publication-substitutes/EltenaSound/sounds.json",
+    "bytes": 714,
+    "sha256": "62fd393715495c5c4e32f301103e9af294fbae39769169f20f45b7fbfb1441fc"
+  },
+  {
+    "path": "docs/PUBLICATION.md",
+    "bytes": 1955,
+    "sha256": "69583730e8c83ceed27ad7a31df5bf952fea2460f2b90e9159a4025090894e9c"
+  },
+  {
+    "path": "docs/reference-resources/EltenaAddon/ui.original.json",
+    "bytes": 480096,
+    "sha256": "851b298b29256f068d08fee8f7829148746f378a53209d09ca8e8442e433183c"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSound/sounds.original.json",
+    "bytes": 687,
+    "sha256": "3e01877f757fd9f888ba4f071211e0aeb8f86a22300d6f16a903b2b6449f924b"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSoundCore/live-assets/voice/dragon_roar_live.yml",
+    "bytes": 203,
+    "sha256": "58479f35307187f26812c9bd2a24a591f3fbdf9edcab6f057e2c6cfc354ca137"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSoundCore/sounds/bgm/bgm_field_test.yml",
+    "bytes": 198,
+    "sha256": "aea4e3c28cee23437ab4c6b77504ca42e28eb83eb46252ab6c1c45940461dca5"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSoundCore/sounds/bgm/bgm_first_field.yml",
+    "bytes": 200,
+    "sha256": "0df7ed193d5f8020aaba984004234d3f8306b87eef89c14bdc6a832222155836"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSoundCore/sounds/bgm/bgm_first_village.yml",
+    "bytes": 192,
+    "sha256": "eb9217caf1f3abb6b0f2c00a1ec92cd7719de2ecea79b5b1d0041007514748f9"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSoundCore/sounds/se/dragon_roar.yml",
+    "bytes": 175,
+    "sha256": "f750c816d028dd680eda40216045e13f74b930d5ae8f4fc1a6bc5ca2caa97b6c"
+  },
+  {
+    "path": "docs/reference-resources/EltenaSoundCore/sounds/se/level_up_test.yml",
+    "bytes": 169,
+    "sha256": "3f6ff03e19106827454eb302b8258217743aaac82e353d0c9655df54799bb667"
+  },
+  {
+    "path": "docs/SOUND_IMPLEMENTATION.md",
+    "bytes": 12404,
+    "sha256": "200a3860de7749dc3693b45b054924fce6b3f91806e32b4a19e4581cc7b5a4b1"
+  },
+  {
+    "path": "docs/source-provenance.json",
+    "bytes": 5468,
+    "sha256": "fed3563ba68c451201bb7ab46c666f4254a667c043459fedb5cd9aefdab8f47a"
+  },
+  {
+    "path": "docs/VALIDATION.md",
+    "bytes": 1323,
+    "sha256": "31786820956d1111e24663c3678aa28a5946a1f7409d2691eab6f287d190f5bc"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1065,
+    "sha256": "6371215bc15de420944eafd1a6166c054efaea562c1a239e3bd052d20d1dbde1"
+  },
+  {
+    "path": "mods/EltenaAddon/build.gradle.kts",
+    "bytes": 1925,
+    "sha256": "17b769211f8d3f2c6f0f3144b2ea0e2d1ef9e463b23ae1a4957d784639260ef1"
+  },
+  {
+    "path": "mods/EltenaAddon/gradle.properties",
+    "bytes": 354,
+    "sha256": "6bbe52011c4a435a6c8ec5f6ade1099948aaebe05a710bf1cb7199090d02ab7a"
+  },
+  {
+    "path": "mods/EltenaAddon/README.md",
+    "bytes": 213,
+    "sha256": "6e183703f40eb74cd7696e2ac648229b58125810589b5642993f555c05daeeae"
+  },
+  {
+    "path": "mods/EltenaAddon/settings.gradle.kts",
+    "bytes": 33,
+    "sha256": "8e45cd58e0fa764be810f970d49ae9c93ab0d1aaaca259d0684c786d96c73839"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/EltenaAddonClient.java",
+    "bytes": 1412,
+    "sha256": "bfb1409557d2c70f039884571b379c02711f5a73d66498179560a9d8e9840929"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/AbilityRadialOverlay.java",
+    "bytes": 18863,
+    "sha256": "fcac736931032afbb43d930e8fde2c548315fb449f87e4232988155cc651b36f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/CooldownDisplayHelper.java",
+    "bytes": 1792,
+    "sha256": "27bb4ac495adf356ce039dbd13e6cca2aa85aa4c678c57a6d47fef4f54a03b78"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/EltenaInventoryStatusPanel.java",
+    "bytes": 14175,
+    "sha256": "75d11cd1232f512f493595001e4ef687561d86190d97e544b09852dc021752bb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/EltenaNotificationOverlay.java",
+    "bytes": 6875,
+    "sha256": "c543e3f34f7552800e67d269962d7cb75ac28f3992381bdf1a7051908fc6aece"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/EltenaStatusHudOverlay.java",
+    "bytes": 3268,
+    "sha256": "02962c062b8fabb4c0bbee17c4123c72b60b3450274231ba2a9ca236631bda49"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/RadialDescriptionRenderer.java",
+    "bytes": 3514,
+    "sha256": "2ffbebe28d2fb0fd4a2b13e11001a2f2b15609683638539fa1a4c413dd9c3f4a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/RadialIconRenderer.java",
+    "bytes": 4224,
+    "sha256": "58e8422da3a6792bac137192145621ec314b54f8ad10409a1ca25d15383e5da7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/RadialInputController.java",
+    "bytes": 1784,
+    "sha256": "bb5c7f6f42f1ece4e620444c58c1d722b69d1ed664e55ce42481771f98b5bbf1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/RadialLayoutHelper.java",
+    "bytes": 2762,
+    "sha256": "5c4caf38558c7d6b74b0939e4d102b0b3d4b2061ea4a0766bbb2c6e52abd4a66"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/RadialOverlayLayout.java",
+    "bytes": 3057,
+    "sha256": "fba872a69fffd968b3ac7b73e0d53c6b3691a5392ffb042042ebdb3941a72aec"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/hud/SelectedActionHudRenderer.java",
+    "bytes": 3955,
+    "sha256": "b7978a5e2aa617942ad372bc8cc19b6b5a2415e0be5842ca2e857fcd38fa23aa"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/input/EltenaKeyMappings.java",
+    "bytes": 1247,
+    "sha256": "42579f819435c3c9695159198b7763cf84a685ea32f3f27856f970c1ea70f1e9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/input/KeyInputHandler.java",
+    "bytes": 2883,
+    "sha256": "d81df45effafcb872c28d1e6d0e9ffb4b8979f3f4df4f1c93b4d975fad5a443e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/item/CleanModMaterialTags.java",
+    "bytes": 2795,
+    "sha256": "c82811fec11abca678b501d36c43b2f88f893922a0e3f0a73a3938df8a9a8cb6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/item/CleanModTooltipSuppressor.java",
+    "bytes": 10809,
+    "sha256": "aa9bb63b0c4124fee697834e9adc488aee8b09c91a365f0e92bcffbd6c911c6d"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/AbstractPlaceholderScreen.java",
+    "bytes": 2831,
+    "sha256": "e1aed624e0a4c588b85649fd802da033d2083ddd0a53a7a7fbbd79609d2d0e99"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/AddonScreenLayout.java",
+    "bytes": 2526,
+    "sha256": "c05d7f0bc819e6f45f28b3a2aaa3ea4b17c614dc35ae6b5063368345effe4243"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/EltenaMenuScreen.java",
+    "bytes": 26273,
+    "sha256": "84800d746a3b9538a92b134f7bf15f23460bf84a9a96a745c1af6189d97232b3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/PlayerModelRenderer.java",
+    "bytes": 2133,
+    "sha256": "9bd12231e53754d347093e06d6b3f3aef30037ec580a885fe1f82f6081e4e182"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/ProfileScreen.java",
+    "bytes": 12467,
+    "sha256": "d6de048b8bd73e51c8d8b6df457da6168e960444a68632b13721f88430de79bc"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/SkillTreeScreen.java",
+    "bytes": 42375,
+    "sha256": "57f6d6c198781b7c3a1dc971d9355189987ff27390a7ed85b209e0a7a88eba31"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/TreeDisplayFormatter.java",
+    "bytes": 4922,
+    "sha256": "f1e193cb2b32860341019433c7adcef497e7cf3d137ceaca1ccedfb38d3a2190"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/TreeEdgeRenderer.java",
+    "bytes": 1693,
+    "sha256": "42d68e68d69c9ce05c6b39dac45db76597d0fb54a5574f635d282d6f4a9dbf12"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/screen/TreeSoundHelper.java",
+    "bytes": 986,
+    "sha256": "efc111b83316d3af191c4dede881c098b90ea8a9f1d660608a17f0386b6c60ce"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/skilltree/SkillNodeState.java",
+    "bytes": 114,
+    "sha256": "37a835d2121243692814c678944388bcdb7367c9aaa88b4e8a4b57f4c9cdc948"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/skilltree/SkillTreeEdge.java",
+    "bytes": 122,
+    "sha256": "4e6cf1ceaf251f978d315648517220605e533cec1293606794e202353a22d7d9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/skilltree/SkillTreeMockData.java",
+    "bytes": 4987,
+    "sha256": "089f57a523468b128f94741c806e3e753e2fc6c27a2a5fb81e283c60cdd7d44b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/skilltree/SkillTreeNode.java",
+    "bytes": 312,
+    "sha256": "70b5c576c9ef54e8c8efb958c528927b4fb4b508797d7237d0f042949229d5bb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/skilltree/SkillTreeViewState.java",
+    "bytes": 944,
+    "sha256": "0bb4ed08d08afb184043af038b02f73938c3e51ca3b22fb9071a0a456f02f140"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/sync/ClientSyncBootstrapService.java",
+    "bytes": 3138,
+    "sha256": "59548b98c5cc3324d30313657a1e338655ff2da90d198b718ed06dc7bb7fd266"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/client/ui/AddonUiFont.java",
+    "bytes": 806,
+    "sha256": "af7b663ba608daa14c3ece5320f632c539d2911a939b6c9dca110638dd0584e6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/EltenaAddon.java",
+    "bytes": 528,
+    "sha256": "4a612bcf38320cbae94880a22fae546ddeed5d651a0ebc5300738044c43b5488"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/AddonSyncChannel.java",
+    "bytes": 665,
+    "sha256": "4f8d83c96fbac6e4460f2fe6d14022808fb5b38d7ab2ffc71f676a4b912c72c6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/AddonSyncEnvelope.java",
+    "bytes": 166,
+    "sha256": "84e770756384bcf113875bbf19d0b4b0dc263930804c475d149697e78f38404f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/EltenaAddonNetwork.java",
+    "bytes": 23405,
+    "sha256": "3bbfe3f9a30b1c361fc0c3d8fdd980065acbe48cc8930da37d4c90dc290dd945"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/EltenaSyncPayload.java",
+    "bytes": 1400,
+    "sha256": "b2060c61c5450f24a71260e4f9ac73e1603f2543bab895ddc4c8467912d65763"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/AbilityRadialSlotPayload.java",
+    "bytes": 259,
+    "sha256": "3e61b177e0708852d0845f1875c09de841fc1a4e7acbb68dc155d11b18ea42c4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/AbilityStatePayload.java",
+    "bytes": 348,
+    "sha256": "71e2b0884a1a3f24c84717a7a89e6174ad6dea91bd4ea1aa1abcd13e78feaa7f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/AbilitySummaryPayload.java",
+    "bytes": 278,
+    "sha256": "ec39e27282438da8ee1a98852695554540ee552ed1e7433028374ca2e5112716"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/EquippedAbilitySlotPayload.java",
+    "bytes": 168,
+    "sha256": "7a2e54bf065b5c6098118e05ee68e245062a8c44978c0467dde5f2c1e77d1fd6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/ModRequestEnvelope.java",
+    "bytes": 2461,
+    "sha256": "1695b235396d9a474d4c2298b6ee02c0c8049ee93a0b15a452e6f510be8e01ac"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/ModSyncEnvelope.java",
+    "bytes": 537,
+    "sha256": "5720bdaa4de2313be1a8be6ff72f136458ba7be2462bd1dd46296339d88b42e8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/NotificationPayload.java",
+    "bytes": 188,
+    "sha256": "39255491b2b1be1f54199daa7797b43d4adaf2f08abdd9b26c260a1c6fd89473"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/PlayerStatePayload.java",
+    "bytes": 648,
+    "sha256": "af5000978cfe35b0b567bf28adf2952c12b12839d5793314e224d838bc089309"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/SkillNodePayload.java",
+    "bytes": 705,
+    "sha256": "415ba2ccbea362ccb2b32279833afeee4649224d420924550e3089b7ac0cb9c4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/model/SkillTreePayload.java",
+    "bytes": 567,
+    "sha256": "e927489c015150821c49bcd3fb45b8116a7b39f17d417d73e78efca8381a5eeb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/ModSyncClient.java",
+    "bytes": 13464,
+    "sha256": "8d5f04bec694d342b31b0f17ee2b3192ea30aeb179cc40a014e437b44d744dba"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/RequestC2SPayload.java",
+    "bytes": 1243,
+    "sha256": "5bf2ce2daeee5e3dffb6899c0cb891c6a86c14684f63f754a861e8baceb37e47"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/SyncPayload.java",
+    "bytes": 68,
+    "sha256": "e7bef95cff5d04b9d6e0c8cdfc5a045bc26380b9407ea8e6c5acfee6181d5317"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/SyncPayloadHandler.java",
+    "bytes": 147,
+    "sha256": "9c1317c767f81291d95ba2bbdb7dfa9ddcbf0a7f13720607a219e7c08b9b8977"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/java/com/eltena/addon/network/SyncS2CPayload.java",
+    "bytes": 1351,
+    "sha256": "7f1dacdac5bea641759e3ab0c39e3dc38e260bdf740de0edc633b7eef66467d5"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/font/ui.json",
+    "bytes": 485860,
+    "sha256": "e6297470bbf3e2b7353c031ddfe8c355d7b2919b70b68011daeda71e25d27e56"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/lang/en_us.json",
+    "bytes": 7583,
+    "sha256": "7b476080b30e63416d42af892f3aebb6fb342eb1589527c8372613687ea61679"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/lang/ja_jp.json",
+    "bytes": 8082,
+    "sha256": "144dc83ef6c93fb8a088cfbe1b4ce764aaaba4011a7d296924300305722b0295"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/ascii.png",
+    "bytes": 94032,
+    "sha256": "e065feaaafd13006df7b0740d4fe14cdb9bec72f41a00dd56fe3dc039add0bed"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/ascii_sga.png",
+    "bytes": 41517,
+    "sha256": "d7fce707a2f9638b97b485fae6ae623b89ebd3be22ad0d930057c9f165290c05"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension1.png",
+    "bytes": 175737,
+    "sha256": "8b5fe373a2ae3670bacd8e846a2e0afd28a68afe600ccfc0a3550a33c844cfd7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension2.png",
+    "bytes": 211984,
+    "sha256": "9f82f217b219e2f2297b2847d76abaa169ee13d7fdf4fe1cb90d135cba9b8771"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension3.png",
+    "bytes": 205050,
+    "sha256": "5b33ffd1eb55b80bf2fafe1f7dc96c2ed17bfc5f8724f65513c02883aacec7c8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension4.png",
+    "bytes": 236144,
+    "sha256": "69898d35b9a00013ddb63fd49ce3d82dc5d5afb950203454e00b7148240362f5"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension5.png",
+    "bytes": 203601,
+    "sha256": "bf08f6eb65d43b36b28ee28d28027b6bcfff625cb1387b65c03a85a9a423c4bb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension6.png",
+    "bytes": 213510,
+    "sha256": "04f79aa940dffb19b7530b1e0aa8da16e042ce27d40fb4ce2786df744631d8b6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension7.png",
+    "bytes": 216550,
+    "sha256": "5574577a1c1f4d25c5008f5b89f2b84135122bb8f6ae83718fff61a501275fd8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension8.png",
+    "bytes": 237104,
+    "sha256": "e9cace8011c3eafbdd28aacf9d2e8c8627a57d7b65bcd96838839f2155c1b35a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/cjk_unified_ideographs_extension9.png",
+    "bytes": 157645,
+    "sha256": "918d4c576ade1d771513d92791761b4b1ab00b8606f4825304fb5039eadd6585"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_bmp.png",
+    "bytes": 130488,
+    "sha256": "3c7db0f184280c7f430ce4162569abea1ee122d4e150c5e0ed516f07b0a87b6a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp1.png",
+    "bytes": 271658,
+    "sha256": "9544fe41b9bd6a3615743d3aeb037034389c33ecc5bdcf9d05f33247fb078a06"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp2.png",
+    "bytes": 297259,
+    "sha256": "e32afe481b3885b53ec8937cc559e77d06521fcf5c00ec2669a0deca330b9463"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp3.png",
+    "bytes": 238071,
+    "sha256": "cb9dc024c2a7cddefc9e9682ecf8b9c63b29325d33526b85561a72ce511191c3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp4.png",
+    "bytes": 298113,
+    "sha256": "19776e9bf144f2e1681ab21807f83ddccc9ea78369790060f47c04112f6a35ba"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/emoji_smp5.png",
+    "bytes": 195243,
+    "sha256": "b8a619814f16242ac92896b4652cb74c33eee39776b6983eaaed792c5afda81b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters1.png",
+    "bytes": 129776,
+    "sha256": "5e312d5c2039c99b9b15bb409ff6a770f64850377997c42e54a534830e6c63c9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters2.png",
+    "bytes": 115612,
+    "sha256": "d86208b143b69bffaba93c6f9b55c01402061aaa9c7d144ef7724a23147bac28"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters3.png",
+    "bytes": 119650,
+    "sha256": "b2e4582ecd0d8b1b34225716cefbcd6511bc4f3f3b4803226036e76e5876a8e3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters4.png",
+    "bytes": 122236,
+    "sha256": "fe7fadf0137e5080ededdd8683676d7aacf9d1ecf4308ecee3e438b1028818ea"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/fancy_characters5.png",
+    "bytes": 68812,
+    "sha256": "da9f18099cc4a51b90c4d3c446d94de4fac81545aa8ea5ae412d0ff8407a6757"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp1.png",
+    "bytes": 103964,
+    "sha256": "d390fcb11e246b3fd3331c2144e3f4e344820e9cecce0dc69b9ae7c753772560"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp2.png",
+    "bytes": 146051,
+    "sha256": "c8a037448eec8cb8748ef308b568cdd5ca1794a8e248deb2c80d65c81c62c063"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp3.png",
+    "bytes": 158164,
+    "sha256": "e721318dfc4d822d8f2acc807193799f9114b7d18b22755f22b5dbfa376369c0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp4.png",
+    "bytes": 115593,
+    "sha256": "69d3ff2068593d705df1dba5b19a7d94610248951c83c7fe55bc4a612f288d8b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp5.png",
+    "bytes": 120956,
+    "sha256": "f5fff9e7f3683761a35ca7fbb2eb571b51d66e72fc7aac1381b3dbcfa07e8e56"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/symbol_smp6.png",
+    "bytes": 33587,
+    "sha256": "83365d3fd30366db65a1122bcce67ea91baa0564e5356e4dc9d4c2d60069d62c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_00.png",
+    "bytes": 75400,
+    "sha256": "35479252780595dab6c4a5e604e034030afbb7cecaed9d60f2ebcc7e1334ace4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_01.png",
+    "bytes": 97132,
+    "sha256": "8e7597c2ff5a4c103eae9ac68f3401c165e402453260d2e1f9c244375e7a7651"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_02.png",
+    "bytes": 83172,
+    "sha256": "7af875ffcc16214aea246b0656e77bcb90e7fb0ae1f9f02158f23e1b88df71aa"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_03.png",
+    "bytes": 75027,
+    "sha256": "40fdcf1b120a3d44430d83affecbd6a9fda466d9387ab6480b7bac180315e603"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_04.png",
+    "bytes": 103096,
+    "sha256": "9b4c96a1075421be01949b70218eb5eb7716db3fdfb1a0034484c029ebe028aa"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_05.png",
+    "bytes": 71967,
+    "sha256": "03899678a99745f4569ad3d799cde30a38a08b7d7496df4bec2886ed422058c4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_06.png",
+    "bytes": 82246,
+    "sha256": "4c33d2fca5bffa1231582cd985af8a239ec025f0e1861ec0ee915fdc5e96bad1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_07.png",
+    "bytes": 64224,
+    "sha256": "018d1e74550badca5c15b9877b43b0ed8a29cd0a34182a2ce4b32d5b02e65b1c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_08.png",
+    "bytes": 58506,
+    "sha256": "8e916bbd8965d164838bb92de2f44ec9750e145b69fb05d09ab49aae550354c1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_09.png",
+    "bytes": 93798,
+    "sha256": "83eb595543f3ddf13956fa1c245bfada4d78304e7327a7d103f605aae7714393"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0a.png",
+    "bytes": 79320,
+    "sha256": "3ad6cd9426a2dcb423d95e11f31db99022548e97d0f470f8af6df1a179909f0e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0b.png",
+    "bytes": 94628,
+    "sha256": "159cddfcfafb8691ca5bfdbe22f1d1da7a3c1eb05bd87a1bc0739f3a1c72e6a8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0c.png",
+    "bytes": 102640,
+    "sha256": "21730e96490dad55b218b8194ba497067ceb7a61c9feb1ae9b502afa83dba83c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0d.png",
+    "bytes": 119958,
+    "sha256": "a9e4b8f7adcc641c13ec01a3380948504fa80477ff000437c2e8b39b5691de6c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0e.png",
+    "bytes": 60436,
+    "sha256": "5fc8d16e392bee32f7a717ccddd1f9f02be1c22eb775d34b066bc931765d4bb6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_0f.png",
+    "bytes": 105810,
+    "sha256": "4e9774c142028ba217d685bbc2a33d331e4bff6c61b100792059ec33d2be6c49"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_10.png",
+    "bytes": 113799,
+    "sha256": "236cca12d7c379ee215c4c17523a6394ce80dbca8ee9fb178950403225d23180"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_11.png",
+    "bytes": 50966,
+    "sha256": "fd942a95a7c002a6a3eab8b19491f4723fa3392599fdbd5aaf68baaf66135b4f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_12.png",
+    "bytes": 83481,
+    "sha256": "1c10e97485860ad613a2e795ded8472f7793f09164cf719b7e60964a7188dbad"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_13.png",
+    "bytes": 105502,
+    "sha256": "1ccb6028c9fdf267bffee088f86f9f71b55bfc09c855a21fcf20ed74af5e8ba0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_14.png",
+    "bytes": 59495,
+    "sha256": "5999e4487addd268480f52b6b485ffa682374e454b6d13888012b1ea644cef9c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_15.png",
+    "bytes": 82694,
+    "sha256": "e9647f28f4d4b02ed3861ee94314c92b118f6cbac916511dcf01cb6d9940ba5a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_16.png",
+    "bytes": 80828,
+    "sha256": "b9931c457380fc80c5bd2f99b6742147a7d94dfcf871114e9d5032fcf005ad18"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_17.png",
+    "bytes": 78833,
+    "sha256": "71a889ddab72ac0445716d46981547de8ea217eb801c3eccc18e71aaca0cf07f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_18.png",
+    "bytes": 90436,
+    "sha256": "018c7161c5f0b9b07c0d2daf4ab17f6e22c1515d30952d809c066c4e07c8f7e3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_19.png",
+    "bytes": 96890,
+    "sha256": "d7b84837b48ab62f8e1eaf673871a337616e7199d71245ac44781b46bec90d2b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1a.png",
+    "bytes": 75816,
+    "sha256": "fbe7a73779bd283613630d57fa78c694b67b3dbd3ea53201c8beaead259c964f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1b.png",
+    "bytes": 103441,
+    "sha256": "2b01a83e93007414499100f8b7eade4358c61cb92f6e4cde1bc3847f18ab5500"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1c.png",
+    "bytes": 78706,
+    "sha256": "269db895b71b96a3869b5523d499a9d53d4a8304775d2ad1eb5b59e3689f2706"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1d.png",
+    "bytes": 71286,
+    "sha256": "1ba8fdc097e5abe3ae5ad72c3886cd7c10ce060e8f07f1706e23f220a883b5c3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1e.png",
+    "bytes": 81069,
+    "sha256": "690eee1ddd7e09ce23d4e844ffa8c18f3933768b81db563014bbb434024e7717"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_1f.png",
+    "bytes": 80659,
+    "sha256": "86423d0e3869ed318e9684ddb9fc9d72d7fb5fe70cc461749ea2e0ed0dd5b0ea"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_20.png",
+    "bytes": 59395,
+    "sha256": "67ddb9ab80ace4a0279250c778570db6e9e3dde54099e61a4535ba36727687a6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_21.png",
+    "bytes": 111617,
+    "sha256": "15be3c8135bd28251f231a1363d7a0681ad6e88efbcdeb7bfbe14eeeae0839ca"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_22.png",
+    "bytes": 84893,
+    "sha256": "a7e11e3383be4e58ba587d0d7afdab8b3ac443e2b39bd546f24267a3c3b7f293"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_23.png",
+    "bytes": 98470,
+    "sha256": "a4f64d87edc4f4643702724c46c05aad35100bf1b913e99457034746b5a5c218"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_24.png",
+    "bytes": 129503,
+    "sha256": "d52c18ff5a0024f127f50999f55de470a27800f46883601724224663dbdf0661"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_25.png",
+    "bytes": 45313,
+    "sha256": "4d0fca0dbb2f3d2f58ed2fd6b0b1ff76672d63aeec938bf50eb5dbbc145c0365"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_26.png",
+    "bytes": 174879,
+    "sha256": "b6690d30384ee534b4df9e3ad8b4cd9e68df364644728829c81544c6e7649c67"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_27.png",
+    "bytes": 131038,
+    "sha256": "d39fa315da5eb7e83d848c349eccf6bebba04d63b9ffc2456ccc15a353cb4c25"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_28.png",
+    "bytes": 50591,
+    "sha256": "94a1078913cf1c97e84d05c34c39ed4fa2ea9415032ce7e7150eca8f9b58d16c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_29.png",
+    "bytes": 80496,
+    "sha256": "e247b32646b72e3250cd15233e26ea12ad479a47635fa0c5a25103c74d72ce3a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2a.png",
+    "bytes": 86913,
+    "sha256": "8d409ef38b394f0508f52aa558bde9f7573fa5a1a1df19ff90dce0fe2c057c86"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2b.png",
+    "bytes": 73796,
+    "sha256": "ca7dbe8e8da97b8cde7210e8e4add1aa264bef7ecc59fe2ceb79d03441b7f4b0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2c.png",
+    "bytes": 54316,
+    "sha256": "ef8cdc137d5c928394fe80baeaba7127bd9b66c6d8f593aef1a0160a44dcaca2"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2d.png",
+    "bytes": 76871,
+    "sha256": "c7d81dbee1237228496b9ec4a2d39c00f8f62de22b6123e8beada2c85637e49a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2e.png",
+    "bytes": 71806,
+    "sha256": "cf6a17cdc6c3a20eb2360f5173ffe9a5d2c7104a524351f1b792f31d74058a9e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_2f.png",
+    "bytes": 110934,
+    "sha256": "76ed4a960dc2841af97b51b6177ddb79ee8240565df1e2b7697b0bde7468d349"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_30.png",
+    "bytes": 131025,
+    "sha256": "8c77029d0468960c54172454c70906036c94b6fc5766d5f6030594be48360e23"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_31.png",
+    "bytes": 76022,
+    "sha256": "00258a8387feffbd7761ce222465a68301b9cdcb582fdf5d1786996fb6eb33af"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_32.png",
+    "bytes": 190259,
+    "sha256": "6b2b8ce9d6bfc50a2f88a3ec0b9a03de62cd297194cf7c1c864ca73e327ce70e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_33.png",
+    "bytes": 162043,
+    "sha256": "6eaec0d49c0621ba059faf043a2408565e3275b3c25d975f8fa0e2f5a05b30ff"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_34.png",
+    "bytes": 180033,
+    "sha256": "1eb7e8591685f82c3c01b30b20937100966237a4f5e7bb4b8f00712e17a3bb11"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_35.png",
+    "bytes": 165802,
+    "sha256": "2c11e1b94934df2f91b599785303eb6ad9af62c3dbb92167235ecbd1280912fb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_36.png",
+    "bytes": 194984,
+    "sha256": "02a2c0442ddd97d09d9e63c235e2dfdbe9a37daf592242bca7927cf9f16dbdee"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_37.png",
+    "bytes": 181198,
+    "sha256": "cedf7ed0cd88ea4661ad331b51f2f7a23b8b8b6175c4cad6a7a66f8f1cf70575"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_38.png",
+    "bytes": 183626,
+    "sha256": "5b9c730ce5b96de4e89359702b2049d05d3311519c8e3e3ab5cc1ad4d6847316"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_39.png",
+    "bytes": 205703,
+    "sha256": "78de5834cd9cbd1f8d3a52b6eee2ed5a465c98547b2674d552c97de62e35b733"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3a.png",
+    "bytes": 187135,
+    "sha256": "a3c10373351aafb5ff9fb5fa454a80f8581746944b05c4fe708e5ecf02b62b63"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3b.png",
+    "bytes": 204668,
+    "sha256": "a276a7aeb1cea5a36f4d489983c3fb4bc1708046e70b99b83b4121c7028768e9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3c.png",
+    "bytes": 225674,
+    "sha256": "8b7d43477c68d15c4d41fe4e61db90205608d124c0e1d6e2f8c30e925ea3a08c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3d.png",
+    "bytes": 231960,
+    "sha256": "e7de738d7807e66b88fa0f4504de478c0ae6890cbeab8c088956a9a8eb56400c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3e.png",
+    "bytes": 203240,
+    "sha256": "cf3a59d6a232ba963a9f1ce64c4fda46fe6fe2763b151d9fe513378730e675eb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_3f.png",
+    "bytes": 203686,
+    "sha256": "5d40cfc894377b2d17cc14009e041682f1e4c248a570e23afa96b8a345d167c3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_40.png",
+    "bytes": 181347,
+    "sha256": "12e247af322c101cf8facb3b54a4b2c2b22ffabdfe43c7a8d785af64c28bb785"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_41.png",
+    "bytes": 200632,
+    "sha256": "bbb6a8ae7ae32a0eaf8b1785cd906114ea5e68ab104cd94f82f375d0a93c50cd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_42.png",
+    "bytes": 236440,
+    "sha256": "adec7c521463c71bdfa1fad5625b596acd07d427bdc3e11fc542c39b4209d9ef"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_43.png",
+    "bytes": 207610,
+    "sha256": "62b09563c7f48bcca54258c25c74468968e0ccc8c7af9aa76677a1f5a429bb9f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_44.png",
+    "bytes": 171185,
+    "sha256": "cbb003f09fc8d9c7151bebd125f0f22b99655146c801471c22bb50f65e51e97f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_45.png",
+    "bytes": 192123,
+    "sha256": "0b7034a9bd6e7b2c54ff34b92b6d63e5a31961ba63e0cd1113cf7856f80903e7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_46.png",
+    "bytes": 193595,
+    "sha256": "39cc27fd47a20938760824ae5f47f0a0c121073eec94d423dbf77dee794b10f0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_47.png",
+    "bytes": 199193,
+    "sha256": "b23ae9124dcb9bcb87dc96fdc030f44c849f34d50fe74b028f11f02bbf691157"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_48.png",
+    "bytes": 177563,
+    "sha256": "703349e1d3e91054b5503297b1415ce163421bc3e95ac3347d75f7c09e052c17"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_49.png",
+    "bytes": 206858,
+    "sha256": "23f0173f1e1cc29feec769ae6428bc3ebe8b8f222cb28865ac9b78c9ceaa6c7a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4a.png",
+    "bytes": 174137,
+    "sha256": "ece581662a66080149de9440fbb558bdbde01115c5bb18d1031633735e77fddd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4b.png",
+    "bytes": 209597,
+    "sha256": "b116185050c381b9d946c3a11f4d18e9baa12ec1a874d18a1b4904062b1240ed"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4c.png",
+    "bytes": 224811,
+    "sha256": "73776a1af9d74e11d86a65a472d563671d9ee7b36dbda2bf322a4977abe0734b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4d.png",
+    "bytes": 168442,
+    "sha256": "1ec2c81355b3f1fb316c3bdadfa221253a584e5dd1f5b5840a997251dfecce13"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4e.png",
+    "bytes": 135523,
+    "sha256": "276acdeb94b2995a09d40cfa3280cb865ec7f2a9de789a2c01f1af12026a656c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_4f.png",
+    "bytes": 175800,
+    "sha256": "a15cce9cb7f7635ea9094c0096986e5bc75c1a00825a1e7f1dc6d9619fac6458"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_50.png",
+    "bytes": 191628,
+    "sha256": "3d5334cd37fb00e6646446782ffb613705511f9cc6f6306098a6fbdbe6979b81"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_51.png",
+    "bytes": 166890,
+    "sha256": "0bfa18e6ace400109538f0159629ff9e8b8333ac303ead2f389aa0ccd882b69c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_52.png",
+    "bytes": 174157,
+    "sha256": "005fc6237201b84c167915bde6bba20493b8c18de8e5622be509f4db65772737"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_53.png",
+    "bytes": 142915,
+    "sha256": "a3f26812d208a2dcff7b5611dd764c09736025ca3fd4feaa8dfbe6d8247a5b75"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_54.png",
+    "bytes": 131844,
+    "sha256": "763ffbb57db85622ede5e6973c829fa88723035bea93a3ae66e10c31caac5374"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_55.png",
+    "bytes": 150606,
+    "sha256": "c2ec6cc854c45120579b05b36cc6c8c5f82fe6ad834c687337b97989bde21bbb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_56.png",
+    "bytes": 163140,
+    "sha256": "eb5fa85e49eb8b518f90f4745d2ca521ccf049cce718dbec87f3179152af2508"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_57.png",
+    "bytes": 148526,
+    "sha256": "5a7ccaa90fd80cebabaf99d693568cb69a8f093610d2fb30bdbffecd45082647"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_58.png",
+    "bytes": 161896,
+    "sha256": "9cb5c1ec395a75122d738af0178eb4a72f18fd3f42a2dc6755d99f4032fcee17"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_59.png",
+    "bytes": 196557,
+    "sha256": "e4b744503429d709bb1a1a1a9d5a7e291e499813d46ceceee4d61c7af0a6af57"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5a.png",
+    "bytes": 224824,
+    "sha256": "d96f49c57437b1de7ada4364d318c414b1d279fac0abdf9e7991285b7c2044e1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5b.png",
+    "bytes": 179584,
+    "sha256": "3ec05ab9033a32e17eb609ea6cfae8ce7480db9acccf11db9e99b864539da1e7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5c.png",
+    "bytes": 146282,
+    "sha256": "23c38005685faa2f111528551c087e09808e17c33ee334f27a151edcc45cce4e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5d.png",
+    "bytes": 165635,
+    "sha256": "cd2808aa4e8a0aefef743fa411cbeb54ef67f1ed82a9a83f0602f4201c55bee9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5e.png",
+    "bytes": 158060,
+    "sha256": "57781844cd234ea0ffdf058d77e1c6ed5c94467f085ed9c0f018ef3128e2b397"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_5f.png",
+    "bytes": 182886,
+    "sha256": "0d116ad64f2c936ac99a00b5f2cd89792ba60009d781c5cff224f0be14acdfb8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_60.png",
+    "bytes": 194705,
+    "sha256": "385742da982255a4b9da7dcbcb2d90e8312e7d8bbe8ce4747758abe2c1fb01c1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_61.png",
+    "bytes": 219450,
+    "sha256": "df6764273d081cff9b9bc3f17aaf688cea9b4f89cfbbbf08fa31178f3b21b463"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_62.png",
+    "bytes": 172871,
+    "sha256": "d42aaf8b5f05e2a3e85a1848cb247105048ddaeb07d0e76639bf9fabe749dfe6"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_63.png",
+    "bytes": 175942,
+    "sha256": "0ee4d539ae41ca14ec14534ef8481891d5a703bbbff1ae5fae20511f97dabf15"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_64.png",
+    "bytes": 200699,
+    "sha256": "c560890e7009e17cb79a07f586a1e11df2340871ca61f5134276434d7dcbc28a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_65.png",
+    "bytes": 201011,
+    "sha256": "04a1d10449759e6ee9996cf8630d3f5add4e9be01b14c8f86f87aaa9514d99dd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_66.png",
+    "bytes": 144370,
+    "sha256": "c9e324cfb1bc2154d7e8d12859dd02c44cdfa7967a9b8cf753f5afbd7bee94de"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_67.png",
+    "bytes": 172678,
+    "sha256": "cd3fb76488228ae99a031e7919cd003277d13d774d459417bc6e86de890646d5"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_68.png",
+    "bytes": 201423,
+    "sha256": "e8169e0152c175fbc1afdf77b84cf9258aa20fb6eb2f046f46757821bd9ddbeb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_69.png",
+    "bytes": 202539,
+    "sha256": "3f97753c94ea2b2602ee8ac11782292895bb9026dd3aed43a0dc55632722253f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6a.png",
+    "bytes": 223995,
+    "sha256": "79636870aefcb471b0cdc84ae5c6b1282e7e46e0ce9da16a7402038089068c7b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6b.png",
+    "bytes": 218075,
+    "sha256": "1dc60d065c2601b608e1429f73abb66ef58a981d09d39ab3905cfc85f5967202"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6c.png",
+    "bytes": 191924,
+    "sha256": "83c3b79af9aafdf093605a9f7590a85cba1119554d43b351f7239e78061a2728"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6d.png",
+    "bytes": 206561,
+    "sha256": "836e108ee85250e579788e0e716c4c6ed892dffa800e07f213536cce25081c22"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6e.png",
+    "bytes": 215862,
+    "sha256": "10b2f279775614679a33456bd997c221dc2df34168d1257275ea889c4735f1fa"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_6f.png",
+    "bytes": 229509,
+    "sha256": "45a4a746895b834c15aecb4f9c1a530ec761a09a9cc49d597a6b0ee509060623"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_70.png",
+    "bytes": 230873,
+    "sha256": "5a2280705097ed15b8ca8bc5a72368bf14827fcda22bd12e5e9f51d58874a3a8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_71.png",
+    "bytes": 227202,
+    "sha256": "04b04e9f34153582b67f621e2d2fe97f7eee33b14ff958bcc637483eb3c0c938"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_72.png",
+    "bytes": 208179,
+    "sha256": "15dc2dc8b682ebaf669a062f92e5fe2087f0ab2f731c054699b77de598403568"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_73.png",
+    "bytes": 197811,
+    "sha256": "68ba6aba5c8ba42639f560e679e232bbfba6cf9091d97754b8d16117507d920f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_74.png",
+    "bytes": 186590,
+    "sha256": "0fc1539cfbfbaecc3a7c41aba1b27f4311ff43a443498a056cfca257d251252e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_75.png",
+    "bytes": 166976,
+    "sha256": "a673e642a3b24440257274eebef9b61a1971215861511176e56ace36d103c7c8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_76.png",
+    "bytes": 183870,
+    "sha256": "76de407f6072be53ee2ba37c1c6ac39516a874e1f5fa1d512ba6d5736fe34eb8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_77.png",
+    "bytes": 160608,
+    "sha256": "2fc0122565061a9c588a67a09bf505e5bc45e12e92d66509e057343ac184887f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_78.png",
+    "bytes": 181569,
+    "sha256": "b6ac85898a0cd7377d735875608c2e76deb9e1cc71e3b979b1e03893b1cae362"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_79.png",
+    "bytes": 190161,
+    "sha256": "21a3f2197f12363c16d6b3799321ac65c18cf0d571cce2d04bbbe19c4831aaa4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7a.png",
+    "bytes": 199048,
+    "sha256": "bb3ea3b11a534e7294a7559f70997780c8b5e2dcdf3ff0c97a85d6b1db79f855"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7b.png",
+    "bytes": 190249,
+    "sha256": "58a4eb0b69105f7b3a2a0e639331b15d288773432beec032afa531ecbdd637b1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7c.png",
+    "bytes": 220539,
+    "sha256": "f112bd24c964685bc8136d218a05a0fc7934b8492fc83957ec6ed0349e3f4e3c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7d.png",
+    "bytes": 252861,
+    "sha256": "9fe10bf52e6e9754bbc8611a99403e671d26809dd72ace2a267a9b59a1e53252"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7e.png",
+    "bytes": 256853,
+    "sha256": "b3146bd53ee4a6e813e99320947d9a5811f31f73010c3845628c5fc99553dd5f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_7f.png",
+    "bytes": 197454,
+    "sha256": "5cb2893e2926d8c44755e5585973d5514f3a343074189cf37882bc3711676bc9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_80.png",
+    "bytes": 167851,
+    "sha256": "47a6ef6ce300075f456c85f2f446e9f3a5d3ab0c94eef467ca3c3d2dde6492d8"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_81.png",
+    "bytes": 187117,
+    "sha256": "a72ef810407bde967e22cfc00d6863645ffa55f62b091f90d01c677e94445a44"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_82.png",
+    "bytes": 157355,
+    "sha256": "b224d0610632796564a653bbb3c30e48f53ab87bd973301f34e37ffcac172020"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_83.png",
+    "bytes": 154364,
+    "sha256": "478ce3a2bb8190a4f707159895a541fafce18cb3a0f9304d02a6d983e616fe12"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_84.png",
+    "bytes": 161628,
+    "sha256": "642994c5296dc1b44db332ebabf1ae4da07241173b6f937c84325022e27405c4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_85.png",
+    "bytes": 183951,
+    "sha256": "e13c1c339353cd3fbc35218245a31455229be8b5b1e7aec397884106d641774d"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_86.png",
+    "bytes": 182989,
+    "sha256": "43b5bd4ac365a16d46c0e483c5d891c6f34ecb7327c61b1803835421484069ea"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_87.png",
+    "bytes": 187860,
+    "sha256": "c859ecb79bd82420c6a529f4e335137b2d5c00a8d3e2fcfe4e8eaa0fc91b14a4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_88.png",
+    "bytes": 200595,
+    "sha256": "0f821155222f19117dd8d308f8ba805c6abcda6a3cd679e867797c891833df97"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_89.png",
+    "bytes": 206492,
+    "sha256": "f5e9f7178a42dfe3fbc58e8028d37dbba94472908a43cb9e1ba6dd2dde6a840e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8a.png",
+    "bytes": 140126,
+    "sha256": "54d82c20ac2eb9353449e06117e55207b567305f06441b0c55c188be7e387490"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8b.png",
+    "bytes": 170362,
+    "sha256": "1f5ae2bcbb97d78a90da2c64a309a8672c7343e74fccbc0cb102407309f502ee"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8c.png",
+    "bytes": 196347,
+    "sha256": "e006008d0427dba656d2cd5453bcbb8da557df282d0d7d81c71a99b93ecf0fad"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8d.png",
+    "bytes": 177659,
+    "sha256": "88f939a40f326c61781b9fe5e0e7c8b5ab3db65c917e3e421ed5fc5e6b89f199"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8e.png",
+    "bytes": 176864,
+    "sha256": "963dcd612bd3788de0f0138d5348bbc74e715d0077220f0ab778eb8a04e774ea"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_8f.png",
+    "bytes": 172708,
+    "sha256": "ffa17e943b3a3764e5aa097f3fe20c78d6ad0810c3a12e224d05c0dce7cce462"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_90.png",
+    "bytes": 191110,
+    "sha256": "94eaee331d4a4d7998714e25eb710b42635e06d22d27a5324287e988ada1babf"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_91.png",
+    "bytes": 187535,
+    "sha256": "8bbcbe064d430f395a9334182feee9d3f36a401d2bf33a6d9f60f10bbcb47216"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_92.png",
+    "bytes": 224342,
+    "sha256": "a3c15a17f98742b5496cbf61c13cad1e93f027bfcdc51d1e7f484b60de1dd77a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_93.png",
+    "bytes": 242454,
+    "sha256": "280ee1c56347a74561f7f414d87bda8688dc99603e87a0b927efeb1f6733eba0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_94.png",
+    "bytes": 217080,
+    "sha256": "ee4a247af1d673765a47009038163339fbd33ec0eabb49aae5eb264168cb2a5a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_95.png",
+    "bytes": 156731,
+    "sha256": "1857587456167fbca81f2a6b11f00e50667a69359cb5c8e004c0fd44bf49f54e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_96.png",
+    "bytes": 182731,
+    "sha256": "db49a9d38a1e2feb1edf903e856823773f661f54922659806e920a8868abb69b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_97.png",
+    "bytes": 156414,
+    "sha256": "3091f382b6763a39e1341b16657049a804134e28cf7155217c70ead9816dd237"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_98.png",
+    "bytes": 192257,
+    "sha256": "ee973eaf255e88ab3b99af9e96c5ebf13056de3ca315d3aa9c150e5722edb8c0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_99.png",
+    "bytes": 207048,
+    "sha256": "f1c92978ec1f4505534e879d3c34b59088ada3c2df2256dcdc5939fd82ca58f3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9a.png",
+    "bytes": 203551,
+    "sha256": "3d723f97929f8169da451ede419c77dca2c1397bb7131e1a25f980249c5157dd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9b.png",
+    "bytes": 219349,
+    "sha256": "380210b2103f29dadaa14af996cdf3e5ba691e33b98ed8875acda90a15e3b5f7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9c.png",
+    "bytes": 213787,
+    "sha256": "a862ddbb7b67eb98174af416f1d7981f5f6c8600e9e55986a6cc2569da7af136"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9d.png",
+    "bytes": 216299,
+    "sha256": "ca7ebcfe02501312a5ffe623e2a669dccbe46c6cb52f6ecdd0b847f763a74ff9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9e.png",
+    "bytes": 217269,
+    "sha256": "3242d086c872e2cb5c4eebc72ea919fb42065dfbd8902b93e9bcee2faa024b0b"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_9f.png",
+    "bytes": 187599,
+    "sha256": "9ad1537a93e2052320a2653dac2086a11a56e396fb6df4bbda02ff660e8ff585"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a0.png",
+    "bytes": 128621,
+    "sha256": "6d1ae4f2f243128b9ff85a97b5f5c8d043b2482775bf9fa3d08396b7f0629b57"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a1.png",
+    "bytes": 127923,
+    "sha256": "7120b3cc1d7e5f5060b2a696729bf5a1ff8bad772e12f57a2b2d9c0d36bbc887"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a2.png",
+    "bytes": 128869,
+    "sha256": "4d91bffcb48a0d80eb05cd175c1e5ec56f0c1f3ec780f97c5698a892b8dbbdd9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a3.png",
+    "bytes": 126586,
+    "sha256": "9f76bce1e45d032ed6749d807ea73e44563ad1894248207ff031209a480a83eb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a4.png",
+    "bytes": 95945,
+    "sha256": "d747ba419284ace00483459fdd266c50a091ac59bf4b859f515b07732a64670f"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a5.png",
+    "bytes": 137443,
+    "sha256": "752130820da95cf78ef847440ba1939512a4d412eae2139cd7c192e461ed8962"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a6.png",
+    "bytes": 96375,
+    "sha256": "5628e611c2a4bff95059d90a05d925cf8f929c5ee801582f2c92067f537c10f4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a7.png",
+    "bytes": 77282,
+    "sha256": "325e4afdabd7a8a8bf7e7421ba08b7ed85195638b3523a2e267d353ed59ed10c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a8.png",
+    "bytes": 106715,
+    "sha256": "85a3a5c119ab66a143780a27947bf83864bf6d0965c6611334790adcefc4abbf"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_a9.png",
+    "bytes": 100206,
+    "sha256": "b971ac7f33868340a03a8c69509beed9a669bb3a22a2891a96e7933e08814c8e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_aa.png",
+    "bytes": 115725,
+    "sha256": "02407d90acb2645b2ad0d3ec1d478ef1ca7b219eba0fbc332e6740cdbea8c0c9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ab.png",
+    "bytes": 99314,
+    "sha256": "c208d9e94c809221581cf63793b8db816b07a18faaf728385baa1f2f62b5d42e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ac.png",
+    "bytes": 104484,
+    "sha256": "c04a3b393b7a3be9e80ef369c617008c31352adab3029de9cfb217710d9a28fa"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ad.png",
+    "bytes": 82466,
+    "sha256": "3de5d1dd1b29edd7aea801ceaeb7dcd000add958b9a967db5a34264be9485f47"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ae.png",
+    "bytes": 115800,
+    "sha256": "2d338544f175a41f267a083fd16f04046aadde8da5c283ab4eebe299d6a251e4"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_af.png",
+    "bytes": 99785,
+    "sha256": "2245e9cb33ed853e39d74d873921f93d742600455d6273eda8cca3fa47fb2b6a"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b0.png",
+    "bytes": 91255,
+    "sha256": "e4ddae09892d3f056ee9cd0640e73c19e47991c1f88ba3384c8ed8a914c3d418"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b1.png",
+    "bytes": 77064,
+    "sha256": "5be95410bfcde459fb4fbce7911d4858a5034857b3374dd053a3bf0c8e755533"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b2.png",
+    "bytes": 74592,
+    "sha256": "b014af8327bd742cf3bb777e31389dbeaaa3409f7eaf7cbdb59918bba3961e9e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b3.png",
+    "bytes": 76911,
+    "sha256": "550dca1acafc109a43ffa32583e6dc7bacc1de9bc2a0ce210c87976499b3c438"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b4.png",
+    "bytes": 74969,
+    "sha256": "e44a0308da62fffc11bf288bdd29b15333b74a3467caa805a3ca7c61deecd603"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b5.png",
+    "bytes": 80731,
+    "sha256": "389fb263ce17d98d0899a74d3d2e89139f9c5b347421c65dc1d413131c11f5d9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b6.png",
+    "bytes": 83405,
+    "sha256": "f7437af4c6962da73caeee035373373f65743116255f56448ef1f15d7470b483"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b7.png",
+    "bytes": 80749,
+    "sha256": "3e78ab9fbde227d749e71506b98ecd0a7e6e872a4d6665faa53436360625d516"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b8.png",
+    "bytes": 76967,
+    "sha256": "fd628987fe8bc4caec6300ba677a09a179d818ebf9ce7a31400cbd1cb91b65e7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_b9.png",
+    "bytes": 72984,
+    "sha256": "581b3125412ea0be037566df82e5e02f5691b3697b47b6ccab03a536c3b5db70"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ba.png",
+    "bytes": 71082,
+    "sha256": "1cd642d8a9de218aeffd684257f32d8f221e88f6c667e4800437a3260b04aed9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bb.png",
+    "bytes": 72989,
+    "sha256": "36a33f407ab120b8f81c7c159581af4decc5661f5674f813125831d121a376e2"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bc.png",
+    "bytes": 70800,
+    "sha256": "5dac99bcb888372184a5aa43d5d07648f8b67074232c3c2c69c3664c06d9a4f9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bd.png",
+    "bytes": 78265,
+    "sha256": "bcdad19e947def72c2094ec59b5fe1050da8696b51570b7d677214666b3856c5"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_be.png",
+    "bytes": 73013,
+    "sha256": "c6b843ca13b72a71a097c802f036cd494031b5f92eb7eafc2171d3b81fb260f7"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_bf.png",
+    "bytes": 79622,
+    "sha256": "0bb224e80423ea8cc25168b359ebd154af96f84f4856da834091c6723f8cfed0"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c0.png",
+    "bytes": 90421,
+    "sha256": "614844d0ed05258a90dcc033937f829a1a5d7cf1a7af844c65e3851c143fc7f9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c1.png",
+    "bytes": 120387,
+    "sha256": "860085f94a4568c80a144417b47a9c613e1bd98dbe2129b76613e9e0376ebfed"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c2.png",
+    "bytes": 116759,
+    "sha256": "674ef7a9a69df314e2796c6e3ffe26835c9662c41a4a669caeb53b3afd697767"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c3.png",
+    "bytes": 126382,
+    "sha256": "442b644d486a3d4efa18fc0dd8a0f74856ef67e5207b5a2c050ca5e19b8c450e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c4.png",
+    "bytes": 120027,
+    "sha256": "7ace8085c65de542613a5baac41f5a33a8d28303a68ec11785b61a54972076cb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c5.png",
+    "bytes": 125261,
+    "sha256": "3d41c0ed092e94fc1edbf9f5ae6912b87d79e9dca4ac01177ebb804364f02069"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c6.png",
+    "bytes": 120791,
+    "sha256": "a4a68cd6b536b33f6aad02152f9fff11ff1a4abe8feb3953e8b41a09b8d2ffd5"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c7.png",
+    "bytes": 118449,
+    "sha256": "be601f8a401eff56bf368bdc527ba5a5097cd6b30a31a9c8a958c3432b9eeefd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c8.png",
+    "bytes": 117251,
+    "sha256": "44e6e2b638ceeb70137c6b5611df2abc45ce78aa918e075bca35986b90356c8e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_c9.png",
+    "bytes": 118393,
+    "sha256": "c67a67feffedb218280d49b5ebc0edce20a0b3ac3c5a682f2feb0002c332dc92"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ca.png",
+    "bytes": 124211,
+    "sha256": "830dc7b711fca5636e8f7152e13e17e1ade5f0cc696007f7dd71f1acf942e42e"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cb.png",
+    "bytes": 119841,
+    "sha256": "353349c471601e16c2640218ada9954d661fe86513bc1948c75e31c44972c3bd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cc.png",
+    "bytes": 118628,
+    "sha256": "5e0cc09fdedc465f4d5118eacf0670be7608f1aa8ec16083a8e2a5c16179a549"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cd.png",
+    "bytes": 114592,
+    "sha256": "a1d9a7c700ba9961b55fe1fd0cb2ae45cfdf17cd8331f18b6bb37eb35d0c89df"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ce.png",
+    "bytes": 115493,
+    "sha256": "0831cd604aae9d31e9a7f88f12eb8527dff6d1d982189562e871f976b124a406"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_cf.png",
+    "bytes": 100086,
+    "sha256": "ab3cfb9b09f04265b3eac0421b707b466369f3f60cc2eb3f447a387af6ffe3b1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d0.png",
+    "bytes": 92223,
+    "sha256": "1ebe97aec38eb3cf4c32866871b051d9d2e01162ad23c425faf6203d503b22af"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d1.png",
+    "bytes": 80386,
+    "sha256": "62184a4bb110bb045fa781ff7a313e6b0be695e063487b409bd841c97a31ae86"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d2.png",
+    "bytes": 75611,
+    "sha256": "e50dbecdd259f1b1bc60f2d0de065eed7ded2295339331f280e0a7ed4996e1b3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d3.png",
+    "bytes": 80312,
+    "sha256": "9481de103b45d8effc262b0bf4c11bf0300bdbd4ba09ad2dbfabd7e52c2ed7e3"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d4.png",
+    "bytes": 77872,
+    "sha256": "f5d96aa19a1aa0a1b28bd57b1dc14536c84e362ca87240db15937ec32b1b6e38"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d5.png",
+    "bytes": 97967,
+    "sha256": "516c15749cfbef6f7aa4fda8b6508f6ff424582d7db9cbdbb0fcd4f47dfe600d"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d6.png",
+    "bytes": 108675,
+    "sha256": "bb29c55b609d06ef658e07bffb2b69932c6d643479c1dec63cebb994de3b097c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_d7.png",
+    "bytes": 83305,
+    "sha256": "d9d3a3015f50b5c8b3e2b0c2faea83fe8a927169a97858441bf49d5458a367f1"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_f9.png",
+    "bytes": 200433,
+    "sha256": "c27d36473510c358b849ff43c767da89492560be89fdc861e104d537f7f98baa"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fa.png",
+    "bytes": 159939,
+    "sha256": "1c9f171fad23b619476e108f1315a098c66827232b3db28683e6bb9c51e7a550"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fb.png",
+    "bytes": 67524,
+    "sha256": "3784a886a7f5cbc09467bb36a65401215046cfdd9d16233d66d908c46c9fcd7c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fc.png",
+    "bytes": 77983,
+    "sha256": "b3b339ff0a9ac061372ab945aa205440befb96817a428f73683043bd9a0865bb"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fd.png",
+    "bytes": 64105,
+    "sha256": "dd82530cdc502b0787cac340fed26eeafa46d77f7c0f59681769ab5ab6ca350c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_fe.png",
+    "bytes": 65568,
+    "sha256": "b40f8f32c50d4aa60b19c1d63b8e71a9e8d82759762ff31656b1453e8b672fbd"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/assets/eltenaaddon/textures/font/unicode_page_ff.png",
+    "bytes": 77768,
+    "sha256": "38ed8a1f354ecebdee5d0a92038f84f86e0d50486e3489f6f2111fe2ed6b62d9"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/META-INF/neoforge.mods.toml",
+    "bytes": 544,
+    "sha256": "b0adc6787b2b422f0865d2df0fa499a2588758aa9771ff4a1956142d0354c15c"
+  },
+  {
+    "path": "mods/EltenaAddon/src/main/resources/pack.mcmeta",
+    "bytes": 86,
+    "sha256": "570fa5baf4a5f268f75f90ae15c6f96b5cf45982546fc9f671418b4f4b50f49d"
+  },
+  {
+    "path": "mods/EltenaEffect/build.gradle.kts",
+    "bytes": 1926,
+    "sha256": "a6a6514ba98739c656e147bc19b462e748766ac4f836967711be038334287513"
+  },
+  {
+    "path": "mods/EltenaEffect/gradle.properties",
+    "bytes": 348,
+    "sha256": "ddf9f0b48afba81b954aaeddfeaa8ce00f2ff17a7b9464f7574fb17f4fd5c82e"
+  },
+  {
+    "path": "mods/EltenaEffect/README.md",
+    "bytes": 214,
+    "sha256": "aeeda5e663864fc5b081565193c7cd15516c0e92a349df82be06f96e0abe744b"
+  },
+  {
+    "path": "mods/EltenaEffect/settings.gradle.kts",
+    "bytes": 34,
+    "sha256": "e091fd11bd1b07b42a85d84baabd2e2eb7caa8a889f9542baa4f779e45cd7efd"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/client/EltenaEffectClient.java",
+    "bytes": 938,
+    "sha256": "74d27428c436668e288c82782b0ad07fcccdb2fcba5dfb40d517481908324817"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/client/virtualcamera/VirtualCameraConfig.java",
+    "bytes": 3770,
+    "sha256": "8eaa3750a1bbe1a456622f728477ff0b3c271586ee5abff3d85b262803d548e2"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/client/virtualcamera/VirtualCameraController.java",
+    "bytes": 13349,
+    "sha256": "d793c6448fa13a4527b1addfc14c5e07127bfac64c4f8a13dc0baf881c99dd87"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/client/virtualcamera/VirtualCameraState.java",
+    "bytes": 17243,
+    "sha256": "64df61669a7f5c53cefcb20a84a2b455831b3b38594957548c9f44308c4e54e5"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/EarthquakeEffectManager.java",
+    "bytes": 14947,
+    "sha256": "0f4a7f725cf1c902bb364713008953d0f0994738c335083d94be6b4b6dab1b60"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/EarthquakePayload.java",
+    "bytes": 601,
+    "sha256": "b292a6c51a8671678ff9e28e5f85b999e4899622bdbe72149ce607586da9bf76"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/EarthquakeShakePattern.java",
+    "bytes": 520,
+    "sha256": "c50a5a80fabdaa5fa5a840db7b893bf3418d60ed5a50c8afa59d9e165be0d54c"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenEffectManager.java",
+    "bytes": 86616,
+    "sha256": "d9722f68f324690ef451612bd80eeb6329a4bf07d32b918eb20ace82e0556a7b"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenEffectPayload.java",
+    "bytes": 7124,
+    "sha256": "86d3d4a7f5c0a3a27833c127cbb2011146c4c907deba83b9e1d8859a5a7aa373"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenEffectShaderManager.java",
+    "bytes": 18002,
+    "sha256": "b5aeec0cdb5714c8baf6a4a0a7172acdb05513459b18dc2538e2d184133e78e0"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenShaderCurve.java",
+    "bytes": 1053,
+    "sha256": "195fcfe3e93e1dcd33d1caf5eb0319dd432f87cd64ad9bf08d4b5814f4d5b8e0"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenShaderDirection.java",
+    "bytes": 969,
+    "sha256": "6ab76803d7e6ea40e54d6a9173c51e9acef3c3dc0442b24806258c5a21ad4ab3"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenShaderType.java",
+    "bytes": 900,
+    "sha256": "4ee18e7cd9eadfef2e15d343272a4eb76130c374e403cf8f158e9af52e88317c"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/effect/ScreenVisualPattern.java",
+    "bytes": 744,
+    "sha256": "51cc647430659cc0545455d36edf6145ba3720d5f07f68910e0bfab37a0cce4c"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/EltenaEffect.java",
+    "bytes": 536,
+    "sha256": "bf2d2fbb118ec28d64b806f90f26e6946a32013df42f7381aca0ceaa90b89db0"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/network/EffectRawPayload.java",
+    "bytes": 1060,
+    "sha256": "c379cd1ab973905e11b65ae481fabd15825e0fb93319dfca64c08e805e1ee167"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/network/EffectS2CPayload.java",
+    "bytes": 1277,
+    "sha256": "2b9b65e66491a331a6678ea870c11827f7de444a1add7ddc8fc92f45d9122c8f"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/java/com/eltena/effect/network/EltenaEffectNetwork.java",
+    "bytes": 22938,
+    "sha256": "99c2f236cf595011dee73ff803ce5a23caf0bda3d5df1f8f7a598e632180c73c"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/lang/en_us.json",
+    "bytes": 675,
+    "sha256": "ea6ce5075d6be5a547c43ad7b89ad1b7fc76ca4e8a2cd7e7686447837f47b896"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/lang/ja_jp.json",
+    "bytes": 788,
+    "sha256": "074ddfc240872817cb22261692b3b9d585ce22ab92ef8640f37261cbab16d288"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/shaders/core/roar_distortion_blur.fsh",
+    "bytes": 5840,
+    "sha256": "66c15bc106dd5a79fd2545b2b528c5d20f948b0fcf38dab7ba970889fb9b8988"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/shaders/core/roar_distortion_blur.json",
+    "bytes": 1161,
+    "sha256": "43d5aea825e47c90af486c55fc847f02f46b9dd6c79cc37d454f137bc31e25c2"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/shaders/core/roar_distortion_blur.vsh",
+    "bytes": 188,
+    "sha256": "ee7b94766c9f27e648c17e5beab5064d6210266d901038bc249e30e782437294"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/shaders/core/screen_layer_post.fsh",
+    "bytes": 21226,
+    "sha256": "8f85cddb5c54b56bfe1ad9903573c5e9d227c5331ecc920c60db2a86e49c1028"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/shaders/core/screen_layer_post.json",
+    "bytes": 2353,
+    "sha256": "a66d43c19db5f43202da04a693c99a2bc4060f6e0e39138de565861cadfd723e"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/assets/eltenaeffect/shaders/core/screen_layer_post.vsh",
+    "bytes": 188,
+    "sha256": "ee7b94766c9f27e648c17e5beab5064d6210266d901038bc249e30e782437294"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/META-INF/neoforge.mods.toml",
+    "bytes": 544,
+    "sha256": "b0adc6787b2b422f0865d2df0fa499a2588758aa9771ff4a1956142d0354c15c"
+  },
+  {
+    "path": "mods/EltenaEffect/src/main/resources/pack.mcmeta",
+    "bytes": 86,
+    "sha256": "570fa5baf4a5f268f75f90ae15c6f96b5cf45982546fc9f671418b4f4b50f49d"
+  },
+  {
+    "path": "mods/EltenaSound/build.gradle.kts",
+    "bytes": 1925,
+    "sha256": "3be2bf672d8dac1cd669a865d2ecfcf524dcad661b79e73e1f284a0049e9e494"
+  },
+  {
+    "path": "mods/EltenaSound/gradle.properties",
+    "bytes": 344,
+    "sha256": "bfda6d597d9f743700dfb2a1cad0c8724831b40490c7759acd0abe76b7d1f7ec"
+  },
+  {
+    "path": "mods/EltenaSound/README.md",
+    "bytes": 213,
+    "sha256": "adb4dbd65eb8dee5c1a02ff3b9e7cc06cb4bb598b0654cdeeefe2387dafc44e8"
+  },
+  {
+    "path": "mods/EltenaSound/settings.gradle.kts",
+    "bytes": 33,
+    "sha256": "1a04e7a4e5de1fe1b87d1940f34c5aeb51401dbad480b2dcda884c38883b1d23"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/client/EltenaSoundClient.java",
+    "bytes": 589,
+    "sha256": "a5f25d3ab90e126560231e52188b8285e432beaa4e1360b323d43106107b233f"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/EltenaSound.java",
+    "bytes": 528,
+    "sha256": "ba679a9d9e913f93c2e88007e30fe1e786e5fb4e722c80c416baf62671b20db3"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/network/EltenaSoundNetwork.java",
+    "bytes": 16198,
+    "sha256": "9a099c6da5ec71e88adb3d852ff0a3f294df3affc4274a54e12ff21311422248"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/network/SoundRawPayload.java",
+    "bytes": 1033,
+    "sha256": "7428d2d37e4c15e3c40f2fb7e843b782b2ac39d91921049830968ab90579282a"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/network/SoundS2CPayload.java",
+    "bytes": 1589,
+    "sha256": "e79331382faccb23637351397285ec1746edc8539642b446a4b12d7d97eea09f"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/ClientSoundCategory.java",
+    "bytes": 996,
+    "sha256": "de2b71321801b14c4d5b9b022c663d0215b8c42448995edb9fff93917f6d0652"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/ExternalLiveAudioInstance.java",
+    "bytes": 6269,
+    "sha256": "6ee667bf4320d2b9c4ad77b7b5ef4f9a2a1147c8538fab794125ab000d9d20df"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/LiveAssetManager.java",
+    "bytes": 9993,
+    "sha256": "0b6d0c06b9da877a38299f76b81534a7e7b4502e5a080c97d733eb72488f3c40"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/LiveAssetManifestEntry.java",
+    "bytes": 224,
+    "sha256": "b7f2b382b286f16dd5f932f65f58cb7d82163ae199900c3c3299eed7b1afb84b"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/LiveAssetTransferChunkPayload.java",
+    "bytes": 141,
+    "sha256": "435c9a4d975b43c8105a8021472ccf015a25fd99ec640de9f20b084d9e52bd40"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/LiveAssetTransferCompletePayload.java",
+    "bytes": 100,
+    "sha256": "8a2acac2f60985819d6ef8eb2c807d308f78c776e18b54d62f74953d41ac2727"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/LiveAssetTransferStartPayload.java",
+    "bytes": 276,
+    "sha256": "65bbc00abc1b40635bb8baccfad348d0c190f716bc3e05c6d870a983e01a5d1b"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/ManagedSoundInstance.java",
+    "bytes": 4461,
+    "sha256": "e77cefba672801ae0d36bd69215c6005c7782744659545c77309f49064172181"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/PlayLiveAssetPayload.java",
+    "bytes": 244,
+    "sha256": "c6d02b233231e6aa854418128e7527a70e58367252a8f369d977d65743b4da20"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/PlaySoundPayload.java",
+    "bytes": 241,
+    "sha256": "28d3f111217a19bd7eb0979d7a97f7a2eee8e8a80f445fe8136c51ea3c9ed0bf"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/SoundConfigPayload.java",
+    "bytes": 525,
+    "sha256": "872d3d7b0deba1f12a2c1fcc82def4f92ee0000e7b058d3787465289a044843c"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/SoundPlaybackManager.java",
+    "bytes": 16549,
+    "sha256": "c9a01cca0c9b7416d84ed71d894375a7de96c0843733fb7f4a759c194a989b4b"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/StopSoundPayload.java",
+    "bytes": 124,
+    "sha256": "a19016ca673f8890608ce2937ed04366363e7cc31da4dd0494644ebc87b75527"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/VanillaMusicControlConfig.java",
+    "bytes": 838,
+    "sha256": "03e4b7a9823c3def102b5c2051ad956a15d2ca4d796342d0c0e0bd3f8747dcb1"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/java/com/eltena/sound/sound/VanillaMusicControlMode.java",
+    "bytes": 567,
+    "sha256": "1090ff57853e00afcbbc30fc49dcbe4d30035a9aab944bbc1c41ae0cb4865681"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/assets/eltenasound/lang/en_us.json",
+    "bytes": 2055,
+    "sha256": "318b759549d5fc97643a3bb882e4491dc2c44f221c8ce95dc0a3d77bf44df865"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/assets/eltenasound/lang/ja_jp.json",
+    "bytes": 2358,
+    "sha256": "9f3b62c6f46c2b7fdc867e0ea7dce83e9ce1b07ca7f032fff6fb013cd9528eb5"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/assets/eltenasound/sounds/se/dragon_roar.ogg",
+    "bytes": 58742,
+    "sha256": "7c7a14b155a64fa209a5f37fa9f73932c6059982e987422ab6b41ae72177424b"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/assets/eltenasound/sounds.json",
+    "bytes": 138,
+    "sha256": "69687ed19506c81a07af947730003b09437485a73116c33ae5d9e45ea598e989"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/META-INF/neoforge.mods.toml",
+    "bytes": 544,
+    "sha256": "b0adc6787b2b422f0865d2df0fa499a2588758aa9771ff4a1956142d0354c15c"
+  },
+  {
+    "path": "mods/EltenaSound/src/main/resources/pack.mcmeta",
+    "bytes": 86,
+    "sha256": "570fa5baf4a5f268f75f90ae15c6f96b5cf45982546fc9f671418b4f4b50f49d"
+  },
+  {
+    "path": "plugins/EltenaCore/build.gradle.kts",
+    "bytes": 1459,
+    "sha256": "62532103de66305f6d2588b79a2b76c4077d9fb33b77f82d5509e53cc6877373"
+  },
+  {
+    "path": "plugins/EltenaCore/gradle.properties",
+    "bytes": 71,
+    "sha256": "e2200760bd59e1907185696d34c76e0df6af5f5a52174b149b8e5f1707f3835c"
+  },
+  {
+    "path": "plugins/EltenaCore/README.md",
+    "bytes": 212,
+    "sha256": "d32e768bebcc88d8a0ef5c6dea368ebc467f22efee42e63557ad9d0caf9cb113"
+  },
+  {
+    "path": "plugins/EltenaCore/settings.gradle.kts",
+    "bytes": 33,
+    "sha256": "69dcbc34b5b634126b10f01fa67b967d07131f43a7cda95522ebed4ba3f53af6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/admin/MenuProtectionVerifier.java",
+    "bytes": 9713,
+    "sha256": "5d42803cd83277ffcc64bc39b1269fd4e52f3171fac9a081dcb58c00d598040f"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/admin/package-info.java",
+    "bytes": 31,
+    "sha256": "cf327edf160c2eae0a41f309d8779e36f5da3d6b71a8b38a9bf9ff12cae4b0df"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/admin/StartupVerificationRunner.java",
+    "bytes": 7872,
+    "sha256": "ea07f3d863edf4e90a051b6df76a5ba50806a3a92ec1f27dc2ac3b534d2f43dd"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/api/package-info.java",
+    "bytes": 29,
+    "sha256": "8f265251db79bf3ccc543ff9a96d610b24aef2415617efc6d8817e0f671d32be"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/api/player/PlayerProfileRepository.java",
+    "bytes": 377,
+    "sha256": "cd3493ae89c539253a214854cab26800f90af007f562a5dfe29e1ec783818b6c"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/api/stats/PlayerStatsRepository.java",
+    "bytes": 344,
+    "sha256": "2a6ba3ebae31a9e2828928ee00eb10b52e441d9874626b8bf99632014a7d47ba"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ability/AbilityCatalog.java",
+    "bytes": 1217,
+    "sha256": "c17b0581e94b002bdaa8b29d450f322e6d0dad89d31ff682cf3dabe7c4450fba"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ability/AbilityExecutionResult.java",
+    "bytes": 1012,
+    "sha256": "a0a6984bef33cdea433b69dbb52c3345cbc5e2f5a4b4205a9c2ee4e6b0019eb6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ability/AbilityLoader.java",
+    "bytes": 8136,
+    "sha256": "e8c18fa374a137706b89c4f25eb1cf9b0ca662c519a79e834ac0b15cee32b3ba"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ability/AbilitySystem.java",
+    "bytes": 38561,
+    "sha256": "7b0f6f895aad065a0dcc9170d7f449cefeffc50a785306c528215f5b8b864d75"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/command/EltenaCoreCommand.java",
+    "bytes": 41661,
+    "sha256": "ff4b8dd6714d2c8d326fc83abce81855c3de03f09e09a16c41865f93f306b0cf"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/display/DisplayNameResolver.java",
+    "bytes": 3316,
+    "sha256": "cbe3a4530eb36aa3e0f5e20a9872046e035156d8e449714206e874bb639294dd"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/ArmorDefenseSnapshotResolver.java",
+    "bytes": 14653,
+    "sha256": "5f23fb663799ac390567cac33b454311d21c34a42cd024040bd1f3c594c6fcc7"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/EquipmentCatalog.java",
+    "bytes": 1301,
+    "sha256": "d8eb0c8dea5b7990dae6e5de9a6a46cf5a693da51ca95268df2fff49fd29e2ef"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/EquipmentLoader.java",
+    "bytes": 4200,
+    "sha256": "7b74a44a829c870dc4c1704f0c0726ffab1eb84c946a443f1700611eab73550a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/EquipmentSystem.java",
+    "bytes": 7912,
+    "sha256": "3200ffeb4b3bdc37e24dc92ceb8c0b76d32e4577e654d02216825f50da983473"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/MmoItemsDefinitionBonuses.java",
+    "bytes": 1590,
+    "sha256": "bafab565daabd1d542d062400a51d7f80c483fa46e2d2cf4374b8cdcb09b52e6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/MmoItemsDefinitionMappingRepository.java",
+    "bytes": 2968,
+    "sha256": "9851857d39820da8a43844c03ac1074112c3c452e375c9c1cc029842946a7566"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/MmoItemsDefinitionReference.java",
+    "bytes": 658,
+    "sha256": "248a1cf915155a18561221a0776da0ba2f41d223f62baf2404d20a05ddfef7fc"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/MmoItemsDefinitionStatsProvider.java",
+    "bytes": 10885,
+    "sha256": "f1e758124f955e7ad3b6471a8c757eb9b6d647401b9c69e5e173ec7177e7db82"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/MmoItemsEquipmentBonuses.java",
+    "bytes": 2402,
+    "sha256": "4ca96b92bc57b39e8add829b4de7991e0f09e3484acd7b8f51d526d4d9305c12"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/MmoItemsEquipmentStatsProvider.java",
+    "bytes": 19795,
+    "sha256": "5479fcf79cb16351808d90e3b739cbcc539278af7cc79236ceb513a90497ba50"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/equipment/WeaponAttackSnapshotResolver.java",
+    "bytes": 9056,
+    "sha256": "4d4a1596af4b730bf5ee102c493a67737383880893a99cd3d51220a347652f98"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/growth/GrowthSettings.java",
+    "bytes": 30748,
+    "sha256": "b1b67c4dbe8311ef8b9aac57cbb05952258f242276b883960ea858fd5c96b5bc"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/growth/WeaponTypeResolver.java",
+    "bytes": 2658,
+    "sha256": "6f11ccb90aaa8588bc160467e34ebfcb82ec5364109e5449b101b561beae8b69"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/job/JobCatalog.java",
+    "bytes": 1395,
+    "sha256": "5f560418ffb47a6f9e9b2684e7355e9071e25a13585a33a36b72ebcfb16c98b2"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/job/JobSystem.java",
+    "bytes": 2064,
+    "sha256": "5b6401b081c434ee5864121707c06713bc7039829e85c0d09f6c26c1449d4e21"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/job/package-info.java",
+    "bytes": 41,
+    "sha256": "3566c3ff97554f50a5b74276ad6ae35069e4250f0c382af8c06aa67ae78d6035"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/AuraSkillsHealthGuardListener.java",
+    "bytes": 1321,
+    "sha256": "86fab2800de232c92539fd1a95e45951590a82fd7ee28a95769ae26169510e8f"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/CombatDamageListener.java",
+    "bytes": 16508,
+    "sha256": "d40d74ec269eab02fc93a46103dc69176e3b9b1672f4b0a40acd92fca381e56f"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/CombatGrowthListener.java",
+    "bytes": 3782,
+    "sha256": "f901662311009d61a7c50efa840fee5ccf4379ba2f11210abab0853e5b9b3386"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/DefenseGrowthListener.java",
+    "bytes": 3038,
+    "sha256": "b357dbfba46185f20daeedae624c7d17e55b6766e9425ee5f8a43d4e362b2c70"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/MobDropControlListener.java",
+    "bytes": 1317,
+    "sha256": "6aa9e643b92779724022057f46d7c9510df2f44954d756b0d3b1cd66aeaa6e56"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/ModSyncJoinListener.java",
+    "bytes": 2463,
+    "sha256": "d34e739c8f6d68a1b93ac7eb74e621106fc0f24f3643f722072cb27ec207ef6a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/PlayerDerivedStatsListener.java",
+    "bytes": 3705,
+    "sha256": "ec5120fc866a2fce2f2be99d9604970948dad9f96ec3a7667d1b3e0788b8f724"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/ServerRuleListener.java",
+    "bytes": 3344,
+    "sha256": "9c27824f8372b0a7aabdf9490d37cd700af87e574a33069903bd4595e95d2070"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/VanillaExperienceGuardListener.java",
+    "bytes": 1138,
+    "sha256": "5558ebf30c763cff5c5f689a61ae91783948ffb19279a7ed04319051279bb79d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/listener/WeaponMasteryListener.java",
+    "bytes": 3422,
+    "sha256": "33bb4a3609cadb32b9a5ef990ee7e15fb2932b1dd39c74b41da34c7fa1ab69f3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/logging/CoreLoggingSettings.java",
+    "bytes": 2392,
+    "sha256": "64a3b2fd6773984e78028f65450e9425dd1c85d86bc3970b719c1bedcf9279c0"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/package-info.java",
+    "bytes": 37,
+    "sha256": "5a4bc4c3cbafa7030b66f3d2051456971c1181f7e0bdc2a90ce19f04b564536f"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/player/FinalPlayerStatsCalculator.java",
+    "bytes": 8831,
+    "sha256": "c7ae3e5202eed9f8aadd67f3ed8e673bd4b69f793a9174ff30eb11d1f8309d1e"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/player/PlayerDerivedStatsService.java",
+    "bytes": 4173,
+    "sha256": "15b69918de55c70f1d6102724ff8e5244f568f0127f9cbfb81ad924ce8f23871"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/player/PlayerManaRegenerationService.java",
+    "bytes": 3200,
+    "sha256": "08dd5b4ce2f65a1a7c8c2623d7659b2e8d216a092eb0d0a2ae964886a71b190a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/player/PlayerManaService.java",
+    "bytes": 9514,
+    "sha256": "6109920ad31c073bc2a799926df915868c531de1fdd5af4921c97e7376c8613d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/player/PlayerResetService.java",
+    "bytes": 5510,
+    "sha256": "d39c6996bcf834f310bfdb04dac3d2eb3864bcc4f16ebd50b44c5371e5460ec1"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/LevelSystem.java",
+    "bytes": 13215,
+    "sha256": "e33c62d3181f3109931d2179e3c4b1f18a332c23bdb1cb4e91a4cfba894d3763"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/MobKillExperienceService.java",
+    "bytes": 5045,
+    "sha256": "1f4192c93628b852b63dd176a39bb01b4e02799778126a9de682138114fb09fb"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/MythicMobDropInspector.java",
+    "bytes": 2457,
+    "sha256": "b263102ae995c7367100db29636587f5a867eb96ec568eb74f7f5c8813fc7307"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/package-info.java",
+    "bytes": 49,
+    "sha256": "f21142729d3458ace8b72a0dcf19eaeb6b0ea68062c77411b0aa97f06135e0b9"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/ProgressionResult.java",
+    "bytes": 600,
+    "sha256": "bd102039b4634ef28304708b4cc5d62a69fd7afebe5afd886fb79a7a40e3f0f6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/StatGrowthSystem.java",
+    "bytes": 1284,
+    "sha256": "b7dbf9d1cdb3b801195e62e5fdfa7bb10d4d17aef2d5d5b1d6214ae8b2d2d299"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/progression/WeaponMasterySystem.java",
+    "bytes": 948,
+    "sha256": "2076dd427196dac19e02a3546584f5be114d25f00e45dc072b8f3c98dea6b67f"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/settings/PlayerDamageFeedbackService.java",
+    "bytes": 2520,
+    "sha256": "7bccc8567a2aa9c9337a883cf16207b55e0de6232d55430e1691d8e0933a4708"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/settings/PlayerOptionSettingsService.java",
+    "bytes": 5615,
+    "sha256": "02b78d4ab149fefd3457b30b169f86f8bbffd4fac584f56237942a3f5cc6279a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/settings/PlayerSettingsMenu.java",
+    "bytes": 4209,
+    "sha256": "447a19cb9f14fb4f00ad38246e5445fd69fddf010355ecb26d1c85fa20e81e34"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/settings/PlayerSettingsMenuHolder.java",
+    "bytes": 625,
+    "sha256": "2106a446e7baff51297baa71c74422b1455e783590ba9caf0f4c7839b04d2c4d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/settings/PlayerSettingsMenuListener.java",
+    "bytes": 4015,
+    "sha256": "6dd6a422e9c88563c2fad0c6ec8b0f9ba63c67971a48e9920ec80c0a233e14de"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/skill/SkillCatalog.java",
+    "bytes": 663,
+    "sha256": "5904841b2672c8d9037d2afd367017370150d06bfb550717f01b1dd8d741e71c"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/skill/SkillLoader.java",
+    "bytes": 7043,
+    "sha256": "c19b9372e208214643a1d63d8829dd968479f251a067cb3da5bf0b07238212b6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/skill/SkillProgressResult.java",
+    "bytes": 441,
+    "sha256": "dff44db47b2b2c0eeacb24b9ba07f1933229e5bf6852bb8df870c4d467daae55"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/skill/SkillSystem.java",
+    "bytes": 9590,
+    "sha256": "a9195a10c383aca5c97d792a2ca436129b84e0b7b120d790f3581bf16e35e94e"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/title/package-info.java",
+    "bytes": 43,
+    "sha256": "2d3d3fd7d159cb6500effafaccc41972c67458cba125e24a546e156d1d33b6b9"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/title/TitleCatalog.java",
+    "bytes": 740,
+    "sha256": "66e079f50ba4e0eff92c4508370079a9ac2ab85e71f4ef369b3222da92687de6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/title/TitleLoader.java",
+    "bytes": 9439,
+    "sha256": "039fc1edc04e8adc4c64f37455e07f4dd7d766bf1c9a6fbeadab7f10ee3ee826"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/title/TitleSystem.java",
+    "bytes": 4740,
+    "sha256": "38a3dadc0c36e1d6de93279135bda0bc8f902d22fe02b3463725a35db5d93c13"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ui/EltenaMenuHolder.java",
+    "bytes": 579,
+    "sha256": "866e42d438295f617f4a95bf22d9a00ef6782981a4f3cbf059b121d373559e73"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ui/MenuProtectionListener.java",
+    "bytes": 985,
+    "sha256": "96e2ae408d5d2fceafdd3fb1989bce7da670b5ad6b7ffc3afbd55baee5a69cf4"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ui/MenuSystem.java",
+    "bytes": 10810,
+    "sha256": "0a61dadf63aafde60c6c190d32118cb525bcf23302cd92b607d562f3d5190291"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ui/MenuViewType.java",
+    "bytes": 339,
+    "sha256": "5a62729b662d841dc5aef61edc60a49e53b47e6df681336c8562bcad2bd3851d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/ui/package-info.java",
+    "bytes": 40,
+    "sha256": "58940be8ab1fb8bae7c8ad524bdadd2266548c68ee2d4153d15c091f4caeeb8b"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/DiscoveryCatalog.java",
+    "bytes": 687,
+    "sha256": "85c2bdf60702ec3b9e1dfd115bf3132631a64bb8068938540bec9045f36392d2"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/DiscoveryService.java",
+    "bytes": 6131,
+    "sha256": "45888009c49068059fec2d51dee3dd7fd21a3c94b7c2b190e54cbb0ade8fee6b"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/package-info.java",
+    "bytes": 43,
+    "sha256": "d1032c964974590196f76001309260259cd4bab573d10f040a5a3742f6ab2649"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldFirstGrantResult.java",
+    "bytes": 242,
+    "sha256": "17d6a7bf52974d8f3ef6425067bad02836e4ac63a2a4c7256686f96cf7b1bb74"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldFirstService.java",
+    "bytes": 9803,
+    "sha256": "4091f146c4a6aaa77c8a1c2f23100ff6c7db4155ab177708cb9ad6a04a89974b"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldProgressResult.java",
+    "bytes": 215,
+    "sha256": "7052e4c515a7e601dc9e4796f52658ec6ce42119a0cf2d4c1455a51357247b08"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldRankCatalog.java",
+    "bytes": 1253,
+    "sha256": "d74e6456f607c447a658cef6acaa148cbbfebf56c34594d0426d7d29ed56c6ba"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldRankSystem.java",
+    "bytes": 2424,
+    "sha256": "cd29d98418ae3451e266e177c39a6657d38e56f6695ddbd23c7cf7389ad0ae50"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldUniqueGrantResult.java",
+    "bytes": 245,
+    "sha256": "e7c81c4e2539ba66a4473d1552d842e2d93e7f500a1f4ac1ae22289c476ee138"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/world/WorldUniqueService.java",
+    "bytes": 9681,
+    "sha256": "595cd2c69bff39ac36fe79084f41d90e0edc949790cf28efced24ecf32920fe2"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/application/yaml/DefinitionFileLayout.java",
+    "bytes": 7869,
+    "sha256": "ad6c1728dcb1d6d76ed5873f13566801bf7ac0fc5602810cc95d9ef54199bc21"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/bootstrap/BootstrapModule.java",
+    "bytes": 269,
+    "sha256": "ce7a3d714c05cc79b49c3ee97f84dbc9555442583a7fca7a001500d83bc6c8e3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/bootstrap/EltenaCorePlugin.java",
+    "bytes": 868,
+    "sha256": "2be9216145062f58056aa33cf0e1770bd74702465869ae05ee70a4bfc5486fa8"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/bootstrap/ModuleBootstrap.java",
+    "bytes": 18144,
+    "sha256": "d2a93ab890885398593ce362456a693a6e846b5faaae3fda42eb1c043c99615d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/bootstrap/package-info.java",
+    "bytes": 35,
+    "sha256": "520c87b65719d49c9ec50d5cf7078a373625ae3acb16357ed330188c5df20889"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/bootstrap/ServiceRegistry.java",
+    "bytes": 10553,
+    "sha256": "2b06504e3262d4c7e2de59029a0ca4e1d32befad79688feb51ef2056b47625e9"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/ability/AbilityDefinition.java",
+    "bytes": 3652,
+    "sha256": "393ed3292b32bf62461f3108fb2abec60f33646ab81f9c6f363dfa5e05f8dc48"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/equipment/EquipmentDefinition.java",
+    "bytes": 605,
+    "sha256": "17e5cc47e2aa9d561d49e23732d74c92d4d6655204479f9c15f61e22bbc86fa5"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/job/JobDefinition.java",
+    "bytes": 152,
+    "sha256": "b7012e00c950259a5ec48bb6ab2f3d162c3b8cf58ae15f3428c446ad66085a36"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/job/JobTier.java",
+    "bytes": 315,
+    "sha256": "8d2b4506bf67049a3cc6caca621c484789bcfae1033e75e5f41faab1b4e94908"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/job/package-info.java",
+    "bytes": 36,
+    "sha256": "4a3c54b9351c35a340375e2d49de74583da0c597225be863db5df8ae930c2fa9"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/package-info.java",
+    "bytes": 32,
+    "sha256": "c014eccc44f653493678c23324bb51e9ef24eb977199fa80aebf6a17d7e94074"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/player/BasePlayerStats.java",
+    "bytes": 1085,
+    "sha256": "32ddeb7635f30707917c250b9587a168e43782151b5e575d435671daed0bf4cb"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/player/FinalPlayerStats.java",
+    "bytes": 2591,
+    "sha256": "9c99d7ed8c927987971f10308c0a954c6f9d617e7638de309bd7e1014d4f6a76"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/player/PlayerAttributes.java",
+    "bytes": 710,
+    "sha256": "6aa97885a72daf88656720eadf7ef43f4fd9833feae828ac37fc945943603e12"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/player/PlayerOptionSettings.java",
+    "bytes": 913,
+    "sha256": "acac97de080f62c5ce4a5ea089913b355b04a047aef6cc3f6e364d7972335038"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/player/PlayerProfile.java",
+    "bytes": 14047,
+    "sha256": "e10b113584987b4b3c61b5adaa22e0c8d4749a650efe4dacd781812d64f8a37d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/player/PlayerStatBonuses.java",
+    "bytes": 1846,
+    "sha256": "31c9af9066d38e3d439548d324723a82daa74782474cd090d904004914752833"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/skill/SkillDefinition.java",
+    "bytes": 3530,
+    "sha256": "f5807c479a4343eaadbeaa90e3a8df632a090bda328dda89394eefc018e1a855"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/stats/GrowthType.java",
+    "bytes": 270,
+    "sha256": "5eef2a8a1ef28515491bc62883ea5fbc988ca4b72a44722a92521500bdc87b63"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/stats/PlayerStats.java",
+    "bytes": 4048,
+    "sha256": "0f4a0323fe018830ae90a3b1bc29f5952a53bd138a9b9a5da4cfe2b1f3d6082a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/stats/StatGrowthProgress.java",
+    "bytes": 216,
+    "sha256": "7bea8d0cbd8dedc422f91f81559a33e4ed45dfd18ede785351de8dd9a1110159"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/stats/WeaponMasteryProgress.java",
+    "bytes": 225,
+    "sha256": "9966ffd270cd4ee3cd64c4a29ded3927616dbe3e8fd5d81fcc191d9358adf5fb"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/stats/WeaponType.java",
+    "bytes": 165,
+    "sha256": "a5f6f93d4f7e1392b8f0ba286e202fc431086701777d0b3472c0551a81ff6b64"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/title/package-info.java",
+    "bytes": 38,
+    "sha256": "0f1342c8b53733fbc877acefb3aef312b3fdbe4551c351df53f1855765209ab5"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/title/TitleCategory.java",
+    "bytes": 1005,
+    "sha256": "15d0bf87ef055c60a04cec073b385353c843d83fa25eb25e95b8e7bd59183c78"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/title/TitleDefinition.java",
+    "bytes": 990,
+    "sha256": "0aa150f99d82d7158c8968ab3354e4d6e87878166df7e60b5e9e30e455b9e628"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/DiscoveryDefinition.java",
+    "bytes": 203,
+    "sha256": "254a7c60064a808015e6ceb59a7fbebc9ab5865dd3a8579e77ace713bbbc8c24"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/package-info.java",
+    "bytes": 38,
+    "sha256": "ce5ea045ef8dd7beb3fa40860c29d611d8330271fe83a9b5dea0b4cac2a9b189"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/UniqueRewardType.java",
+    "bytes": 731,
+    "sha256": "b1edae6f916ed7d2c997ec2e78d7cf913e4422b5ebbd4f77a1e79b5f611c821d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/WorldFirstDefinition.java",
+    "bytes": 175,
+    "sha256": "0a867dca6507b08c3170d05383d0c6e42988cd8dc48a7dc0ef565c58dca59138"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/WorldFirstRecord.java",
+    "bytes": 232,
+    "sha256": "066d1ad97e5e9ad66db6fc15455d07c8d86e46399afab75507ed84143cc1914a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/WorldRankDefinition.java",
+    "bytes": 147,
+    "sha256": "3c476c71e0b4267ca6a9fc854f255079473e7aa70bb705a4026b17dd0ae0d428"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/WorldUniqueDefinition.java",
+    "bytes": 204,
+    "sha256": "3bf8c5f47550d3f9d743adcfa5beb3cbfccde18d6b69e2ee110d3fb7de3daef0"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/domain/world/WorldUniqueRecord.java",
+    "bytes": 261,
+    "sha256": "2bc5299da008968dbc45fd1e2bf7eaf399acb541d85a9c8f968f39db8112c124"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/i18n/MessageService.java",
+    "bytes": 9046,
+    "sha256": "6a7bfa859d039b97a8a975cb3130aa7984311b090b6155945263f47946511105"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/infrastructure/cache/PlayerProfileCache.java",
+    "bytes": 598,
+    "sha256": "9b3e5cb5b3cbab4c898db00009f983fd81ccf1e41f4f84c081cc01adeaa78760"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/infrastructure/cache/PlayerStatsCache.java",
+    "bytes": 569,
+    "sha256": "7150aa29cc6d2d65eda3d5161d6024b439531f040fe9ad18c1f7a30ee156092e"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/infrastructure/package-info.java",
+    "bytes": 40,
+    "sha256": "79a0f12ee158fdc6ce1233d0ae6934f103fb10b066e9bb65520af6ae507c9fc3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/infrastructure/persistence/player/YamlPlayerProfileRepository.java",
+    "bytes": 10721,
+    "sha256": "c1b805fe1268ce53a830a40e9bcad6e88cb1a81f5ee04d20fc1a1ac7abc57689"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/infrastructure/persistence/stats/YamlPlayerStatsRepository.java",
+    "bytes": 7732,
+    "sha256": "4e25974e3aefb22ef7776c6526722a237c1d6ecb1f8af395882cf1455c9988d1"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/IntegrationCatalog.java",
+    "bytes": 1150,
+    "sha256": "52466ac47faabcb029a8e3dd0047fc071187dbf7e428994f369a62953e2d83bb"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mobhp/EltenaMobHpBridge.java",
+    "bytes": 5406,
+    "sha256": "8484f533603fc2c59d77746ea7cf7684b7983288cdfb7f3ac2bc5481b6f94cc3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModIntegrationService.java",
+    "bytes": 23662,
+    "sha256": "724144069959ef5ebbcdc6e57fc5ae09df4d97f4735ac7fff9efc335cd71fa92"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModIntegrationSettings.java",
+    "bytes": 1951,
+    "sha256": "cd932deda4f85d0a8071f6c88285f3a8043fa2f89af6bb08d0682e0a59a061a1"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModPayloadRegistry.java",
+    "bytes": 1049,
+    "sha256": "ff0d83e3ba6b8cf745d9844fff6872fcbee38513288ab72394a217b03856aee6"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModPayloadSerializer.java",
+    "bytes": 1991,
+    "sha256": "d207696aadd7757d4ffe4460445d7ac92497f014a4e54aad77a7f25de71342fc"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModRequestListener.java",
+    "bytes": 15973,
+    "sha256": "a75ee6a0aaa0c3bc50dfa02648d24e627ec3fbc649a3b78ab889969f1eae01ad"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModSyncChannel.java",
+    "bytes": 580,
+    "sha256": "1cf94137ea8f819a06a1a30aaebb4617def1507ab6933033506fd8e2545949af"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModSyncContext.java",
+    "bytes": 436,
+    "sha256": "cbabf259f76c18bb4e12df9eae4252cf69fc9fcf3421bcc3fcb9efd22b83514b"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModSyncEnvelope.java",
+    "bytes": 239,
+    "sha256": "cbf210535c107f09518d6fe24f8e452278ad43ff09581864ed2cacb9e6a2984b"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/mod/ModSyncPluginMessenger.java",
+    "bytes": 12608,
+    "sha256": "5e8f85ce647973703da5ec8f11c08ee1dcbd1181bbe888b9cd6faf0eae19b2f5"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/package-info.java",
+    "bytes": 38,
+    "sha256": "8fb89db305ac631b00d1430a8a0c4a97e052c478e46450709b10a45fd2377451"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/placeholder/EltenaCorePlaceholderBridge.java",
+    "bytes": 1302,
+    "sha256": "c3e1c71e80b5f74fe0347fe390869bb039f6fe5b57745d08ea7246a93524500c"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/placeholder/EltenaCorePlaceholderExpansion.java",
+    "bytes": 2797,
+    "sha256": "bd8962aa0ba0d7765edf09872927531f34027732b70eee7f7b6a6dcd88c2bffc"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/integrations/placeholder/package-info.java",
+    "bytes": 50,
+    "sha256": "8fc7fee8d4a13230cd0e731fad8d71adcaa99b6e4561d097120b9351005db5e2"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/resources/package-info.java",
+    "bytes": 35,
+    "sha256": "1843795a4be306b9fc078f5330088dc139807e4b5837ab307e5221dfdb2319d2"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/java/com/eltena/core/resources/ResourceCatalog.java",
+    "bytes": 204,
+    "sha256": "e11694c9ff129336f227a07d4e6bda27ece58ec9fd083f1af5d3491681fffdea"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/abilities/diva_lovesong.yml",
+    "bytes": 323,
+    "sha256": "a10a00cc7af9c5fc4564ff8d079cdb3b3c34887502d4b167d07f666ca0264c0e"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/abilities/diva_prelude.yml",
+    "bytes": 291,
+    "sha256": "985b838e9ad76ffacf07f99416dd5fbe4092dd089e05d9cf1397abb07baeb598"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/abilities/power_slash.yml",
+    "bytes": 377,
+    "sha256": "99c8492e57c27eff657ab505657e64e3ea0dcd5a425980c17508651dcdd5aec0"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/abilities/quick_step.yml",
+    "bytes": 324,
+    "sha256": "a3f46f9845da4aa8b257f918d941915b904ea56795ddd3ded829e21988713b24"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/abilities/whirlwind_blade.yml",
+    "bytes": 373,
+    "sha256": "46228445c16153eb8366a7ce76e6973036be4aefda122d4c057f992c216b35f4"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/abilities.yml",
+    "bytes": 85,
+    "sha256": "ef1cb75dee863f303cd5f77a4d1ae448f23a3f49a367f17541190e7621e8c064"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/config.yml",
+    "bytes": 1450,
+    "sha256": "7420cb5a1628894897156ff309dffa8b2b393d95d7c8f8c31dc02562db3c37df"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/equipment/armorplus_ender_dragon_chest.yml",
+    "bytes": 108,
+    "sha256": "10438a1f725a682b85a7154170b6c93aeff58f340689ecf546078f545ba1fa87"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/equipment/fantasy_hero_helmet.yml",
+    "bytes": 104,
+    "sha256": "5ff8b791723babe7fea03604bc51a6b62a55b5033e4fcbfdd6ff64d9c909c12d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/equipment.yml",
+    "bytes": 85,
+    "sha256": "e3dbd56a7b0acceb03c4cc760e6678da8bb8284672a64322145522a60f779dee"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/growth-balance.yml",
+    "bytes": 496,
+    "sha256": "83b5916b005a2cb6db8d31436579fe298d194906eb8f539c75eb5e40c35a3297"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/ability.yml",
+    "bytes": 764,
+    "sha256": "eed13d960a09b18af33939c6805134d2c4b6b1cd17b1ea378b231c911c59e335"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/combat.yml",
+    "bytes": 1161,
+    "sha256": "578ed9e939b8793ed606e63b42099ccb2ee744ced130d2e483b051d3d5e9c02a"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/command.yml",
+    "bytes": 193,
+    "sha256": "31eeececd741d5d7407b757dd991a49dc2f973d80ef3c48c1accf1b78c3512c3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/common.yml",
+    "bytes": 3,
+    "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/growth.yml",
+    "bytes": 850,
+    "sha256": "a96ebca092d648a4ca3da2097ea865acce83d63d3022ec24f4b7d6c5170b6cd3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/menu.yml",
+    "bytes": 3,
+    "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/reset.yml",
+    "bytes": 3,
+    "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/skill.yml",
+    "bytes": 638,
+    "sha256": "f8c9de90de3259b8ac2e8dec7c7140f8d3c3cc07803135e873d70596e0850531"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/system.yml",
+    "bytes": 1134,
+    "sha256": "1bf871792c76c98ef27f26b472e37b2185d2830163484883a004d553dc0f7869"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/language/title.yml",
+    "bytes": 1220,
+    "sha256": "c917bb8987e73a13f7a81da20107c56c9e2dfe51ead5f46267fe2b38b44e3454"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/messages.yml",
+    "bytes": 3946,
+    "sha256": "74e282fce3fa4a57104b1b10dbf9298ae2aeeb4d502a70eaf85a62462f7c6c24"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/mmoitems-mappings.yml",
+    "bytes": 187,
+    "sha256": "64536312717f1efe2859e6bda41b7b311c978add6789a3d44487d8ac1add0cfc"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/plugin.yml",
+    "bytes": 4221,
+    "sha256": "fff813396acf3c48c344381b39ec4b9a9724ccd9cc1592a2832d19d1119a8ce9"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/Rebellious_Fallen_Angel_levels.txt",
+    "bytes": 6550,
+    "sha256": "ff0917c8322f92575f3a1595e310f5af1ead4df36f1edfa062a601e40edc629d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/basic_slash.yml",
+    "bytes": 312,
+    "sha256": "7e74a8880d913d7d43662c85f068997c2b6275ae264fb620bc368091595444ef"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/blade_focus.yml",
+    "bytes": 349,
+    "sha256": "56f50a50e8c82cd62800d135efd78a336dc008612b7375cfca88c9d20d78bf43"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/counter_cut.yml",
+    "bytes": 355,
+    "sha256": "ae6eb04e0d43305f60b8e009acbedb8990b35e46a6a0584c30029ae76344ca57"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/guard_stance.yml",
+    "bytes": 321,
+    "sha256": "ab3f399210052267d5a712a7e04861cb3e6af3456c9927a892359f3c0d1c3c2c"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/heavy_slash.yml",
+    "bytes": 338,
+    "sha256": "156781072c6f0f680765211bccded2a610bc45f0a047635e8fff0855bbedd1e7"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/quick_step.yml",
+    "bytes": 340,
+    "sha256": "f9b3d60c49c0987792138e533c813fbcc70752e2dbb25657839523944d657b71"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/storm_blade.yml",
+    "bytes": 379,
+    "sha256": "74fb09c1973e5980e2b6cc46f1b9af57bd76f119c83a2ac4712b91d3556cb256"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills/sword_aura.yml",
+    "bytes": 344,
+    "sha256": "4f5ac4f974a66dd52e82feb740533f140181aa47e352d7533d74f1a0339877a0"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/skills.yml",
+    "bytes": 79,
+    "sha256": "42c868ebd63303045c43de8824c7e730b92967cddc21eded981989c674362704"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/discoveries/ancient_ruins.yml",
+    "bytes": 133,
+    "sha256": "41b8563aec6faa5bfc0d0cfae774afd49c1c8e2b7c3f4ce2a83fd91b514b058b"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/discoveries/forgotten_library.yml",
+    "bytes": 127,
+    "sha256": "c5c6263ec3d7d095ef5f7d3f3050dc96415fd6f76b93bfe24d6f01cec635f899"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/discoveries.yml",
+    "bytes": 95,
+    "sha256": "d52983dc8eae9bef322860b52a4d356203f93a9b9e6b566d5e7211381b1c4298"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/titles/explorer.yml",
+    "bytes": 106,
+    "sha256": "afcc811d71ed29f732d364987f9aac4bba49d624dd1e7a4b5fb10b055aab0a0d"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/titles/first_step.yml",
+    "bytes": 132,
+    "sha256": "2f8ef153f176512d84f0ba94e77811752779e75055c6eb6f1efc8c8f37c4f95e"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/titles/none.yml",
+    "bytes": 78,
+    "sha256": "d962402dc14ddeeb616cf2ba7e5f0e13ade5cf1c027c6e46252b7267e5f31842"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/titles.yml",
+    "bytes": 85,
+    "sha256": "b25cb9d9ba9fc1dc566a8057f7e53fbb4998d1c27373a9952668a74158a2a9a3"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/unique_rewards/sacred_seal.yml",
+    "bytes": 106,
+    "sha256": "6a408ee01506687fdede2ccaed273e2ffa32b501d7a63650382a5984bef77477"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/unique_rewards/void_blade.yml",
+    "bytes": 106,
+    "sha256": "86bedba4c7b5f309551fec017fd13f691c68a0319c3f018839cd2e7b41a67711"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/unique_rewards.yml",
+    "bytes": 99,
+    "sha256": "de8bd4ad344805f5a56d2f2265b02c9b81952c590215cf61d81cedb6f8dc9711"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/world-first.yml",
+    "bytes": 16,
+    "sha256": "a83ecbedd06a7d26c4bc97bce50787c5003dffad7243a1d7ecf852219d971f86"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/world-unique.yml",
+    "bytes": 17,
+    "sha256": "c245a9a852dbe4393f4fe1456490a78e873b64666f09d6867b85544e2fe3698e"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/world_titles/ancient_ruins_first.yml",
+    "bytes": 109,
+    "sha256": "acc88cc1dd46ba23f305ed3480bf3ea8cfef61e4830acbd841ae4f2d997862fe"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/world_titles/deep_abyss_boss.yml",
+    "bytes": 116,
+    "sha256": "bfbdc47ead6718902f2bb50cf1c5f8c5255471c266bd77550ea37e3ff6469ccd"
+  },
+  {
+    "path": "plugins/EltenaCore/src/main/resources/world/world_titles.yml",
+    "bytes": 96,
+    "sha256": "547fa9a01eecb246e9a726c4f31b230725f77c32246a15fe6664d94502d0fff0"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/build.gradle.kts",
+    "bytes": 1314,
+    "sha256": "48d34231edf43cfd75b1022df3ccf0b5ef0d67a91b6406f8e5ca269d4dc171f7"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/gradle.properties",
+    "bytes": 77,
+    "sha256": "0951f49c8221750ee1b42c1cffe4fef1ff451844fe5bd2d34c964a8935a8bcc1"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/README.md",
+    "bytes": 218,
+    "sha256": "fb83fd7b79e699f73eb95045b92a19f674555dc7ea351c11a3b73bc798de3568"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/settings.gradle.kts",
+    "bytes": 38,
+    "sha256": "b46dca8e0a510ccf69ea8694cd103797c39728edd9e74352a3a4fa0453f4ae9d"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/command/EltenaEffectCommand.java",
+    "bytes": 35656,
+    "sha256": "9b81704dea8a4ccd3fc6137787415aab9c163ca983212e6e66e80326418e1f0a"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/config/AreaTriggerRegistry.java",
+    "bytes": 17628,
+    "sha256": "3513c17284132deda866537ca30915414bdba72db2e9e680ca4babfcb01f3a5c"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/config/EffectRegistry.java",
+    "bytes": 29406,
+    "sha256": "88e0585c92be38842c0c2d9113d68b3047de859d8b6a7c6c04468534ca2c87f8"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/config/EffectSequenceRegistry.java",
+    "bytes": 22596,
+    "sha256": "b8bc14a1d9ee5286c30bd21d76b369ff41826a926fe14d6099d9329b0a417d55"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/config/LanguageService.java",
+    "bytes": 3358,
+    "sha256": "0083a6d5e49c74d5801541ff53a6d3c89457a6a508177552ff7b7f478d144235"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/config/RealtimeEventRegistry.java",
+    "bytes": 5699,
+    "sha256": "888d01c3b53da52d13af98847523eefba43fc5f5bc11d2ba3464751e3e303ca2"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/config/VirtualCameraConfigRegistry.java",
+    "bytes": 20991,
+    "sha256": "6b1e09574c0c3be58a901143c1388e674b7dffd7ab1b221d13664595c1e0e17c"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/DistanceFalloffDefinition.java",
+    "bytes": 143,
+    "sha256": "08d257e7739f6e139ed3b502f0c2fb4578d440c46699389349948887ea4921f3"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/DistanceFalloffType.java",
+    "bytes": 488,
+    "sha256": "5dc53028609dd79b43a43eab90ab9465c0fc8e6229da6af8e576c6cde69022fd"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/EarthquakeEffectDefinition.java",
+    "bytes": 466,
+    "sha256": "27299259eb0a800662cc5e2621a065f77441545e550cf23128afde7b4a40ad13"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/EarthquakeShakePattern.java",
+    "bytes": 692,
+    "sha256": "9b5b8184019536aa1b5027b90dae7c9bb44c127f7f25da546697b90be359b1a2"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/EffectDefinition.java",
+    "bytes": 121,
+    "sha256": "4c867a1d723d0ce515e6fb83fc05cc5139b9b40956f6ae81fc01f14c308186e7"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/EffectScope.java",
+    "bytes": 531,
+    "sha256": "91c3bdd3cf08d43b50eb939f46cd69aba4084b99802a550c04bb19e1ac81ead1"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/RepeatSettings.java",
+    "bytes": 266,
+    "sha256": "84d467cee6b42ce00ad71fefc7a28efb6e4db97dc55352d9ec2de543b18051d5"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenColorDefinition.java",
+    "bytes": 137,
+    "sha256": "858ee4a0d277c22662c2c59a6b8179f393bd639649cbe605ab4baf08dcb3871a"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenEffectDefinition.java",
+    "bytes": 337,
+    "sha256": "f51bd26a420f7cf23efd1baceefd06bc6eae1529f0adcdeac2048f299be2ce21"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenShaderCurve.java",
+    "bytes": 588,
+    "sha256": "5ec2b553bb8faa591801f43cf1a07f252da967c0435f8303f2f104de6705cd66"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenShaderDefinition.java",
+    "bytes": 4266,
+    "sha256": "1a9ec63e255de10b43576121218c8c62ddacd9c36eb8ded402c0bd851cbd1d3f"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenShaderDirection.java",
+    "bytes": 645,
+    "sha256": "7db72ce072ce7ff349a0c5749d26a9e2947de2845bc417bcb099f68f408565af"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenShaderType.java",
+    "bytes": 1722,
+    "sha256": "61c8f6fde48a8ba8b6cea42b3f85490ada5e7616eef7eb0d384151b3914698a1"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/effect/ScreenVisualPattern.java",
+    "bytes": 1041,
+    "sha256": "ac0ce2810dc64d9580140c5004553985b2c45f6741e522d03e2b265aee85ff01"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/EltenaEffectCorePlugin.java",
+    "bytes": 12420,
+    "sha256": "76614b6cf105b387a66a3d64be65ce2d7f3adf7d9de13dde2b0f914141e1f1fa"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/integration/EltenaSoundApiBridge.java",
+    "bytes": 10693,
+    "sha256": "9dcef025727a972f8cae9df7eda289fef060dbb2f18d6a45aeb2c950cc6f2656"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/playback/EffectPlaybackService.java",
+    "bytes": 13342,
+    "sha256": "fc71759713fbf78f150abab964c0d62225de064f98613e29d4c931bad4b0f757"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/playback/EffectSequencePlaybackService.java",
+    "bytes": 17083,
+    "sha256": "e12f6eaf1325ca92e6ec72586743b5e1a72aa9b682c6af2cff45c51f45f41c34"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/playback/PlayResult.java",
+    "bytes": 168,
+    "sha256": "cc54794bd15bc25b35e7f334c30acb893a5ca7f40ddeee44f948a06bbaf07aca"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/playback/SequencePlayResult.java",
+    "bytes": 146,
+    "sha256": "ea89dce907b40122373172e17427864d8b3cb8fa4bfcd5d813f5bf334ab8ff2d"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/sequence/SequenceDefinition.java",
+    "bytes": 173,
+    "sha256": "02729949cf4a673d01ee7a561134bd2e68f68343e495e09260daa53edd7e33aa"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/sequence/SequenceStep.java",
+    "bytes": 3521,
+    "sha256": "35b0be31326803025785ec3fa7c1deee068a5e9be03c0e60ff8b6cdd207d07fd"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/sequence/SequenceStepType.java",
+    "bytes": 777,
+    "sha256": "fd6f1af104ed239d09a827d43f8e5df0527c2a5c1096d72b4492c890ce5d156d"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/sequence/SyncDurationMode.java",
+    "bytes": 591,
+    "sha256": "f997ab461d71180593f9b3afe492ffe15fe95e433b2fda2cddd7014364a97acb"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/transport/EffectPluginMessenger.java",
+    "bytes": 1250,
+    "sha256": "595b1cf6f3e15d03c23e970c99662ec3f1d1ee8f89ce0ecf6a6d533051ca965f"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/transport/VirtualCameraSyncService.java",
+    "bytes": 13703,
+    "sha256": "d2bb6862a47632a6c2b48b2431f4c534f388d91683d5f7ebb9f9a962af8bf01f"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/trigger/AreaTriggerAction.java",
+    "bytes": 125,
+    "sha256": "4addeba1b39e16c6dde814b7707c0a643331070f94332216a4e00eb1dd9a4467"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/trigger/AreaTriggerActionType.java",
+    "bytes": 725,
+    "sha256": "5dfdc1690e6d56827d6d9193d49982ee1f7d3c7cbbaebe08a5b384a22298596c"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/trigger/AreaTriggerDefinition.java",
+    "bytes": 726,
+    "sha256": "d3596d21f14f79bd6958145cfd450395a9d6b80c3a33957700626f798d1c35c2"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/trigger/AreaTriggerService.java",
+    "bytes": 9051,
+    "sha256": "58a32f22976d44bd9fc2822f4eacd0e37e5fe62e0a4bdf3feed99fa77a5f17d0"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/trigger/AreaTriggerType.java",
+    "bytes": 682,
+    "sha256": "dcf0c6619e2039476fc4ab56e752d9d69951cf98f0c760e2e9e2efc2053b61e0"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/virtualcamera/VirtualCameraConfiguration.java",
+    "bytes": 2036,
+    "sha256": "06d7a0bf63109ffa14a64eeb2d1ff38f12516e901702375e39a8f0e9bd7feef6"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/java/com/eltena/effectcore/virtualcamera/VirtualCameraPreset.java",
+    "bytes": 2411,
+    "sha256": "968c8e6ff39c1138c2fd8c8bbe7fec90d9f07ee2788c194c94a477007ec280b4"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/area-triggers/test/dark_pressure_area.yml",
+    "bytes": 333,
+    "sha256": "303c76cac49a6243629041d82c50c3fe3efc07addc17b2cf2598f745ece06730"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/area-triggers/test/dragon_roar_area.yml",
+    "bytes": 342,
+    "sha256": "468d41818295e2c2971fe1e92a4a8f1fef0745706561fa6294a2f0907b568dbd"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/camera.yml",
+    "bytes": 1317,
+    "sha256": "c689859b7f0bd4e048426a7ce0226bfd31a6b048dd07fc262e25e74f6c917917"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/action_mmo.yml",
+    "bytes": 779,
+    "sha256": "e60bab424c2ff146ee3b5d4f7f3870484a756f47559716bfac2f2dbccc5d4805"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/boss_showcase.yml",
+    "bytes": 759,
+    "sha256": "948a9859c9647173711a8597050ba40dde07ba9d9cea59410f4bc41f293c6227"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/conversation.yml",
+    "bytes": 764,
+    "sha256": "3179d7ac2b5056d50c2990cd56a5ad05fa961503be72efad0814fe798139d445"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/debug_freecam.yml",
+    "bytes": 694,
+    "sha256": "c37811371c653e8bd13bd59cee043e1c5460b6d0c88243853d1efec1580a01f7"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/exploration.yml",
+    "bytes": 1183,
+    "sha256": "c95f21476afc7d77558436089876d8570ab8cf4ae2afccbeef3ed2738a279241"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/fixed_showcase.yml",
+    "bytes": 837,
+    "sha256": "7a1fd38e4e78748e915470c9002969be094239b421c22ced300ec3aa13cd086b"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/life_action.yml",
+    "bytes": 624,
+    "sha256": "02fdc6b99a63b55c6743251e6e799c6c8cf2271db441c3e3ed05204ba85c9e8d"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/camera/presets/overhead.yml",
+    "bytes": 605,
+    "sha256": "c505fb369c477979ad13a3e1a5d5753d5864f916d9dec45d3d24fd8c66af38ea"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/config.yml",
+    "bytes": 41,
+    "sha256": "c3187f78bb045e360914f45f23a48f30486ac3b64b0a8eab9dff05a71ebb2dbf"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effect-sequences/dragon_roar_showcase.yml",
+    "bytes": 379,
+    "sha256": "732d81bf3dc2cea541b514f24a32985233c7a41e41e45e139a51b06a77a4c3ad"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effect-sequences/meteor_impact_sequence.yml",
+    "bytes": 251,
+    "sha256": "858d3aebf76f8b6d282f29898d58a40441104061bd6e30edc5aa519c825181cd"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effect-sequences/volcanic_activity.yml",
+    "bytes": 190,
+    "sha256": "9127438ac213e53e337ed722b2e2a569629a0c41deda9fb9727dc77695a6c1de"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/earthquake/jitter_test.yml",
+    "bytes": 338,
+    "sha256": "2af3e2d9fc979a5c522eb554ba36eb0757a7f3c5586c01177ddb924db1144b4b"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/earthquake/meteor_shockwave.yml",
+    "bytes": 324,
+    "sha256": "2ac0bcb587e90bb9c4f36ad106035326f946f04aa2e90daaccba867437028535"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/earthquake/pulse_test.yml",
+    "bytes": 324,
+    "sha256": "8984747cb6f6a7bd163bdca946dce5201bb19d2b583383a984762a0042a9a10f"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/earthquake/tremor_small.yml",
+    "bytes": 314,
+    "sha256": "9c68135c5c33ea4760ee962fb93726e9bff664628fdb03863942f521065fb927"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/earthquake/volcanic_warning.yml",
+    "bytes": 419,
+    "sha256": "6410a203317486e3665c13c7aee7e8e1f51b352076092edfa9c51513dba71af5"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/blizzard_whiteout.yml",
+    "bytes": 1086,
+    "sha256": "8a8de3bca5d1a660595c31be5e1ddcf149eaf903acabd746a060369a49b79b9c"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/blood_pressure.yml",
+    "bytes": 1082,
+    "sha256": "e5de8072ce39cbe7b6de1ba69ce9fbe5e302f89efc0f7e88c7ba3095f144e3ea"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/dark_pressure.yml",
+    "bytes": 1138,
+    "sha256": "88734d23d831d07ba8c8622a7e82ca429fa452f997c71d949dda50dacc64fbc1"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/dimension_shift.yml",
+    "bytes": 1048,
+    "sha256": "17d3fabcd2ef3379b44fc1caa3e01bb4918a61d28af39d28bff39899531b9e25"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/dragon_roar_distortion.yml",
+    "bytes": 1705,
+    "sha256": "6eb42cb3e626a37578bc354f7a73f3ce7ee34fea7eaf123cb98ecf56c6bcc8fd"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/enrage_aura.yml",
+    "bytes": 1140,
+    "sha256": "252775bee15ed424ce9750da3c2a9c9241bb807e8947eed1c3fe2ac514ce3cca"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/fear_wave.yml",
+    "bytes": 940,
+    "sha256": "bad78423e99550d31038ff963bdde3bf3f6ffad240eaa777bb82cf1f46881e07"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/heat_haze.yml",
+    "bytes": 989,
+    "sha256": "37fb746e8e4422a3a3d25a5a036743f807ed8e3c1a01e2eb62ebf60f90a45156"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/hit_stop_feel.yml",
+    "bytes": 1021,
+    "sha256": "4ae893b6ceed2ce2a8e26a9d4964c76cec5451b5e69ef62eecd4e207afb01158"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/meteor_shockwave_visual.yml",
+    "bytes": 1034,
+    "sha256": "c4f878a02073b05c0d214a36afbabcd124aff578e463d24f247cb1091e9f8532"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/time_distortion.yml",
+    "bytes": 1029,
+    "sha256": "26dafa639e86e6c73255ecd267245e808736ae808d31867c168392b71ca11347"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/underwater_pressure.yml",
+    "bytes": 1120,
+    "sha256": "294b19be37466ebdb7ee47b74d867ef5373ba0bdb526021fb4757edb0b1a25e8"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/void_collapse.yml",
+    "bytes": 1055,
+    "sha256": "5e4d947d24755f543a213eab4cddc6e4dc60dd561ead38e8d6c359c2e275641c"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects/screen/world_event_warning.yml",
+    "bytes": 1071,
+    "sha256": "ba03e5dcdac1e054e940e83389116860747835d9641010a757ef8915d676713f"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/effects.yml",
+    "bytes": 2047,
+    "sha256": "899322fdbaf8c356f2c001eb6b735b68cc607e6844c0390bf25c3d279eb615d4"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/language/en_us.yml",
+    "bytes": 7759,
+    "sha256": "e99811a8a4bd0df1f96aea6575939465384c0d6e9b8e94c0b89bce474105ab4b"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/language/ja_jp.yml",
+    "bytes": 8746,
+    "sha256": "574aeddae4838466c8d746c773f727c9d42b9a690f53857af7ddd6a0a9e7fa26"
+  },
+  {
+    "path": "plugins/EltenaEffectCore/src/main/resources/plugin.yml",
+    "bytes": 2002,
+    "sha256": "52354922083dda6653104de97d8f020b3af8ce0a62fccc6ccdbdc94865a0ae9a"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/build.gradle.kts",
+    "bytes": 1313,
+    "sha256": "2ebb10a57bf105da6a465727bd52de7c9c90ef16188b631c66e19996bcb7048d"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/gradle.properties",
+    "bytes": 76,
+    "sha256": "63c48951eaba3f2777027a122e1ae0f6c091d430da22daacb0779807e6bafa07"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/README.md",
+    "bytes": 217,
+    "sha256": "81c736587d6eb47af74526f0a625b63533b5455ee235f2763ecd9efbe44d69eb"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/settings.gradle.kts",
+    "bytes": 37,
+    "sha256": "f14201135b98207722926725fc5df2ad120794014661b72989db2084b2073d6e"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/api/EltenaSoundApi.java",
+    "bytes": 471,
+    "sha256": "cf7077a051d31ba1eb05bf55dac748fb2708c591880f54a39d0bf1d2ff5abf8f"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/api/EltenaSoundApiService.java",
+    "bytes": 2174,
+    "sha256": "9c752495d892079b5e20cc82677ef38fc6a139e9f2c9ca68f8528076c22d7960"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/audio/OggDurationResolver.java",
+    "bytes": 4139,
+    "sha256": "5c5833ad0101e212621815613176efdfa480f3f04757616bf7e9923dffb4f06b"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/command/EltenaSoundCommand.java",
+    "bytes": 16139,
+    "sha256": "4d3e3c9ea31cf56ad02af230c301bcf8f5d16d0af85172efa8b2ef142892bb24"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/config/LanguageService.java",
+    "bytes": 3229,
+    "sha256": "1d4eb31149f30f15ea69c0596bbc67beb1250bf21b1d8bbb67387f88798759bd"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/config/LiveAssetRegistry.java",
+    "bytes": 15112,
+    "sha256": "98d7bebd2d1e7fd4ea65a7bd5b2156887ec669c4a3810d5ac0d7ec1c9fc85449"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/config/SoundRegistry.java",
+    "bytes": 10899,
+    "sha256": "28788dc48593d48c70eb19fc1a4f10b66c69988353e65e9f2fb7ae10524b5fec"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/config/VanillaMusicControlSettings.java",
+    "bytes": 1384,
+    "sha256": "89b3e34d8105a8bcf70fc14152e51481591813746ea993bd832cb7f8133b591d"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/EltenaSoundCorePlugin.java",
+    "bytes": 9014,
+    "sha256": "8a93da35f13a0428bef982c22c9f776c1b45d9e126d428df0f174b19ebbefc9c"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/listener/LiveAssetRequestListener.java",
+    "bytes": 3644,
+    "sha256": "258a119b7468073d078b97cd21a0f45d1b6f6c671ef3051a15d43cf73e59f58f"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/listener/SoundPlayerSyncListener.java",
+    "bytes": 808,
+    "sha256": "f1328ddcef8b204f8972d1668dc9e8235c2749d645b24ebaf1fa20a132de4235"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/live/LiveAssetDefinition.java",
+    "bytes": 423,
+    "sha256": "b4be02b62da0df2b332afd163f2fcd51b7d654de3ba957fc07a3b237b95e6902"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/live/LiveAssetDispatchResult.java",
+    "bytes": 168,
+    "sha256": "324749bc5371467b830c63676e6d7d28a35b13b69be918318adf3d06c3631848"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/live/LiveAssetType.java",
+    "bytes": 606,
+    "sha256": "11ea70c9e0eb1202c15547d4e87c20a52ca320166ff7579110d0db785323769e"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/playback/LiveAssetPlaybackService.java",
+    "bytes": 9071,
+    "sha256": "7cee9db4362d8e0e8dd6bfcc6e735a89f1951231da61d9f094cbe8a27c87e799"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/playback/PlayResult.java",
+    "bytes": 159,
+    "sha256": "dd84fc30d60b9f2ad034d12a7f0d24e86c1ff767dca4752f3e13aadaa928b531"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/playback/SoundPlaybackService.java",
+    "bytes": 8669,
+    "sha256": "cf2af8599846de65699ea3e72d4bd272c605453faa2cfe23552fdb89d9541bc6"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/playback/StopResult.java",
+    "bytes": 213,
+    "sha256": "758fea5f51a35c68c2a02da596f5ecfc6232366d040606ecb74f4a789e509219"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/ready/SoundClientReadyRegistry.java",
+    "bytes": 1759,
+    "sha256": "b096ce8711838dcaa22341458ac885f3fbf17fe8c5a5e65fc4a1e0c67898b857"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/ready/SoundClientReadyState.java",
+    "bytes": 321,
+    "sha256": "07f431773841296deed5d835c3a8540b15f8c4cd71645d4094cfc5b5ea7ab683"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/sound/SoundCategory.java",
+    "bytes": 605,
+    "sha256": "5265fda9e233ef4c53b893496624f4ad9b22d571ff0b16d5d68334b9b999896c"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/sound/SoundDefinition.java",
+    "bytes": 298,
+    "sha256": "264bfc545b3b104d7754c22a306a52e04bdbceda069c92b31a058615e4563317"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/sound/SoundType.java",
+    "bytes": 531,
+    "sha256": "842eb0161cdc54d2cb9718359d7a1fd4d369b8a150d1b8ccddcde58b71848bbf"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/java/com/eltena/soundcore/transport/SoundPluginMessenger.java",
+    "bytes": 5937,
+    "sha256": "64f2abb2b6850b50c769a6a73d35e7e1e477a32c62f0b97f95a24d3b95347f85"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/config.yml",
+    "bytes": 146,
+    "sha256": "1c0e8e11e0f9f82f9dc2494161d5c4253c7389b1dcfe5ed3e16c3bb6fb4f730c"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/language/en_us.yml",
+    "bytes": 6800,
+    "sha256": "dae0510d0e7265aec3c926297caa97ee6328c750bde227d12063572b8ae24dae"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/language/ja_jp.yml",
+    "bytes": 7793,
+    "sha256": "e06675d87852f9ae03ba5adc177cb715974b31cc0682c7bb5296ac999f7263a6"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/live-assets/files/voice/dragon_roar_live.ogg",
+    "bytes": 58742,
+    "sha256": "7c7a14b155a64fa209a5f37fa9f73932c6059982e987422ab6b41ae72177424b"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/live-assets/voice/dragon_roar_live.yml",
+    "bytes": 203,
+    "sha256": "58479f35307187f26812c9bd2a24a591f3fbdf9edcab6f057e2c6cfc354ca137"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/plugin.yml",
+    "bytes": 1235,
+    "sha256": "38592fb91324bbafe4889d6679b343fb741173ae5f0c55a16ceffa65f61b2042"
+  },
+  {
+    "path": "plugins/EltenaSoundCore/src/main/resources/sounds/se/dragon_roar.yml",
+    "bytes": 175,
+    "sha256": "f750c816d028dd680eda40216045e13f74b930d5ae8f4fc1a6bc5ca2caa97b6c"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3316,
+    "sha256": "0538e8de38643bc5eca1842d986c271b176888741dbe27394e35125ee17c1c42"
+  },
+  {
+    "path": "scripts/check_publication.py",
+    "bytes": 4231,
+    "sha256": "c206d363a66a7e865b031925fc23771ca4b26820d05925e1f317157ef2efc11e"
+  },
+  {
+    "path": "THIRD_PARTY/ModernFontPack/MIT-pack.txt",
+    "bytes": 1072,
+    "sha256": "b47baddb4bd39d2b76de2557378278a176e2d13a82402936c4489aaa4ed867db"
+  },
+  {
+    "path": "THIRD_PARTY/ModernFontPack/NOTICE.md",
+    "bytes": 1267,
+    "sha256": "65cccfee44f489ff0c1a6a77ef3ea5af8dfff3251ef367fda072ace00422f3de"
+  },
+  {
+    "path": "THIRD_PARTY/ModernFontPack/OFL.txt",
+    "bytes": 4444,
+    "sha256": "857c9cfe99da9b1cb313234885d0909f4d36545410bb6e6d6b944340d1331d91"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2356,
+    "sha256": "968e464a3a4e802dbf519225a14d07d6362f08091f67844c9437a108979b3711"
+  }
+]

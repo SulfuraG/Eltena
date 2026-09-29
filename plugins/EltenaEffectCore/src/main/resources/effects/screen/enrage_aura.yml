@@ -1,0 +1,58 @@
+id: enrage_aura
+type: screen_effect
+display-name: "怒りの威圧演出"
+visual-pattern: ENRAGE_AURA
+duration-ms: 5000
+strength: 1.1
+fade-in-ms: 250
+fade-out-ms: 1300
+color:
+  r: 0.82
+  g: 0.12
+  b: 0.08
+  a: 0.20
+shader:
+  enabled: true
+  layers:
+    - type: PRESSURE_DISTORTION
+      strength: 0.48
+      frequency: 6.2
+      speed: 1.15
+      wobble: 0.32
+      refraction-strength: 0.44
+      start-progress: 0.0
+      end-progress: 0.95
+      curve: ease_in_out
+    - type: COLOR_GRADE
+      strength: 0.2
+      color:
+        r: 0.9
+        g: 0.16
+        b: 0.12
+        a: 0.46
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: NOISE_FOG
+      strength: 0.2
+      noise-strength: 0.26
+      frequency: 5.4
+      speed: 0.8
+      pulse: 0.9
+      color:
+        r: 0.92
+        g: 0.18
+        b: 0.14
+        a: 0.28
+      start-progress: 0.05
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: MOTION_BLUR_FAKE
+      strength: 0.2
+      samples: 6
+      radius: 0.18
+      direction: outward
+      smear: 0.3
+      start-progress: 0.12
+      end-progress: 0.6
+      curve: ease_out

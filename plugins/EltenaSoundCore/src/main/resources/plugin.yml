@@ -1,0 +1,38 @@
+name: EltenaSoundCore
+version: ${version}
+main: com.eltena.soundcore.EltenaSoundCorePlugin
+description: Dedicated sound orchestration plugin for New Eltena S Test.
+author: Eltena contributors
+api-version: '1.21'
+load: POSTWORLD
+prefix: EltenaSoundCore
+commands:
+  eltenasound:
+    description: Plays and reloads Eltena sound definitions.
+    usage: /eltenasound <reload|play|stop|live>
+    permission: eltenasound.command.use
+permissions:
+  eltenasound.admin:
+    description: Grants all EltenaSoundCore commands.
+    default: op
+    children:
+      eltenasound.command.use: true
+      eltenasound.command.reload: true
+      eltenasound.command.play: true
+      eltenasound.command.stop: true
+      eltenasound.command.live: true
+  eltenasound.command.use:
+    description: Allows access to EltenaSoundCore commands.
+    default: op
+  eltenasound.command.reload:
+    description: Allows reloading EltenaSoundCore definitions.
+    default: op
+  eltenasound.command.play:
+    description: Allows playing Eltena sound definitions.
+    default: op
+  eltenasound.command.stop:
+    description: Allows stopping Eltena sound categories.
+    default: op
+  eltenasound.command.live:
+    description: Allows live asset commands.
+    default: op

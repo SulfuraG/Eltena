@@ -1,0 +1,113 @@
+plugin:
+  enabled: "EltenaCore を有効化しました。"
+  disabled: "EltenaCore を無効化しました。"
+  listeners-registered: "EltenaCore のリスナー登録が完了しました。"
+
+placeholder:
+  skipped: "PlaceholderAPI が見つからないため登録をスキップしました。"
+  registered: "PlaceholderAPI 連携を登録しました。"
+  unregistered: "PlaceholderAPI 連携を解除しました。"
+
+settings:
+  title: "&8Eltena 設定"
+  status-label: "状態"
+  click-toggle: "クリックで切り替え"
+  toggle: "&e{name}&7 を &f{value}&7 に切り替えました。"
+  status:
+    enabled: "有効"
+    disabled: "無効"
+  option:
+    floating-damage: "フローティング表示"
+    floating-damage-desc: "与えたダメージを頭上に表示します。"
+    chat-damage: "戦闘ログ表示"
+    chat-damage-desc: "対象名と残り HP をチャットに表示します。"
+    exp-chat: "EXP 通知"
+    exp-chat-desc: "獲得した EXP をチャットに表示します。"
+    dps-chat: "DPS 通知"
+    dps-chat-desc: "一定時間の合計ダメージと DPS を表示します。"
+
+combat:
+  floating-damage:
+    enabled-default: false
+    color: "&c"
+    format: "{color}{damage}"
+    random-offset:
+      radius-multiplier-min: 0.2
+      radius-multiplier-max: 0.45
+      radius-extra-min: 0.05
+      radius-extra-max: 0.20
+      x-min: -0.45
+      x-max: 0.45
+      z-min: -0.45
+      z-max: 0.45
+      y-ratio-min: 0.65
+      y-ratio-max: 1.05
+      y-min: 0.65
+      y-max: 1.05
+  chat-damage:
+    format: "&7[Lv.{level}] &f{mob} &7HP {current_hp}/{max_hp} &c-{damage}"
+    number-format: "integer"
+    unknown-level: "?"
+
+growth:
+  exp:
+    invalid-amount: "EXP は 1 以上で指定してください。"
+    added: "&a+{amount} EXP"
+    kill-gained: "&a+{amount} EXP"
+    kill-gained-named: "&a+{amount} EXP &f{target}"
+  level:
+    up: "&6レベル &e{level} &6に到達しました。"
+    reward-summary: "&7{summary}"
+    reward:
+      hp: "HP +{value}"
+      max-mp: "最大MP +{value}"
+  ability:
+    unlocked: "{ability} を解放しました。"
+  skill:
+    available: "{skill} は Lv{level} で解放できます。"
+    learn-in-tree: "スキルツリーから取得してください。"
+  mastery:
+    invalid-amount: "熟練度の値が不正です。"
+  stat:
+    invalid-amount: "能力値の値が不正です。"
+    legacy-disabled: "旧来の能力値操作は使用できません。"
+  type:
+    attack: "攻撃"
+    defense: "防御"
+    mp: "MP"
+
+command:
+  weapon-type:
+    sword: "剣"
+    greatsword: "大剣"
+    axe: "斧"
+    spear: "槍"
+    bow: "弓"
+    staff: "杖"
+    dagger: "短剣"
+    fist: "格闘"
+    other: "その他"
+
+title-loader:
+  warning:
+    empty-definitions: "titles.yml に定義がありません。既定の称号を使用します。"
+    missing-none: "titles.yml に none が無いため既定の称号を追加します。"
+    no-section: "titles.yml に titles セクションがありません。"
+    missing-display-name: "titles.yml の {id} に display-name が無いため ID を表示名として使用します。"
+    missing-description: "titles.yml の {id} に description が無いため既定文を使用します。"
+    invalid-category: "titles.yml の {id} に無効な category が設定されています: {value}"
+    load-failed: "titles.yml の読み込みに失敗しました: {message}"
+    duplicate-id: "titles.yml で重複した ID が見つかりました: {id}"
+    duplicate-check-failed: "titles.yml の重複確認に失敗しました: {message}"
+  default:
+    description: "説明未設定"
+  fallback:
+    none:
+      name: "なし"
+      description: "称号なし"
+    first-step:
+      name: "はじめの一歩"
+      description: "Eltena で最初の一歩を踏み出した証。"
+    explorer:
+      name: "探求者"
+      description: "未踏の地を進み続ける証。"

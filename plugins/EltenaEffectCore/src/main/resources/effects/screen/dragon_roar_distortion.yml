@@ -1,0 +1,64 @@
+id: dragon_roar_distortion
+type: screen_effect
+display-name: "ドラゴン咆哮歪み"
+visual-pattern: ROAR_DISTORTION
+# duration-ms: fallback duration when sequence sync is not used
+duration-ms: 3436
+# strength: whole effect multiplier
+strength: 1.8
+fade-in-ms: 10
+# fade-out-ms: natural late recovery near audio end
+fade-out-ms: 1200
+color:
+  r: 0.75
+  g: 0.9
+  b: 1.0
+  a: 0.06
+shader:
+  enabled: true
+  # layers: applied from top to bottom
+  # start-progress / end-progress: 0.0 to 1.0 progress window
+  # curve: linear / ease_in / ease_out / ease_in_out
+  layers:
+    # SONIC_PRESSURE_BURST: initial sharp sonic slash
+    - type: SONIC_PRESSURE_BURST
+      strength: 2.8
+      count: 48
+      length: 1.0
+      sharpness: 30.0
+      center-bias: 0.12
+      edge-bias: 1.45
+      chromatic-offset: 0.006
+      start-progress: 0.0
+      end-progress: 0.16
+      curve: ease_out
+    # RADIAL_BLUR: sustained roar defocus
+    - type: RADIAL_BLUR
+      strength: 1.25
+      samples: 14
+      radius: 0.82
+      start-progress: 0.0
+      end-progress: 0.58
+      curve: ease_out
+    # PRESSURE_DISTORTION: long air-pressure body during the roar
+    - type: PRESSURE_DISTORTION
+      strength: 0.72
+      frequency: 14.0
+      speed: 2.4
+      start-progress: 0.08
+      end-progress: 0.88
+      curve: ease_out
+    # CHROMATIC_ABERRATION: keep this subtle
+    - type: CHROMATIC_ABERRATION
+      strength: 0.005
+      edge-only: true
+      start-progress: 0.0
+      end-progress: 0.45
+      curve: ease_out
+    # MOTION_BLUR: residual smear until the voice ends
+    - type: MOTION_BLUR
+      strength: 0.32
+      direction: outward
+      start-progress: 0.08
+      end-progress: 0.95
+      curve: ease_out

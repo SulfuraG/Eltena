@@ -1,0 +1,10 @@
+id: volcanic_activity
+display-name: "火山活動"
+
+steps:
+  - effect: tremor_small
+    delay-ms: 0
+  - effect: volcanic_warning
+    delay-ms: 5000
+  - effect: pulse_test
+    delay-ms: 9000

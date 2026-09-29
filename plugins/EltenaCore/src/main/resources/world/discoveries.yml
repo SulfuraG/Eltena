@@ -1,0 +1,5 @@
+enabled: true
+load-folder: world/discoveries
+legacy-enabled: true
+defaults: {}
+discoveries: {}

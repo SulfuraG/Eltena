@@ -1,0 +1,16 @@
+id: diva_lovesong
+display-name: "ディーヴァ・ラブソング"
+description:
+  - "自身と周囲の味方を優しく支援します。"
+category: "utility"
+icon: "minecraft:music_disc_13"
+cooldown: 30
+cost:
+  mp: 20
+weapon-types:
+  - any
+requires:
+  skills: []
+executor:
+  type: "mythicmobs"
+  skill: "Diva_LoveSong"

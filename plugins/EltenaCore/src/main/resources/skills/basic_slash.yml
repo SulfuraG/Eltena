@@ -1,0 +1,16 @@
+id: basic_slash
+display-name: "基礎斬撃"
+description:
+  - "剣を扱うための基本技術。"
+  - "攻撃系スキルの起点になる。"
+category: "sword"
+icon: "minecraft:iron_sword"
+max-rank: 1
+required-points: 1
+position:
+  x: 120
+  y: 160
+effects:
+  attack-damage:
+    type: "percent"
+    value: 3

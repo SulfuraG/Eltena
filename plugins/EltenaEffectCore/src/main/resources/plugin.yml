@@ -1,0 +1,56 @@
+name: EltenaEffectCore
+version: ${version}
+main: com.eltena.effectcore.EltenaEffectCorePlugin
+description: Dedicated effect orchestration plugin for New Eltena S Test.
+author: Eltena contributors
+api-version: '1.21'
+load: POSTWORLD
+prefix: EltenaEffectCore
+softdepend:
+  - EltenaSoundCore
+commands:
+  eltenaeffect:
+    description: Plays and reloads Eltena effect definitions.
+    usage: /eltenaeffect <help|reload|camera|play|sequence|mm|mm-caster-play|mm-caster-sequence|trigger>
+    permission: eltenaeffect.command.use
+permissions:
+  eltenaeffect.admin:
+    description: Grants all EltenaEffectCore commands.
+    default: op
+    children:
+      eltenaeffect.command.use: true
+      eltenaeffect.command.reload: true
+      eltenaeffect.command.camera: true
+      eltenaeffect.command.play: true
+      eltenaeffect.command.sequence: true
+      eltenaeffect.command.mm: true
+      eltenaeffect.command.mmcaster: true
+      eltenaeffect.command.trigger: true
+      eltenaeffect.trigger.bypass: true
+  eltenaeffect.command.use:
+    description: Allows access to EltenaEffectCore commands.
+    default: op
+  eltenaeffect.command.reload:
+    description: Allows reloading EltenaEffectCore definitions.
+    default: op
+  eltenaeffect.command.camera:
+    description: Allows VirtualCamera preset and sync commands.
+    default: op
+  eltenaeffect.command.play:
+    description: Allows playing Eltena effect definitions.
+    default: op
+  eltenaeffect.command.sequence:
+    description: Allows playing Eltena effect sequences.
+    default: op
+  eltenaeffect.command.mm:
+    description: Allows MythicMobs-friendly Eltena effect playback commands.
+    default: op
+  eltenaeffect.command.mmcaster:
+    description: Allows MythicMobs caster UUID based Eltena effect playback commands.
+    default: op
+  eltenaeffect.command.trigger:
+    description: Allows Eltena effect area trigger commands.
+    default: op
+  eltenaeffect.trigger.bypass:
+    description: Bypasses Eltena effect area triggers.
+    default: op

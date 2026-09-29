@@ -1,0 +1,20 @@
+id: blade_focus
+display-name: "刃集中"
+description:
+  - "剣技への集中を高め、次の技へ繋げる。"
+category: "sword"
+icon: "minecraft:nether_star"
+max-rank: 2
+required-points: 3
+position:
+  x: 640
+  y: 340
+requires:
+  all:
+    - quick_step
+  ranks:
+    quick_step: 1
+effects:
+  attack-damage:
+    type: "flat"
+    value-per-rank: 1

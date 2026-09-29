@@ -1,0 +1,23 @@
+title-loader:
+  warning:
+    empty-definitions: "titles.yml に定義がありません。既定の称号を使用します。"
+    missing-none: "titles.yml に none が無いため既定の称号を追加します。"
+    no-section: "titles.yml に titles セクションがありません。"
+    missing-display-name: "titles.yml の {id} に display-name が無いため ID を表示名として使用します。"
+    missing-description: "titles.yml の {id} に description が無いため既定文を使用します。"
+    invalid-category: "titles.yml の {id} に無効な category が設定されています: {value}"
+    load-failed: "titles.yml の読み込みに失敗しました: {message}"
+    duplicate-id: "titles.yml で重複した ID が見つかりました: {id}"
+    duplicate-check-failed: "titles.yml の重複確認に失敗しました: {message}"
+  default:
+    description: "説明未設定"
+  fallback:
+    none:
+      name: "なし"
+      description: "称号なし"
+    first-step:
+      name: "はじめの一歩"
+      description: "Eltena で最初の一歩を踏み出した証。"
+    explorer:
+      name: "探求者"
+      description: "未踏の地を進み続ける証。"

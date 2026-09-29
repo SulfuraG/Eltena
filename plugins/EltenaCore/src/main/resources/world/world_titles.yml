@@ -1,0 +1,5 @@
+enabled: true
+load-folder: world/world_titles
+legacy-enabled: true
+defaults: {}
+world-first: {}

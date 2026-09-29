@@ -1,0 +1,10 @@
+{
+  "log.eltenaeffect.transport": "Received EltenaEffect payload. transportBytes=%s jsonBytes=%s",
+  "log.eltenaeffect.received": "Received earthquake payload: %s",
+  "log.eltenaeffect.decode_error": "Failed to decode EltenaEffect payload: %s",
+  "log.eltenaeffect.unknown_type": "Received unsupported effect type: %s",
+  "log.eltenaeffect.skip_no_player": "Discarded the effect because the local player is not ready yet.",
+  "log.eltenaeffect.skip_out_of_range": "Discarded the earthquake because the player is outside the radius: %s",
+  "log.eltenaeffect.world_hint": "Received world=%s currentDimension=%s",
+  "log.eltenaeffect.started": "Started earthquake effect: %s"
+}

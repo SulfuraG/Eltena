@@ -1,0 +1,57 @@
+id: dark_pressure
+type: screen_effect
+display-name: "闇圧迫演出"
+visual-pattern: DARK_PRESSURE
+duration-ms: 5000
+strength: 1.0
+fade-in-ms: 600
+fade-out-ms: 1600
+color:
+  r: 0.12
+  g: 0.08
+  b: 0.16
+  a: 0.20
+shader:
+  enabled: true
+  layers:
+    - type: PRESSURE_DISTORTION
+      strength: 0.48
+      frequency: 3.2
+      speed: 0.55
+      wobble: 0.4
+      refraction-strength: 0.5
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: DARK_VIGNETTE_SOFT
+      strength: 0.62
+      pulse: 0.25
+      color:
+        r: 0.12
+        g: 0.08
+        b: 0.18
+        a: 0.28
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in
+    - type: NOISE_FOG
+      strength: 0.26
+      noise-strength: 0.22
+      frequency: 2.2
+      speed: 0.4
+      color:
+        r: 0.14
+        g: 0.12
+        b: 0.18
+        a: 0.22
+      start-progress: 0.08
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: SCREEN_SHAKE_WARP
+      strength: 0.18
+      wobble: 0.28
+      speed: 0.45
+      direction: diagonal_left
+      start-progress: 0.18
+      end-progress: 0.92
+      curve: ease_in_out

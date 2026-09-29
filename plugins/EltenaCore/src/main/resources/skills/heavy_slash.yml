@@ -1,0 +1,20 @@
+id: heavy_slash
+display-name: "強斬撃"
+description:
+  - "踏み込みの深い重い一撃。"
+category: "sword"
+icon: "minecraft:diamond_sword"
+max-rank: 3
+required-points: 3
+position:
+  x: 640
+  y: 160
+requires:
+  all:
+    - basic_slash
+  ranks:
+    basic_slash: 1
+effects:
+  attack-damage:
+    type: "percent"
+    value-per-rank: 2

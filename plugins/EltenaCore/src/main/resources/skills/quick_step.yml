@@ -1,0 +1,18 @@
+id: quick_step
+display-name: "クイックステップ"
+description:
+  - "短歩で位置を取り直す移動支援技術。"
+category: "sword"
+icon: "minecraft:feather"
+required-level: 2
+max-rank: 1
+required-points: 2
+position:
+  x: 380
+  y: 260
+unlocks-ability:
+  - quick_step
+effects:
+  movement-speed:
+    type: "percent"
+    value: 5

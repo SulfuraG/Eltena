@@ -1,0 +1,22 @@
+{
+  "vertex": "eltenaeffect:roar_distortion_blur",
+  "fragment": "eltenaeffect:roar_distortion_blur",
+  "samplers": [
+    { "name": "DiffuseSampler" }
+  ],
+  "uniforms": [
+    { "name": "LayerType", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "Strength", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "BlurRadius", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Progress", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "FocusLoss", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "PressurePeak", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "Aftershock", "type": "float", "count": 1, "values": [ 0.0 ] },
+    { "name": "SampleCount", "type": "int", "count": 1, "values": [ 8 ] },
+    { "name": "Frequency", "type": "float", "count": 1, "values": [ 8.0 ] },
+    { "name": "Speed", "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "EdgeOnly", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "DirectionMode", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "Time", "type": "float", "count": 1, "values": [ 0.0 ] }
+  ]
+}

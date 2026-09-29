@@ -1,0 +1,7 @@
+default-language: ja_jp
+debug-log: false
+vanilla-music-control:
+  enabled: true
+  mode: ALWAYS_SUPPRESS
+  stop-on-join: true
+  interval-ticks: 20

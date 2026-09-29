@@ -1,0 +1,50 @@
+id: meteor_shockwave_visual
+type: screen_effect
+display-name: "隕石衝撃波視覚演出"
+visual-pattern: SHOCKWAVE_RING
+duration-ms: 1800
+strength: 1.8
+fade-in-ms: 40
+fade-out-ms: 1300
+color:
+  r: 0.85
+  g: 0.95
+  b: 1.0
+  a: 0.24
+shader:
+  enabled: true
+  layers:
+    - type: SHOCKWAVE_REFRACTION
+      strength: 1.15
+      samples: 6
+      radius: 0.55
+      frequency: 9.0
+      speed: 1.6
+      refraction-strength: 0.9
+      start-progress: 0.0
+      end-progress: 0.55
+      curve: ease_out
+    - type: RADIAL_BLUR
+      strength: 0.95
+      samples: 8
+      radius: 0.55
+      blur-scale: 1.2
+      start-progress: 0.0
+      end-progress: 0.4
+      curve: ease_out
+    - type: MOTION_BLUR
+      strength: 0.48
+      samples: 6
+      radius: 0.35
+      direction: outward
+      smear: 0.18
+      start-progress: 0.05
+      end-progress: 0.38
+      curve: ease_out
+    - type: SCREEN_SHAKE_WARP
+      strength: 0.3
+      wobble: 0.6
+      speed: 1.4
+      start-progress: 0.02
+      end-progress: 0.6
+      curve: ease_in_out

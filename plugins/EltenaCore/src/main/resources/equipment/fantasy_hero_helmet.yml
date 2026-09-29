@@ -1,0 +1,6 @@
+id: fantasy_hero_helmet
+match:
+  item-id: "fantasy_armor:hero_helmet"
+stats:
+  defense: 5
+  vitality: 3

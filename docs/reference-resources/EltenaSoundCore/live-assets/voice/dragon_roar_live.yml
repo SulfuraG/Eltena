@@ -1,0 +1,10 @@
+id: dragon_roar_live
+type: voice
+display-name: "ドラゴン咆哮ライブ音声"
+file: "files/voice/dragon_roar_live.ogg"
+version: 1
+sha256: ""
+category: VOICE
+volume: 1.0
+pitch: 1.0
+duration-ms: 3436

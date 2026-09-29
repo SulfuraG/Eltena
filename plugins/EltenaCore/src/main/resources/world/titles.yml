@@ -1,0 +1,5 @@
+enabled: true
+load-folder: world/titles
+legacy-enabled: true
+defaults: {}
+titles: {}

@@ -1,0 +1,52 @@
+id: hit_stop_feel
+type: screen_effect
+display-name: "ヒットストップ風視覚演出"
+visual-pattern: HIT_STOP_FEEL
+duration-ms: 450
+strength: 1.0
+fade-in-ms: 20
+fade-out-ms: 260
+color:
+  r: 1.0
+  g: 1.0
+  b: 1.0
+  a: 0.18
+shader:
+  enabled: true
+  layers:
+    - type: RADIAL_BLUR
+      strength: 1.15
+      samples: 8
+      radius: 0.45
+      blur-scale: 1.05
+      start-progress: 0.0
+      end-progress: 0.35
+      curve: ease_out
+    - type: MOTION_BLUR
+      strength: 0.75
+      samples: 5
+      radius: 0.28
+      direction: outward
+      smear: 0.35
+      start-progress: 0.0
+      end-progress: 0.22
+      curve: ease_out
+    - type: WHITEOUT
+      strength: 0.32
+      samples: 6
+      blur-scale: 0.7
+      color:
+        r: 1.0
+        g: 1.0
+        b: 1.0
+        a: 0.12
+      start-progress: 0.0
+      end-progress: 0.18
+      curve: ease_out
+    - type: GHOSTING
+      strength: 0.22
+      direction: outward
+      smear: 0.2
+      start-progress: 0.08
+      end-progress: 0.4
+      curve: ease_out

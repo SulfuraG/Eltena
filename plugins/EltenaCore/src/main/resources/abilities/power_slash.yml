@@ -1,0 +1,20 @@
+id: power_slash
+display-name: "パワースラッシュ"
+description:
+  - "重い一撃で対象を強く斬りつけます。"
+category: "attack"
+icon: "minecraft:diamond_sword"
+cooldown: 6
+cost:
+  mp: 8
+weapon-types:
+  - sword
+  - greatsword
+requires:
+  skills:
+    - heavy_slash
+effects:
+  damage-multiplier: 1.25
+executor:
+  type: "mythicmobs"
+  skill: "Eltena_PowerSlash"

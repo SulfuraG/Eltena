@@ -1,0 +1,20 @@
+combat:
+  chat-damage:
+    format: "&c(➜) &e[Lv.{level}] &f{mob} &a{current_hp} &f/ &a{max_hp} &7- &b{damage} &eダメージ" # 使用可能: {level} {mob} {current_hp} {max_hp} {damage}
+    unknown-level: "?" # レベルを取得できない時の表示です。
+    number-format: "integer" # 現在は integer のみ想定です。
+  floating-damage:
+    enabled-default: false # /ec settings の初期値です。
+    color: "&c" # 使用可能: {color}
+    format: "{color}-{damage}" # 使用可能: {color} {damage}
+    random-offset:
+      y-ratio-min: 0.65 # MOB 身長の 65% 地点以上から表示します。
+      y-ratio-max: 1.05 # 1.0 超えで少し頭上側にも出せます。
+      radius-multiplier-min: 0.65 # MOB の横幅に対する最小半径倍率です。
+      radius-multiplier-max: 1.10 # MOB の外側へ散らす最大半径倍率です。
+      radius-extra-min: 0.15 # 小型 MOB でも体内に埋まりにくくする追加距離です。
+      radius-extra-max: 0.45
+      x-min: -0.45 # 半径設定が無い古い config のみで使う後方互換値です。
+      x-max: 0.45
+      z-min: -0.45
+      z-max: 0.45

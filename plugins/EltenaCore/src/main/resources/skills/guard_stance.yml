@@ -1,0 +1,18 @@
+id: guard_stance
+display-name: "防御構え"
+description:
+  - "被ダメージを抑えつつ反撃へ繋げる守りの基礎。"
+category: "sword"
+icon: "minecraft:shield"
+max-rank: 1
+required-points: 2
+position:
+  x: 380
+  y: 80
+requires:
+  all:
+    - basic_slash
+effects:
+  defense:
+    type: "percent"
+    value: 5

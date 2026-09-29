@@ -1,0 +1,85 @@
+# EltenaCore current runtime settings
+progression:
+  level:
+    default-mob-exp: 1
+
+integrations:
+  placeholderapi:
+    enabled: true
+
+logging:
+  debug: false
+  sync-debug: false
+  payload-debug: false
+  render-debug: false
+  profile-debug: false
+
+combat:
+  debug: false
+  mmoitems-debug:
+    enabled: false
+    definition-lookup: false
+    definition-stats: false
+
+mana:
+  regeneration:
+    enabled: true
+    interval-ticks: 100
+    amount: 1
+    debug: false
+
+player-options:
+  defaults:
+    floating-damage: false
+    chat-damage: false
+    exp-chat: true
+    dps-chat: false
+  dps:
+    window-seconds: 5
+
+server-rules:
+  mob-exp-orbs:
+    enabled: true
+    suppress-orb-spawns: true
+  hunger-lock:
+    enabled: true
+    refill-on-join: true
+    refill-on-respawn: true
+    food-level: 20
+    saturation: 20.0
+  natural-spawns:
+    enabled: true
+
+exp:
+  kill:
+    enabled: true
+    default: 1
+    vanilla:
+      default: 1
+      by-entity-type:
+        ZOMBIE: 1
+        SKELETON: 1
+        VEX: 1
+    mythic-mobs:
+      enabled: true
+      default: 1
+      fallback: 1
+      use-options-experience: true
+      zero-experience-means-zero: true
+      by-internal-name: {}
+
+mod-integration:
+  enabled: true
+  require-client-mod: false
+  sync-debug: false
+  protocol-version: 1
+  allow-ui-sync: true
+  allow-skill-sync: true
+
+growth:
+  debug-events: false
+
+verification:
+  startup-self-test:
+    enabled: false
+    target-player-name: EltenaCoreTest

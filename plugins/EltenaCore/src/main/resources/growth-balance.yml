@@ -1,0 +1,28 @@
+progression:
+  base-player-stats:
+    hp: 20.0
+    mp: 10
+    max-mp: 20.0
+    attack: 5
+    defense: 5
+
+  level:
+    cap: 1500
+    restore-mp-on-level-up: true
+    curve-file: Rebellious_Fallen_Angel_levels.txt
+    sound:
+      enabled: true
+      name: ENTITY_PLAYER_LEVELUP
+      volume: 1.0
+      pitch: 1.0
+    hp:
+      mode: percent
+      percent-per-level: 3.0
+      decimals: 2
+    mp:
+      mode: percent
+      percent-per-level: 3.0
+      decimals: 2
+
+abilities:
+  unlock-by-level: {}

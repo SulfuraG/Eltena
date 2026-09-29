@@ -1,0 +1,21 @@
+id: storm_blade
+display-name: "旋風剣"
+description:
+  - "移動と斬撃を一体化させた中級技。"
+category: "sword"
+icon: "minecraft:wind_charge"
+max-rank: 1
+required-points: 5
+position:
+  x: 1160
+  y: 340
+requires:
+  all:
+    - blade_focus
+  ranks:
+    blade_focus: 2
+unlocks-ability:
+  - whirlwind_blade
+effects:
+  unlock-ability:
+    ability-id: "whirlwind_blade"

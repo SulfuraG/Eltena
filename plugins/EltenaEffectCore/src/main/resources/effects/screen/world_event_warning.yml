@@ -1,0 +1,53 @@
+id: world_event_warning
+type: screen_effect
+display-name: "ワールドイベント警戒演出"
+visual-pattern: WORLD_EVENT_WARNING
+duration-ms: 7000
+strength: 0.8
+fade-in-ms: 1000
+fade-out-ms: 2000
+color:
+  r: 0.55
+  g: 0.62
+  b: 0.68
+  a: 0.12
+shader:
+  enabled: true
+  layers:
+    - type: DESATURATION
+      strength: 0.22
+      desaturation: 0.28
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: NOISE_FOG
+      strength: 0.14
+      noise-strength: 0.18
+      frequency: 2.6
+      speed: 0.35
+      color:
+        r: 0.66
+        g: 0.70
+        b: 0.74
+        a: 0.2
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: PRESSURE_DISTORTION
+      strength: 0.12
+      frequency: 2.0
+      speed: 0.25
+      wobble: 0.12
+      start-progress: 0.12
+      end-progress: 1.0
+      curve: ease_in_out
+    - type: COLOR_GRADE
+      strength: 0.12
+      color:
+        r: 0.62
+        g: 0.68
+        b: 0.74
+        a: 0.25
+      start-progress: 0.0
+      end-progress: 1.0
+      curve: ease_in_out

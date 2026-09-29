@@ -1,0 +1,16 @@
+id: jitter_test
+type: earthquake
+display-name: "\u30ac\u30bf\u30ac\u30bf\u63fa\u308c\u30c6\u30b9\u30c8"
+shake-pattern: JITTER
+scope: WORLD_RADIUS
+radius: 300
+base-power: 0.7
+wave-speed: 180
+duration-ms: 3000
+rise-ms: 100
+fall-ms: 2200
+near-instant-radius: 80
+distance-delay: true
+distance-falloff:
+  type: LINEAR
+  minimum-strength: 0.05
